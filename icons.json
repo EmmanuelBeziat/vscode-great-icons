@@ -54,6 +54,9 @@
         "_f_c": {
             "iconPath": "./icons/c.png"
         },
+        "_f_codekit": {
+            "iconPath": "./icons/codekit.png"
+        },
         "_f_coffeescript": {
             "iconPath": "./icons/coffeescript.png"
         },
@@ -281,6 +284,7 @@
         "exe": "_f_exe",
         "bowerrc": "_f_bower",
         "c": "_f_c",
+        "kit": "_f_codekit",
         "cc": "_f_cpp",
         "cpp": "_f_cpp",
         "hpp": "_f_cpp",
