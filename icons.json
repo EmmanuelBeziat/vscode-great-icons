@@ -30,6 +30,9 @@
         "_f_actionscript": {
             "iconPath": "./icons/actionscript.png"
         },
+        "_f_android": {
+            "iconPath": "./icons/android.png"
+        },
         "_f_angular": {
             "iconPath": "./icons/angular.png"
         },
@@ -74,6 +77,9 @@
         },
         "_f_erlang": {
             "iconPath": "./icons/erlang.png"
+        },
+        "_f_eslint": {
+            "iconPath": "./icons/eslint.png"
         },
         "_f_exe": {
             "iconPath": "./icons/exe.png"
@@ -280,16 +286,13 @@
         "hpp": "_f_cpp",
         "cxx": "_f_cpp",
         "coffee": "_f_coffeescript",
-        "env": "_f_settings",
-        "ini": "_f_settings",
-        "makefile": "_f_settings",
-        "config": "_f_settings",
         "css": "_f_css",
         "dockerfile": "_f_docker",
-        "editorconfig": "_f_settings",
+        "dockerignore": "_f_docker",
         "ex": "_f_elixir",
         "exs": "_f_elixir",
         "eex": "_f_elixir",
+        "eslintignore": "_f_eslint",
         "erl": "_f_erlang",
         "hrl": "_f_erlang",
         "emakefile": "_f_erlang",
@@ -331,6 +334,11 @@
         "java": "_f_java",
         "jar": "_f_java",
         "js": "_f_javascript",
+        "key": "_f_key",
+        "pub": "_f_key",
+        "pem": "_f_key",
+        "asc": "_f_key",
+        "ppk": "_f_key",
         "less": "_f_less",
         "md": "_f_markdown",
         "markdown": "_f_markdown",
@@ -350,6 +358,7 @@
         "tikz": "_f_matlab",
         "xvc": "_f_matlab",
         "mst": "_f_mustache",
+        "nconf": "_f_nginx",
         "json": "_f_node",
         "webmanifest": "_f_node",
         "ml": "_f_ocaml",
@@ -381,6 +390,11 @@
         "scala": "_f_scala",
         "sass": "_f_sass",
         "scss": "_f_sass",
+        "env": "_f_settings",
+        "ini": "_f_settings",
+        "makefile": "_f_settings",
+        "config": "_f_settings",
+        "editorconfig": "_f_settings",
         "bat": "_f_shell",
         "sh": "_f_shell",
         "cmd": "_f_shell",
@@ -399,6 +413,7 @@
         "textile": "_f_textile",
         "todo": "_f_todo",
         "twig": "_f_twig",
+        "ts": "_f_typescript",
         "vue": "_f_vue",
         "vscodeignore": "_f_visualstudio",
         "xml": "_f_source",
@@ -418,9 +433,11 @@
         "blade.php": "_f_blade"
     },
     "fileNames": {
+        "androidmanifest.xml": "_f_android",
         "bower.json": "_f_bower",
         "makefile": "_f_settings",
         "docker-compose.yml": "_f_docker",
+        "eslintrc.js": "_f_eslint",
         "gruntfile.js": "_f_grunt",
         "gulpfile.js": "_f_gulp",
         "license": "_f_key",
@@ -433,7 +450,16 @@
         "launch.json": "_f_visualstudio",
         "tasks.json": "_f_visualstudio",
         "jsconfig.json": "_f_visualstudio",
-        "tsconfig.json": "_f_visualstudio"
+        "tsconfig.json": "_f_visualstudio",
+        "webpack.js": "_f_webpack",
+        "webpack.config.js": "_f_webpack",
+        "webpack.dev.js": "_f_webpack",
+        "webpack.prod.js": "_f_webpack",
+        "webpack.common.js": "_f_webpack",
+        "webpack.conf.js": "_f_webpack",
+        "webpack.base.conf.js": "_f_webpack",
+        "webpack.dev.conf.js": "_f_webpack",
+        "webpack.prod.conf.js": "_f_webpack",
     },
     "languageIds": {}
 }
