@@ -31,8 +31,18 @@
     "file": "_file",
     "folder": "_folder",
     "folderExpanded": "_folder_open",
-    "folderNames": {},
-    "folderNamesExpanded": {},
+    "folderNames": {
+        "bower_components": "_fd_bower",
+        "node_modules": "_fd_node",
+        ".git": "_fd_git",
+        ".github": "_fd_git"
+    },
+    "folderNamesExpanded": {
+        "bower_components": "_fd_bower_open",
+        "node_modules": "_fd_node_open",
+        ".git": "_fd_git_open",
+        ".github": "_fd_git_open"
+    },
     "fileExtensions": {},
     "fileNames": {},
     "languageIds": {}
