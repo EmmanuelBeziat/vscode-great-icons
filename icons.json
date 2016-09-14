@@ -8,6 +8,24 @@
         },
         "_folder_open": {
             "iconPath": "./icons/folder-outline.png"
+        },
+        "_fd_node": {
+            "iconPath": "./icons/folder-node.png"
+        },
+        "_fd_node_open": {
+            "iconPath": "./icons/folder-node-outline.png"
+        },
+        "_fd_bower": {
+            "iconPath": "./icons/folder-bower.png"
+        },
+        "_fd_bower_open": {
+            "iconPath": "./icons/folder-bower-outline.png"
+        },
+        "_fd_git": {
+            "iconPath": "./icons/folder-git.png"
+        },
+        "_fd_git_open": {
+            "iconPath": "./icons/folder-git-outline.png"
         }
     },
     "file": "_file",
