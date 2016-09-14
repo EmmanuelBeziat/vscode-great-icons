@@ -459,7 +459,7 @@
         "webpack.conf.js": "_f_webpack",
         "webpack.base.conf.js": "_f_webpack",
         "webpack.dev.conf.js": "_f_webpack",
-        "webpack.prod.conf.js": "_f_webpack",
+        "webpack.prod.conf.js": "_f_webpack"
     },
     "languageIds": {}
 }
