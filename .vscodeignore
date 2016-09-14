@@ -1,0 +1,12 @@
+.github/**
+.vscode/**
+images/*.psd
+src/**
+typings/**
+.gitignore
+code*.js
+jsconfig.json
+.eslintrc.json
+icons.zip
+npm-debug.log
+screenshot_old.png
