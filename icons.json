@@ -260,6 +260,7 @@
         ".github": "_fd_git_open"
     },
     "fileExtensions": {
+        "ai": "_f_illustrator",
         "as": "_f_actionscript",
         "htaccess": "_f_apache",
         "htpasswd": "_f_apache",
@@ -370,6 +371,7 @@
         "phpt": "_f_php",
         "phtml": "_f_php",
         "phar": "_f_php",
+        "psd": "_f_photoshop",
         "py": "_f_python",
         "pyw": "_f_python",
         "jsx": "_f_react",
