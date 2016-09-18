@@ -60,6 +60,15 @@
         "_f_coffeescript": {
             "iconPath": "./icons/coffeescript.png"
         },
+        "_f_coldfusion": {
+            "iconPath": "./icons/coldfusion.png"
+        },
+        "_f_cfm": {
+            "iconPath": "./icons/cfm.png"
+        },
+        "_f_cfc": {
+            "iconPath": "./icons/cfc.png"
+        },
         "_f_cpp": {
             "iconPath": "./icons/cpp.png"
         },
@@ -285,11 +294,15 @@
         "bowerrc": "_f_bower",
         "c": "_f_c",
         "kit": "_f_codekit",
+        "coffee": "_f_coffeescript",
+        "cfc": "_f_cfc",
+        "cfm": "_f_cfm",
+        "cfml": "_f_cfml",
+        "lucee": "_f_coldfusion",
         "cc": "_f_cpp",
         "cpp": "_f_cpp",
         "hpp": "_f_cpp",
         "cxx": "_f_cpp",
-        "coffee": "_f_coffeescript",
         "css": "_f_css",
         "dockerfile": "_f_docker",
         "eslintignore": "_f_eslint",
