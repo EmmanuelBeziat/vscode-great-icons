@@ -147,6 +147,9 @@
         "_f_json": {
             "iconPath": "./icons/json.png"
         },
+		"_f_karma": {
+			"iconPath": "./icons/karma.png"
+		},
         "_f_key": {
             "iconPath": "./icons/key.png"
         },
@@ -159,6 +162,9 @@
         "_f_matlab": {
             "iconPath": "./icons/matlab.png"
         },
+		"_f_mocha": {
+			"iconPath": "./icons/mocha.png"
+		},
         "_f_mustache": {
             "iconPath": "./icons/mustache.png"
         },
@@ -456,10 +462,13 @@
         "eslintrc.js": "_f_eslint",
         "gruntfile.js": "_f_grunt",
         "gulpfile.js": "_f_gulp",
+		"karma.conf.js": "_f_karma",
+		"karma.conf.coffee": "_f_karma",
         "license": "_f_key",
         "licence": "_f_key",
         "license.md": "_f_key",
         "licence.md": "_f_key",
+		"mocha.opts": "_f_mocha",
         "package.json": "_f_npm",
         "gemfile.lock": "_f_ruby",
         "vscodeignore.json": "_f_visualstudio",
