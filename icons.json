@@ -51,6 +51,9 @@
         "_f_bower": {
             "iconPath": "./icons/bower.png"
         },
+		"_f_brunch": {
+			"iconPath": "./icons/brunch.png"
+		},
         "_f_c": {
             "iconPath": "./icons/c.png"
         },
@@ -228,6 +231,9 @@
         "_f_stylus": {
             "iconPath": "./icons/stylus.png"
         },
+		"_f_sublime": {
+			"iconPath": "./icons/sublime.png"
+		},
         "_f_svg": {
             "iconPath": "./icons/svg.png"
         },
@@ -423,6 +429,8 @@
         "bash": "_f_shell",
         "zsh": "_f_shell",
         "fish": "_f_shell",
+		"sublime-project": "_f_sublime",
+		"sublime-workspace": "_f_sublime",
         "sqlite": "_f_database",
         "sql": "_f_database",
         "db3": "_f_database",
@@ -457,11 +465,15 @@
     "fileNames": {
         "androidmanifest.xml": "_f_android",
         "bower.json": "_f_bower",
+		"brunch-config.js": "_f_brunch",
+		"brunch-config.coffee": "_f_brunch",
         "makefile": "_f_settings",
         "docker-compose.yml": "_f_docker",
         "eslintrc.js": "_f_eslint",
         "gruntfile.js": "_f_grunt",
+        "gruntfile.coffee": "_f_grunt",
         "gulpfile.js": "_f_gulp",
+        "gulpfile.coffee": "_f_gulp",
 		"karma.conf.js": "_f_karma",
 		"karma.conf.coffee": "_f_karma",
         "license": "_f_key",
