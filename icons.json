@@ -183,6 +183,9 @@
         "_f_ocaml": {
             "iconPath": "./icons/ocaml.png"
         },
+		"_f_paket": {
+			"iconPath": "./icons/paket.png"
+		},
         "_f_pdf": {
             "iconPath": "./icons/pdf.png"
         },
@@ -261,6 +264,9 @@
         "_f_visualstudio": {
             "iconPath": "./icons/visualstudio.png"
         },
+		"_f_visualstudiocode": {
+            "iconPath": "./icons/visualstudiocode.png"
+        },
         "_f_vue": {
             "iconPath": "./icons/vue.png"
         },
@@ -315,6 +321,8 @@
         "cpp": "_f_cpp",
         "hpp": "_f_cpp",
         "cxx": "_f_cpp",
+		"cs": "_f_csharp",
+		"csproj": "_f_visualstudio",
         "css": "_f_css",
         "dockerfile": "_f_docker",
         "eslintignore": "_f_eslint",
@@ -333,6 +341,7 @@
         "pfa": "_f_font",
         "pfb": "_f_font",
         "fs": "_f_fsharp",
+		"fsproj": "_f_visualstudio",
         "fsx": "_f_fsharp",
         "fsi": "_f_fsharp",
         "gitattributes": "_f_git",
@@ -418,6 +427,8 @@
         "scala": "_f_scala",
         "sass": "_f_sass",
         "scss": "_f_sass",
+		"sln": "_f_visualstudio",
+		"suo": "_f_visualstudio",
         "env": "_f_settings",
         "ini": "_f_settings",
         "makefile": "_f_settings",
@@ -445,7 +456,8 @@
         "twig": "_f_twig",
         "ts": "_f_typescript",
         "vue": "_f_vue",
-        "vscodeignore": "_f_visualstudio",
+        "vscodeignore": "_f_visualstudiocode",
+        "csv": "_f_source",
         "xml": "_f_source",
         "axml": "_f_source",
         "xaml": "_f_source",
@@ -482,12 +494,16 @@
         "licence.md": "_f_key",
 		"mocha.opts": "_f_mocha",
         "package.json": "_f_npm",
+		"paket.references": "_f_paket",
+		"paket.dependencies": "_f_paket",
+		"paket.lock": "_f_paket",
+		"paket.local": "_f_paket",
         "gemfile.lock": "_f_ruby",
-        "vscodeignore.json": "_f_visualstudio",
-        "launch.json": "_f_visualstudio",
-        "tasks.json": "_f_visualstudio",
-        "jsconfig.json": "_f_visualstudio",
-        "tsconfig.json": "_f_visualstudio",
+        "vscodeignore.json": "_f_visualstudiocode",
+        "launch.json": "_f_visualstudiocode",
+        "tasks.json": "_f_visualstudiocode",
+        "jsconfig.json": "_f_visualstudiocode",
+        "tsconfig.json": "_f_visualstudiocode",
         "webpack.js": "_f_webpack",
         "webpack.config.js": "_f_webpack",
         "webpack.dev.js": "_f_webpack",
