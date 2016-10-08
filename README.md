@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.9-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.10-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -9,6 +9,8 @@ A big pack of icons (100+) for your files.
 I can add more if you need, [open a new issue](https://github.com/EmmanuelBeziat/vscode-great-icons/issues) to ask which extension you want.
 
 Enjoy ☺
+
+> We just reached 5k downloads, thanks for your support!
 
 ## How to use
 
@@ -21,7 +23,7 @@ Added support for VisualStudio project files (*.csprof, *.fsproj) and solution f
 Added support for csv files (*.csv)
 Added support for paket preferences files (paket.references, paket.dependencies, paket.lock, paket.local)
 
-[See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/CHANGELOG.md)
+[See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
 ## Sources
 
