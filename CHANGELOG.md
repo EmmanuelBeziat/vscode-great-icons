@@ -1,4 +1,8 @@
-# V 1.1.9 — 08.10.2016
+# v1.1.11 — 10.10.2016
+
+Corrected icons for VisualStudio and VisualStudio Code
+
+# v1.1.9 — 08.10.2016
 
 Corrected C# icon files (*.cs)
 Added support for VisualStudio project files (*.csprof, *.fsproj) and solution files (*.sln, *.suo)
