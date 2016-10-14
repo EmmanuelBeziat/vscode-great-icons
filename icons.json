@@ -57,6 +57,9 @@
         "_f_c": {
             "iconPath": "./icons/c.png"
         },
+		"_f_cake": {
+			"iconPath": "./icons/cake.png"
+		},
         "_f_codekit": {
             "iconPath": "./icons/codekit.png"
         },
@@ -180,6 +183,9 @@
         "_f_npm": {
             "iconPath": "./icons/npm.png"
         },
+		"_f_nuget": {
+			"iconPath": "./icon/nuget.png"
+		},
         "_f_ocaml": {
             "iconPath": "./icons/ocaml.png"
         },
@@ -198,6 +204,9 @@
         "_f_php": {
             "iconPath": "./icons/php.png"
         },
+		"_f_powershell": {
+			"iconPath": "./icons/powershell.png"
+		},
         "_f_pug": {
             "iconPath": "./icons/pug.png"
         },
@@ -265,7 +274,7 @@
             "iconPath": "./icons/visualstudio.png"
         },
 		"_f_visualstudiocode": {
-            "iconPath": "./icons/visualstudiocode.png"
+            "iconPath": "./icons/visualstudiocode-nb.png"
         },
         "_f_vue": {
             "iconPath": "./icons/vue.png"
@@ -311,6 +320,7 @@
         "exe": "_f_exe",
         "bowerrc": "_f_bower",
         "c": "_f_c",
+		"cake": "_f_cake",
         "kit": "_f_codekit",
         "coffee": "_f_coffeescript",
         "cfc": "_f_cfc",
@@ -398,6 +408,8 @@
         "mst": "_f_mustache",
         "nconf": "_f_nginx",
         "webmanifest": "_f_node",
+		"nuspec": "_f_nuget",
+		"nupkg": "_f_nuget",
         "ml": "_f_ocaml",
         "mll": "_f_ocaml",
         "mli": "_f_ocaml",
@@ -417,6 +429,7 @@
         "phpt": "_f_php",
         "phtml": "_f_php",
         "phar": "_f_php",
+		"ps1": "_f_powershell",
         "psd": "_f_photoshop",
         "py": "_f_python",
         "pyw": "_f_python",
