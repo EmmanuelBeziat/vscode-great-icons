@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.12-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.13-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -10,7 +10,7 @@ I can add more if you need, [open a new issue](https://github.com/EmmanuelBeziat
 
 Enjoy ☺
 
-> We just reached 5k downloads, thanks for your support!
+> Wow, we just reached 7k downloads, thanks for your support!
 
 ## How to use
 
@@ -18,9 +18,9 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-Added support for Cake files (*.cake)
-Added support for NuGet Packages (*.nupkg, *.nuspec)
-Added support for Powershell files (*.ps1)
+- Added support for Cake files (*.cake)
+- Added support for NuGet Packages (*.nupkg, *.nuspec)
+- Added support for Powershell files (*.ps1)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
