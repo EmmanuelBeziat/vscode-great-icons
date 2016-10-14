@@ -1,3 +1,7 @@
+# v1.1.14 — 14.10.2016
+
+- Added support for Yarn (.yarnclean, yarn.lock)
+
 # v1.1.13 — 14.10.2016
 
 - Rewrite changelog

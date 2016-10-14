@@ -285,6 +285,9 @@
         "_f_yaml": {
             "iconPath": "./icons/yaml.png"
         },
+		"_f_yarn": {
+			"iconPatch": "./icons/yarn.png"
+		},
         "_f_zip": {
             "iconPath": "./icons/zip.png"
         }
@@ -477,6 +480,7 @@
         "pex": "_f_source",
         "yml": "_f_yaml",
         "yaml": "_f_yaml",
+		"yarnclean": "_f_yarn",
         "zip": "_f_zip",
         "rar": "_f_zip",
         "7z": "_f_zip",
@@ -525,7 +529,8 @@
         "webpack.conf.js": "_f_webpack",
         "webpack.base.conf.js": "_f_webpack",
         "webpack.dev.conf.js": "_f_webpack",
-        "webpack.prod.conf.js": "_f_webpack"
+        "webpack.prod.conf.js": "_f_webpack",
+		"yarn.lock": "_f_yarn"
     },
     "languageIds": {}
 }
