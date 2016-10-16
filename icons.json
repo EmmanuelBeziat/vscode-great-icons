@@ -286,7 +286,7 @@
             "iconPath": "./icons/yaml.png"
         },
 		"_f_yarn": {
-			"iconPatch": "./icons/yarn.png"
+			"iconPath": "./icons/yarn.png"
 		},
         "_f_zip": {
             "iconPath": "./icons/zip.png"
