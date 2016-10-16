@@ -1,3 +1,7 @@
+# v1.1.16 - 17.10.2016
+
+- Debug for Yarn icon
+
 # v1.1.14 — 14.10.2016
 
 - Added support for Yarn (.yarnclean, yarn.lock)
