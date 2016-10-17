@@ -437,6 +437,7 @@
         "py": "_f_python",
         "pyw": "_f_python",
         "jsx": "_f_react",
+        "tsx": "_f_react",
         "rb": "_f_ruby",
         "gemfile": "_f_ruby",
         "rs": "_f_rust",

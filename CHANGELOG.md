@@ -1,3 +1,7 @@
+#v1.1.18 — 18.10.2016
+
+- Added support for TypeScript in React (*.tsx)
+
 # v1.1.16 / v1.1.17 - 17.10.2016
 
 - Debug for Yarn icon
