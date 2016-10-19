@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.18-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.19-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -10,7 +10,7 @@ I can add more if you need, [open a new issue](https://github.com/EmmanuelBeziat
 
 Enjoy ☺
 
-> Wow, we just reached 8k downloads, and it’s speeding up! Thanks for your support!
+> Wow, we just reached 11k downloads… Thanks for your support! ♥
 
 ## How to use
 
@@ -18,8 +18,8 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.18 — 18.10.2016
-- Added support for TypeScript in React (*.tsx)
+### v1.1.19 — 19.10.2016
+- Added support for EJS (Effective Javascript Template) (*.ejs)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

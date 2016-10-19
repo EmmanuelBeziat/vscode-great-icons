@@ -90,6 +90,9 @@
         "_f_docker": {
             "iconPath": "./icons/docker.png"
         },
+		"_f_ejs": {
+			"iconPath": "./icons/ejs.png"
+		},
         "_f_elixir": {
             "iconPath": "./icons/ex.png"
         },
@@ -338,6 +341,7 @@
 		"csproj": "_f_visualstudio",
         "css": "_f_css",
         "dockerfile": "_f_docker",
+		"ejs": "_f_ejs",
         "eslintignore": "_f_eslint",
         "ex": "_f_elixir",
         "exs": "_f_elixir",

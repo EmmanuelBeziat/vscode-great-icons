@@ -1,4 +1,8 @@
-#v1.1.18 — 18.10.2016
+# v1.1.19 — 19.10.2016
+
+- Added support for EJS (Effective Javascript Template) (*.ejs)
+
+# v1.1.18 — 18.10.2016
 
 - Added support for TypeScript in React (*.tsx)
 
@@ -26,7 +30,7 @@
 
 # v1.1.9 — 08.10.2016
 
-Corrected C# icon files (*.cs)
+- Corrected C# icon files (*.cs)
 - Added support for VisualStudio project files (*.csprof, *.fsproj) and solution files (*.sln, *.suo)
 - Added support for csv files (*.csv)
 - Added support for paket preferences files (paket.references, paket.dependencies, paket.lock, paket.local)
