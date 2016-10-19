@@ -1,4 +1,4 @@
-# v1.1.19 / v.1.1.20 — 19.10.2016
+# v1.1.19 / v1.1.20 / v1.1.21 — 19.10.2016
 
 - Added support for EJS (Effective Javascript Template) (*.ejs)
 - Debug nuget icon
