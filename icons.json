@@ -187,7 +187,7 @@
             "iconPath": "./icons/npm.png"
         },
 		"_f_nuget": {
-			"iconPath": "./icon/nuget.png"
+			"iconPath": "./icons/nuget.png"
 		},
         "_f_ocaml": {
             "iconPath": "./icons/ocaml.png"

@@ -1,10 +1,10 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.19-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.20-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
-![preview](https://images.emmanuelbeziat.com/demo_vscode_-_Visual_Studio_Code-dy8gb-aplyj.jpg)
+![preview](images/preview.jpg)
 
 I can add more if you need, [open a new issue](https://github.com/EmmanuelBeziat/vscode-great-icons/issues) to ask which extension you want.
 
@@ -18,8 +18,10 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.19 — 19.10.2016
+### v1.1.19 / v.1.1.20 — 19.10.2016
 - Added support for EJS (Effective Javascript Template) (*.ejs)
+- Debug nuget icon
+- Improved preview image
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
