@@ -2,7 +2,7 @@
     "name": "vscode-simpler-icons",
     "displayName": "VSCode simpler Icons",
     "description": "A fork from vscode-great-icons. With fewer different icons",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "davidbabel",
     "engines": {
         "vscode": "^1.5.0"
