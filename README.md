@@ -1,6 +1,6 @@
 # VSCode Simpler Icons
 
-A simpler icon thant the big pack of icons (100+) for your files.
+A simpler icon pack than the big pack of icons vscode-great-icons.
 Personnal icon theme, to group javascript style (typescript, coffee...) into one only icon, css style (less, sass ...) into on only icon etc ...
 
 ![preview](images/preview.jpg)
