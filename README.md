@@ -1,16 +1,9 @@
-# VSCode Great Icons
+# VSCode Simpler Icons
 
-![version](https://img.shields.io/badge/version-1.1.21-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
-
-A big pack of icons (100+) for your files.
+A simpler icon thant the big pack of icons (100+) for your files.
+Personnal icon theme, to group javascript style (typescript, coffee...) into one only icon, css style (less, sass ...) into on only icon etc ...
 
 ![preview](images/preview.jpg)
-
-I can add more if you need, [open a new issue](https://github.com/EmmanuelBeziat/vscode-great-icons/issues) to ask which extension you want.
-
-Enjoy ☺
-
-> Wow, we just reached 11k downloads… Thanks for your support! ♥
 
 ## How to use
 
@@ -18,21 +11,10 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.19 / v1.1.20 / v1.1.21 — 19.10.2016
-- Added support for EJS (Effective Javascript Template) (*.ejs)
-- Debug nuget icon
-- Improved preview image
+# v1.0.0
 
-[See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
-
-## Sources
-
-Most of these icons come from
-* [Material Icon Theme](https://github.com/PKief/vscode-extension-material-icon-theme)
-* [Material Theme](https://github.com/equinusocio/material-theme)
-* [VSCode icons](https://github.com/robertohuertasm/vscode-icons)
-
-## Follow me
-
-* [Twitter](https://twitter.com/EmmanuelBeziat)
-* [GitHub](https://github.com/EmmanuelBEziat)
+* replace most of extensions by simpler ones
+    - reduce "file" icon size
+    - replace "zip" file
+    - adjust config for css and javascript files
+* fork from https://github.com/EmmanuelBeziat/vscode-great-icons
