@@ -1,6 +1,6 @@
 {
     "name": "vscode-simpler-icons",
-    "displayName": "VSCode simpler Icons",
+    "displayName": "VSCode simpler Icons with Angular",
     "description": "A fork from vscode-great-icons. With fewer different icons and some angular icons",
     "version": "1.1.0",
     "publisher": "davidbabel",
@@ -26,6 +26,7 @@
         "theme": "light"
     },
     "keywords": [
+        "angular",
         "icons",
         "theme",
         "icon-theme",
