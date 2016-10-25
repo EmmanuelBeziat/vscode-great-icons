@@ -1,3 +1,7 @@
+# v1.1.0
+
+* add angular icon colors
+
 # v1.0.0
 
 * replace most of extensions by simpler ones
