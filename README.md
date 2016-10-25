@@ -3,6 +3,8 @@
 A simpler icon pack than the big pack of icons vscode-great-icons.
 Personnal icon theme, to group javascript style (typescript, coffee...) into one only icon, css style (less, sass ...) into on only icon etc ...
 
+Here is Angular work directory preview, see below for pack of icons :
+
 ![preview](images/angular-preview.png)
 
 ![preview](images/preview.jpg)
