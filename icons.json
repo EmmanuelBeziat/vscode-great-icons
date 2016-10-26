@@ -129,6 +129,9 @@
         "_f_haml": {
             "iconPath": "./icons/haml.png"
         },
+		"_f_handlebars": {
+			"iconPath": "./icons/handlebars.png"
+		},
         "_f_haskell": {
             "iconPath": "./icons/haskell.png"
         },
@@ -373,6 +376,7 @@
         "lhs": "_f_haskell",
         "lit": "_f_haskell",
         "gf": "_f_haskell",
+		"hbs": "_f_handlebars",
         "hx": "_f_haxe",
         "hxml": "_f_haxe",
         "htm": "_f_html",
