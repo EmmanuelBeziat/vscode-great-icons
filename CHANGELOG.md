@@ -1,6 +1,13 @@
+# v1.2.0
+
+* modify Typescript icon
+* add rc file format
+* add transparent file icon
+* merge from https://github.com/EmmanuelBeziat/vscode-great-icons : support for handlebars
+
 # v1.1.0
 
-* add angular icon colors
+* add angular icons & colors
 
 # v1.0.0
 
