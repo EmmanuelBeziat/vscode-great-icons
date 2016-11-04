@@ -335,6 +335,7 @@
         "ai": "_f_illustrator",
         "as": "_f_actionscript",
         "htaccess": "_f_settings",
+        "cfg": "_f_settings",
         "zshrc": "_f_settings",
         "zshenv": "_f_settings",
         "bashrc": "_f_settings",
