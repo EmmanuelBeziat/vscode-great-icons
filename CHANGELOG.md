@@ -2,6 +2,7 @@
 
 * add config icon to .cfg files
 * replace PHP icon to simpler and visual one
+* improve icons preview
 
 # v1.2.0
 
