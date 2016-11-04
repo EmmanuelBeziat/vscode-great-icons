@@ -1,3 +1,8 @@
+# v1.3.0
+
+* add config icon to .cfg files
+* replace PHP icon to simpler and visual one
+
 # v1.2.0
 
 * modify Typescript icon

@@ -19,9 +19,7 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-# v1.2.0
+# v1.3.0
 
-* modify Typescript icon
-* add rc file format
-* add transparent file icon
-* merge from https://github.com/EmmanuelBeziat/vscode-great-icons : support for handlebars
+* add config icon to .cfg files
+* replace PHP icon to simpler and visual one
