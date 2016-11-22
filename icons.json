@@ -27,6 +27,12 @@
         "_fd_git_open": {
             "iconPath": "./icons/folder-git-outline.png"
         },
+		"_fd_tests": {
+			"iconPath": "./icons/folder-tests.png"
+		},
+		"_fd_tests_open": {
+			"iconPath": "./icons/folder-tests-outline.png"
+		},
         "_f_actionscript": {
             "iconPath": "./icons/actionscript.png"
         },
@@ -90,6 +96,9 @@
         "_f_docker": {
             "iconPath": "./icons/docker.png"
         },
+		"_f_dust": {
+			"iconPath": "./icons/dust.png"
+		},
 		"_f_ejs": {
 			"iconPath": "./icons/ejs.png"
 		},
@@ -258,6 +267,9 @@
         "_f_swift": {
             "iconPath": "./icons/swift.png"
         },
+		"_f_tests": {
+			"iconPath": "./icons/tests.png"
+		},
         "_f_tex": {
             "iconPath": "./icons/tex.png"
         },
@@ -305,13 +317,18 @@
         "bower_components": "_fd_bower",
         "node_modules": "_fd_node",
         ".git": "_fd_git",
-        ".github": "_fd_git"
+        ".github": "_fd_git",
+		"test": "_fd_tests",
+		"tests": "_fd_tests",
+		"mocks": "_fd_tests"
     },
     "folderNamesExpanded": {
         "bower_components": "_fd_bower_open",
         "node_modules": "_fd_node_open",
         ".git": "_fd_git_open",
-        ".github": "_fd_git_open"
+        ".github": "_fd_git_open",
+		"test": "_fd_tests_open",
+		"tests": "_fd_tests_open"
     },
     "fileExtensions": {
         "ai": "_f_illustrator",
@@ -344,6 +361,7 @@
 		"csproj": "_f_visualstudio",
         "css": "_f_css",
         "dockerfile": "_f_docker",
+		"dust": "_f_dust",
 		"ejs": "_f_ejs",
         "eslintignore": "_f_eslint",
         "ex": "_f_elixir",
@@ -474,6 +492,8 @@
         "stylus": "_f_stylus",
         "svg": "_f_svg",
         "swift": "_f_swift",
+		"test.js": "_f_tests",
+		"spec.js": "_f_tests",
         "texi": "_f_tex",
         "tex": "_f_tex",
         "textile": "_f_textile",

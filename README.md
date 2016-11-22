@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.22-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.23-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -18,8 +18,10 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.22
-- Added support for Handlebars (*.hbs)
+### v1.1.23
+
+- Added support for DustJS (*.dust)
+- Added icon for tests files (*.test.js *.spec.js) and folders icons for tests folders (test, tests, mocks))
 
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)

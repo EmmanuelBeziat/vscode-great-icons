@@ -1,3 +1,8 @@
+# v1.1.23
+
+- Added support for DustJS (*.dust)
+- Added icon for tests files (*.test.js *.spec.js) and folders icons for tests folders (test, tests, mocks)
+
 # v1.1.22
 
 - Added support for Handlebars (*.hbs)
