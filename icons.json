@@ -328,7 +328,8 @@
         ".git": "_fd_git_open",
         ".github": "_fd_git_open",
 		"test": "_fd_tests_open",
-		"tests": "_fd_tests_open"
+		"tests": "_fd_tests_open",
+		"mocks": "_fd_tests_open"
     },
     "fileExtensions": {
         "ai": "_f_illustrator",
