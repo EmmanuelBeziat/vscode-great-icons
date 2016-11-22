@@ -228,6 +228,9 @@
         "_f_python": {
             "iconPath": "./icons/python.png"
         },
+		"_f_razor": {
+			"iconPath": "./icons/razor.png"
+		},
         "_f_react": {
             "iconPath": "./icons/react.png"
         },
@@ -267,6 +270,9 @@
         "_f_swift": {
             "iconPath": "./icons/swift.png"
         },
+		"_f_tcl": {
+			"iconPath": "./icons/tcl.png"
+		},
 		"_f_tests": {
 			"iconPath": "./icons/tests.png"
 		},
@@ -359,6 +365,7 @@
         "hpp": "_f_cpp",
         "cxx": "_f_cpp",
 		"cs": "_f_csharp",
+		"cshtml": "_f_razor",
 		"csproj": "_f_visualstudio",
         "css": "_f_css",
         "dockerfile": "_f_docker",
@@ -495,6 +502,7 @@
         "swift": "_f_swift",
 		"test.js": "_f_tests",
 		"spec.js": "_f_tests",
+		"tcl": "_f_tcl",
         "texi": "_f_tex",
         "tex": "_f_tex",
         "textile": "_f_textile",

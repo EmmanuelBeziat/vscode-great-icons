@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.24-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.25-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.5.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -10,7 +10,7 @@ I can add more if you need, [open a new issue](https://github.com/EmmanuelBeziat
 
 Enjoy ☺
 
-> Wow, we just reached 23k downloads… Thanks for your support! You’re amazing. ♥
+> Wow, we just reached 24k downloads… Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -18,8 +18,10 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.23 & v1.1.24
+### v1.1.23 & v1.1.24 & v1.1.25
 
+- Added support for TCL files (*.tcl)
+- Added support for Razor (*.cshtml)
 - Added support for DustJS (*.dust)
 - Added icon for tests files (*.test.js *.spec.js) and folders icons for tests folders (test, tests, mocks))
 
@@ -36,4 +38,4 @@ Most of these icons come from
 ## Follow me
 
 * [Twitter](https://twitter.com/EmmanuelBeziat)
-* [GitHub](https://github.com/EmmanuelBEziat)
+* [GitHub](https://github.com/EmmanuelBeziat)

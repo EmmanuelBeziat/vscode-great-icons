@@ -1,5 +1,7 @@
-# v1.1.23 & v1.1.24
+# v1.1.23 & v1.1.24 & v1.1.25
 
+- Added support for TCL files (*.tcl)
+- Added support for Razor (*.cshtml)
 - Added support for DustJS (*.dust)
 - Added icon for tests files (*.test.js *.spec.js) and folders icons for tests folders (test, tests, mocks)
 
