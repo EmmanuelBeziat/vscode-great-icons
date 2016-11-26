@@ -1,3 +1,11 @@
+# v1.1.26
+
+- Added support for PostCSS (`*.postcss`, `*.pcss`) and SugarSS (`*.sss`)
+- Added support for ES6 (`*.es6`)
+- Better support for Eslint
+- Better support for Ruby (gemfile)
+
+
 # v1.1.23 & v1.1.24 & v1.1.25
 
 - Added support for TCL files (*.tcl)

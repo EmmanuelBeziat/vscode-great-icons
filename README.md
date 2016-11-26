@@ -18,12 +18,12 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.23 & v1.1.24 & v1.1.25
+### v1.1.26
 
-- Added support for TCL files (*.tcl)
-- Added support for Razor (*.cshtml)
-- Added support for DustJS (*.dust)
-- Added icon for tests files (*.test.js *.spec.js) and folders icons for tests folders (test, tests, mocks))
+- Added support for PostCSS (`*.postcss`, `*.pcss`) and SugarSS (`*.sss`)
+- Added support for ES6 (`*.es6`)
+- Better support for Eslint
+- Better support for Ruby (gemfile)
 
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
