@@ -1,3 +1,9 @@
+# v1.2.27
+
+- Extended support for Perl (`*.pl`, `*.pm`)
+- Edited Yarn icon
+- Optimized several icons
+
 # v1.1.26
 
 - Added support for PostCSS (`*.postcss`, `*.pcss`) and SugarSS (`*.sss`)

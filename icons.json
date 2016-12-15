@@ -461,6 +461,8 @@
         "postcss": "_f_postcss",
         "pcss": "_f_postcss",
         "perl": "_f_perl",
+        "pl": "_f_perl",
+        "pm": "_f_perl",
         "php": "_f_php",
         "php1": "_f_php",
         "php2": "_f_php",
