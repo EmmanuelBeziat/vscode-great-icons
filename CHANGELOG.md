@@ -1,3 +1,7 @@
+# v1.1.28
+
+- Little mistake on version number
+
 # v1.2.27
 
 - Extended support for Perl (`*.pl`, `*.pm`)

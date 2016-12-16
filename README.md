@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.27-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.28-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -18,7 +18,11 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.2.27
+### v1.1.28
+
+- Little mistake on version number
+
+### v1.1.27
 
 - Extended support for Perl (`*.pl`, `*.pm`)
 - Edited Yarn icon
