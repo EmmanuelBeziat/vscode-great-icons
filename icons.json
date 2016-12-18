@@ -329,7 +329,9 @@
         ".github": "_fd_git",
         "test": "_fd_tests",
         "tests": "_fd_tests",
-        "mocks": "_fd_tests"
+        "mocks": "_fd_tests",
+        "__mocks__": "_fd_tests",
+        "stubs": "_fd_tests"
     },
     "folderNamesExpanded": {
         "bower_components": "_fd_bower_open",
@@ -338,7 +340,9 @@
         ".github": "_fd_git_open",
         "test": "_fd_tests_open",
         "tests": "_fd_tests_open",
-        "mocks": "_fd_tests_open"
+        "mocks": "_fd_tests_open",
+        "__mocks__": "_fd_tests_open",
+        "stubs": "_fd_tests_open"
     },
     "fileExtensions": {
         "ai": "_f_illustrator",
@@ -511,7 +515,9 @@
         "svg": "_f_svg",
         "swift": "_f_swift",
         "test.js": "_f_tests",
+        "test.ts": "_f_tests",
         "spec.js": "_f_tests",
+        "spec.ts": "_f_tests",
         "tcl": "_f_tcl",
         "texi": "_f_tex",
         "tex": "_f_tex",

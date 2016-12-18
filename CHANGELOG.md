@@ -1,3 +1,8 @@
+# v1.1.29
+
+- Added support for test icons in TypeScript and some other test folders
+
+
 # v1.1.28
 
 - Little mistake on version number
