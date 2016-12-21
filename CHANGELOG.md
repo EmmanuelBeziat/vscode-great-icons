@@ -1,3 +1,7 @@
+# v1.1.30
+
+- Added support for header files in C (*.h)
+
 # v1.1.29
 
 - Added support for test icons in TypeScript and some other test folders
