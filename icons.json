@@ -63,6 +63,9 @@
         "_f_c": {
             "iconPath": "./icons/c.png"
         },
+		"_f_c-h": {
+            "iconPath": "./icons/c-h.png"
+        },
         "_f_cake": {
             "iconPath": "./icons/cake.png"
         },
@@ -83,6 +86,9 @@
         },
         "_f_cpp": {
             "iconPath": "./icons/cpp.png"
+        },
+		"_f_cpp-h": {
+            "iconPath": "./icons/cpp-h.png"
         },
         "_f_csharp": {
             "iconPath": "./icons/csharp.png"
@@ -360,7 +366,7 @@
         "exe": "_f_exe",
         "bowerrc": "_f_bower",
         "c": "_f_c",
-        "h": "_f_c",
+        "h": "_f_c-h",
         "cake": "_f_cake",
         "kit": "_f_codekit",
         "coffee": "_f_coffeescript",
@@ -370,7 +376,7 @@
         "lucee": "_f_coldfusion",
         "cc": "_f_cpp",
         "cpp": "_f_cpp",
-        "hpp": "_f_cpp",
+        "hpp": "_f_cpp-h",
         "cxx": "_f_cpp",
         "cs": "_f_csharp",
         "cshtml": "_f_razor",
@@ -498,6 +504,7 @@
         "env": "_f_settings",
         "ini": "_f_settings",
         "makefile": "_f_settings",
+        "mk": "_f_settings",
         "config": "_f_settings",
         "editorconfig": "_f_settings",
         "bat": "_f_shell",

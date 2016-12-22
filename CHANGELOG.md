@@ -1,6 +1,11 @@
+# v1.1.31
+
+- Extended support for header files in C (`*.h`) and C++ (`*.hpp`)
+
+
 # v1.1.30
 
-- Added support for header files in C (*.h)
+- Added support for header files in C (`*.h`)
 
 # v1.1.29
 
