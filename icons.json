@@ -63,7 +63,7 @@
         "_f_c": {
             "iconPath": "./icons/c.png"
         },
-		"_f_c-h": {
+        "_f_c-h": {
             "iconPath": "./icons/c-h.png"
         },
         "_f_cake": {
@@ -87,7 +87,7 @@
         "_f_cpp": {
             "iconPath": "./icons/cpp.png"
         },
-		"_f_cpp-h": {
+        "_f_cpp-h": {
             "iconPath": "./icons/cpp-h.png"
         },
         "_f_csharp": {
@@ -493,7 +493,9 @@
         "jsx": "_f_react",
         "tsx": "_f_react",
         "rb": "_f_ruby",
+        "erb": "_f_ruby",
         "gemfile": "_f_ruby",
+        "gemspec": "_f_ruby",
         "rs": "_f_rust",
         "scala": "_f_scala",
         "sass": "_f_sass",
@@ -504,6 +506,8 @@
         "env": "_f_settings",
         "ini": "_f_settings",
         "makefile": "_f_settings",
+        "rake": "_f_settings",
+        "rakefile": "_f_settings",
         "mk": "_f_settings",
         "config": "_f_settings",
         "editorconfig": "_f_settings",

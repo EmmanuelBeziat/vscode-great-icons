@@ -1,3 +1,7 @@
+# v1.1.32
+
+- Extended support for ruby files (`*.gemspec`, `*.erb`, `*.rake`, `*.rakefile`)
+
 # v1.1.31
 
 - Extended support for header files in C (`*.h`) and C++ (`*.hpp`)
