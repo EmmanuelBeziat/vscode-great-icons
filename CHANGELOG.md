@@ -1,4 +1,4 @@
-# v1.1.33
+# v1.1.33 & v1.1.34
 
 - Extended support for ruby files (`rakefile`)
 - Added support for gherkin (`.feature`)
