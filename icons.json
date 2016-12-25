@@ -126,6 +126,9 @@
         "_f_fsharp": {
             "iconPath": "./icons/fsharp.png"
         },
+        "_f_gherkin": {
+            "iconPath": "./icons/gherkin.png"
+        },
         "_f_git": {
             "iconPath": "./icons/git.png"
         },
@@ -405,6 +408,7 @@
         "fsproj": "_f_visualstudio",
         "fsx": "_f_fsharp",
         "fsi": "_f_fsharp",
+        "gherkin": "_f_gherkin",
         "gitattributes": "_f_git",
         "gitignore": "_f_git",
         "gitmodules": "_f_git",
@@ -563,6 +567,7 @@
         "brunch-config.js": "_f_brunch",
         "brunch-config.coffee": "_f_brunch",
         "makefile": "_f_settings",
+        "rakefile": "_f_settings",
         "docker-compose.yml": "_f_docker",
         "eslintrc.js": "_f_eslint",
         "eslintrc.yml": "_f_eslint",

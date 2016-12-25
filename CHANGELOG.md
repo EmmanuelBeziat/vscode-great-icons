@@ -1,3 +1,8 @@
+# v1.1.33
+
+- Extended support for ruby files (`rakefile`)
+- Added support for gherkin (`.feature`)
+
 # v1.1.32
 
 - Extended support for ruby files (`*.gemspec`, `*.erb`, `*.rake`, `*.rakefile`)
