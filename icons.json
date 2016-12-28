@@ -207,6 +207,9 @@
         "_f_npm": {
             "iconPath": "./icons/npm.png"
         },
+        "_f_nsis": {
+            "iconPath": "./icons/nsis.png"
+        },
         "_f_nuget": {
             "iconPath": "./icons/nuget.png"
         },
@@ -559,7 +562,9 @@
         "bzip2": "_f_zip",
         "xz": "_f_zip",
         "bz2": "_f_zip",
-        "blade.php": "_f_blade"
+        "blade.php": "_f_blade",
+        "nsi": "_f_nsis",
+        "nsh": "_f_nsis"
     },
     "fileNames": {
         "androidmanifest.xml": "_f_android",
