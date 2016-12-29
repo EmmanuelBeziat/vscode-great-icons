@@ -1,3 +1,7 @@
+# v1.1.35
+
+- Added support for Nullsoft Installer (`.nsis`) — thanks to @idleberg
+
 # v1.1.33 & v1.1.34
 
 - Extended support for ruby files (`rakefile`)
