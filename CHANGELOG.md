@@ -1,3 +1,7 @@
+# v1.1.36
+
+- Debug slim icon
+
 # v1.1.35
 
 - Added support for Nullsoft Installer (`.nsis`) — thanks to @idleberg

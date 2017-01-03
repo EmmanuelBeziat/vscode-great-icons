@@ -510,6 +510,7 @@
         "sss": "_f_postcss",
         "sln": "_f_visualstudio",
         "suo": "_f_visualstudio",
+        "slim": "_f_slim",
         "env": "_f_settings",
         "ini": "_f_settings",
         "makefile": "_f_settings",
