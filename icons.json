@@ -186,6 +186,9 @@
         "_f_less": {
             "iconPath": "./icons/less.png"
         },
+        "_f_liquid": {
+            "iconPath": "./icons/liquid.png"
+        },
         "_f_markdown": {
             "iconPath": "./icons/markdown.png"
         },
@@ -448,6 +451,7 @@
         "asc": "_f_key",
         "ppk": "_f_key",
         "less": "_f_less",
+        "liquid": "_f_liquid",
         "md": "_f_markdown",
         "markdown": "_f_markdown",
         "fig": "_f_matlab",

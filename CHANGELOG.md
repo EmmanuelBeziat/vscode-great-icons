@@ -1,3 +1,7 @@
+# v1.1.37
+
+- Added support for Liquid (`*.liquid`)
+
 # v1.1.36
 
 - Debug slim icon
