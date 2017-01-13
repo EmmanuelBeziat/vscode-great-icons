@@ -1,3 +1,7 @@
+# v1.1.38 (2017.01.13)
+
+- Extended support for powershell (`*.ps1`, `*.psc1`, `*.psm1`, `*.ps1xml` `*.psd1`, `*.pssc`)
+
 # v1.1.37
 
 - Added support for Liquid (`*.liquid`)

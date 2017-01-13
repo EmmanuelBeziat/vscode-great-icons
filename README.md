@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.37-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.38-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -11,7 +11,7 @@ I can add more if you need, [open a new issue](https://github.com/EmmanuelBeziat
 
 Enjoy ☺
 
-> Wow, we reached 55k downloads… Thanks for your support! You’re amazing. ♥
+> Wow, we reached 66k downloads… Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -19,9 +19,9 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.37
+### v1.1.38 (2017.01.13)
 
-- Added support for Liquid (`*.liquid`)
+- Extended support for powershell (`*.ps1`, `*.psc1`, `*.psm1`, `*.ps1xml` `*.psd1`, `*.pssc`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
