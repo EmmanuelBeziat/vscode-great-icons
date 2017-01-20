@@ -1,3 +1,7 @@
+# v1.1.39 (2017.01.20)
+
+- Changed icon for rake and rakefiles
+
 # v1.1.38 (2017.01.13)
 
 - Extended support for powershell (`*.ps1`, `*.psc1`, `*.psm1`, `*.ps1xml` `*.psd1`, `*.pssc`)
