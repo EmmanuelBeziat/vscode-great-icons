@@ -1,3 +1,7 @@
+# v1.1.40 (2017.01.23)
+
+- Extended support for npm icons (`.npmignore`)
+
 # v1.1.39 (2017.01.20)
 
 - Changed icon for rake and rakefiles

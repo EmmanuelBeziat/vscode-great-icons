@@ -474,6 +474,7 @@
         "webmanifest": "_f_node",
         "nuspec": "_f_nuget",
         "nupkg": "_f_nuget",
+		"npmignore": "_f_npm",
         "ml": "_f_ocaml",
         "mll": "_f_ocaml",
         "mli": "_f_ocaml",
