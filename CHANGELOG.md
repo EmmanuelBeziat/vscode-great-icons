@@ -1,3 +1,7 @@
+# v1.1.41 (2017.02.01)
+
+- Added support for Julia language (`*.jl`)
+
 # v1.1.40 (2017.01.23)
 
 - Extended support for npm icons (`.npmignore`)

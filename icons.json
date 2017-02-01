@@ -177,6 +177,9 @@
         "_f_json": {
             "iconPath": "./icons/json.png"
         },
+		"_f_julia": {
+			"iconPath": "./icons/julia.png"
+		},
         "_f_karma": {
             "iconPath": "./icons/karma.png"
         },
@@ -445,6 +448,7 @@
         "js": "_f_javascript",
         "es6": "_f_javascript",
         "json": "_f_json",
+		"jl": "_f_julia",
         "key": "_f_key",
         "pub": "_f_key",
         "pem": "_f_key",
