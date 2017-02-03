@@ -1,3 +1,7 @@
+# v1.1.42 (2017.02.03)
+
+- Extended support for specs (`*.spec.tsx`)
+
 # v1.1.41 (2017.02.01)
 
 - Added support for Julia language (`*.jl`)
