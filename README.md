@@ -1,17 +1,18 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.42-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.43-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
 ![preview](images/preview.jpg)
+
 (This image is non-exhaustive)
 
-I can add more if you need, [open a new issue](https://github.com/EmmanuelBeziat/vscode-great-icons/issues) to ask which extension you want.
+I can add more if you need, [open a **new** issue](https://github.com/EmmanuelBeziat/vscode-great-icons/issues) to ask which extension you want.
 
 Enjoy ☺
 
-> Wow, we reached 83k downloads… Thanks for your support! You’re amazing. ♥
+> Wow, we reached 88k downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -19,9 +20,11 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.42 (2017.02.03)
+### v1.1.42 - v1.1.43 (2017.02.03)
 
+- Extended support for latex (`*.bib`)
 - Extended support for specs (`*.spec.tsx`)
+- Added support for pdf files (`*.pdf`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

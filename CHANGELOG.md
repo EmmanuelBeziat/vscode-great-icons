@@ -1,6 +1,8 @@
-# v1.1.42 (2017.02.03)
+# v1.1.42 - v1.1.43 (2017.02.03)
 
+- Extended support for latex (`*.bib`)
 - Extended support for specs (`*.spec.tsx`)
+- Added support for pdf files (`*.pdf`)
 
 # v1.1.41 (2017.02.01)
 
