@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.43-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.44-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -20,11 +20,9 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.42 - v1.1.43 (2017.02.03)
+### v1.1.44 (2017.02.06)
 
-- Extended support for latex (`*.bib`)
-- Extended support for specs (`*.spec.tsx`)
-- Added support for pdf files (`*.pdf`)
+- Added support for Clojure files (`*.clj`, `*.cljs`, `*.cljc`, `*.edn`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

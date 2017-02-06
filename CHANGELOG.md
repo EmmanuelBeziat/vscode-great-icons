@@ -1,3 +1,7 @@
+# v1.1.44 (2017.02.06)
+
+- Added support for Clojure files (`*.clj`, `*.cljs`, `*.cljc`, `*.edn`)
+
 # v1.1.42 - v1.1.43 (2017.02.03)
 
 - Extended support for latex (`*.bib`)

@@ -84,6 +84,9 @@
         "_f_cfc": {
             "iconPath": "./icons/cfc.png"
         },
+		"_f_clojure": {
+			"iconPath": "./icons/clojure.png"
+		},
         "_f_cpp": {
             "iconPath": "./icons/cpp.png"
         },
@@ -385,6 +388,10 @@
         "cfc": "_f_cfc",
         "cfm": "_f_cfm",
         "cfml": "_f_cfm",
+		"clj": "_f_clojure",
+		"cljs": "_f_clojure",
+		"cljc": "_f_clojure",
+		"edn": "_f_clojure",
         "lucee": "_f_coldfusion",
         "cc": "_f_cpp",
         "cpp": "_f_cpp",
