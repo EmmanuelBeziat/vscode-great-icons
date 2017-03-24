@@ -114,6 +114,9 @@
         "_f_elixir": {
             "iconPath": "./icons/ex.png"
         },
+		"_f_elm": {
+			"iconPath": "./icons/elm.png"
+		},
         "_f_erlang": {
             "iconPath": "./icons/erlang.png"
         },
@@ -409,6 +412,7 @@
         "ex": "_f_elixir",
         "exs": "_f_elixir",
         "eex": "_f_elixir",
+		"elm": "_f_elm",
         "erl": "_f_erlang",
         "hrl": "_f_erlang",
         "emakefile": "_f_erlang",

@@ -1,3 +1,7 @@
+# v1.1.45 (2017.03.24)
+
+- Added support for elm files (`.elm`)
+
 # v1.1.44 (2017.02.06)
 
 - Added support for Clojure files (`*.clj`, `*.cljs`, `*.cljc`, `*.edn`)

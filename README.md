@@ -12,7 +12,7 @@ I can add more if you need, [open a **new** issue](https://github.com/EmmanuelBe
 
 Enjoy ☺
 
-> Wow, we reached 88k downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
+> Wow, we reached 120k downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -20,9 +20,9 @@ After installation and activation, you should go in settings (`File` → `Prefer
 
 ## Changelog
 
-### v1.1.44 (2017.02.06)
+### v1.1.45 (2017.03.24)
 
-- Added support for Clojure files (`*.clj`, `*.cljs`, `*.cljc`, `*.edn`)
+- Added support for elm files (`.elm`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
