@@ -611,6 +611,7 @@
         "gruntfile.coffee": "_f_grunt",
         "gulpfile.js": "_f_gulp",
         "gulpfile.coffee": "_f_gulp",
+        "gulpfile.babel.js": "_f_gulp",
         "karma.conf.js": "_f_karma",
         "karma.conf.coffee": "_f_karma",
         "license": "_f_key",

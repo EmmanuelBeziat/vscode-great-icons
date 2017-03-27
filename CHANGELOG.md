@@ -1,3 +1,7 @@
+# v1.1.46 (2017.03.27)
+
+- Extended gulp file support for babel (`gulpfile.babel.js`)
+
 # v1.1.45 (2017.03.24)
 
 - Added support for elm files (`.elm`)
