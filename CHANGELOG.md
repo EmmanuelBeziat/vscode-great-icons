@@ -1,3 +1,7 @@
+# v1.1.47 (2017.03.28)
+
+- Added support for MJML templating (`*.mjml`)
+
 # v1.1.46 (2017.03.27)
 
 - Extended gulp file support for babel (`gulpfile.babel.js`)

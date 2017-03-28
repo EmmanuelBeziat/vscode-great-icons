@@ -204,6 +204,9 @@
         "_f_matlab": {
             "iconPath": "./icons/matlab.png"
         },
+		"_f_mjml": {
+			"iconPath": "./icons/mjml.png"
+		},
         "_f_mocha": {
             "iconPath": "./icons/mocha.png"
         },
@@ -469,6 +472,7 @@
         "liquid": "_f_liquid",
         "md": "_f_markdown",
         "markdown": "_f_markdown",
+		"mjml": "_f_mjml",
         "fig": "_f_matlab",
         "mat": "_f_matlab",
         "mex": "_f_matlab",

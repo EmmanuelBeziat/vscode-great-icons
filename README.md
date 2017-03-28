@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.46-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.47-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -10,7 +10,7 @@ A big pack of icons (100+) for your files.
 
 Enjoy ☺
 
-> Wow, we reached 127k downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
+> Wow, we reached 132k downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -22,9 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v1.1.46 (2017.03.27)
+### v1.1.47 (2017.03.28)
 
-- Extended gulp file support for babel (`gulpfile.babel.js`)
+- Added support for MJML templating (`*.mjml`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
