@@ -1,3 +1,7 @@
+# v1.1.48 (2017.04.10)
+
+- Added support for Nunjucks templating (`*.nunjucks`, `*.nunjs`, `*.njk`, `*.nj`, `*.njhtml`)
+
 # v1.1.47 (2017.03.28)
 
 - Added support for MJML templating (`*.mjml`)

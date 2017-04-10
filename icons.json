@@ -228,6 +228,9 @@
         "_f_nuget": {
             "iconPath": "./icons/nuget.png"
         },
+		"_f_nunjucks": {
+			"iconPath": "./icons/nunjucks.png"
+		},
         "_f_ocaml": {
             "iconPath": "./icons/ocaml.png"
         },
@@ -493,6 +496,11 @@
         "webmanifest": "_f_node",
         "nuspec": "_f_nuget",
         "nupkg": "_f_nuget",
+		"nunjucks": "_f_nunjucks",
+		"nunjs": "_f_nunjucks",
+		"nj": "_f_nunjucks",
+		"njhtml": "_f_nunjucks",
+		"njk": "_f_nunjucks",
 		"npmignore": "_f_npm",
         "ml": "_f_ocaml",
         "mll": "_f_ocaml",

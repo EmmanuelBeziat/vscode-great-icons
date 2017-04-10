@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.47-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.48-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -22,9 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v1.1.47 (2017.03.28)
+### v1.1.48 (2017.04.10)
 
-- Added support for MJML templating (`*.mjml`)
+- Added support for Nunjucks templating (`*.nunjucks`, `*.nunjs`, `*.njk`, `*.nj`, `*.njhtml`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
