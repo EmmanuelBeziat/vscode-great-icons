@@ -1,3 +1,7 @@
+# v1.1.49 (2017.04.12)
+
+- Extended tests supports (`tests.tsx`)
+
 # v1.1.48 (2017.04.10)
 
 - Added support for Nunjucks templating (`*.nunjucks`, `*.nunjs`, `*.njk`, `*.nj`, `*.njhtml`)
