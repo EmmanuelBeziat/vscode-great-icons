@@ -1,3 +1,7 @@
+# v1.1.50 (2017.04.15)
+
+- Added AutoItScript (`*.au3`)
+
 # v1.1.49 (2017.04.12)
 
 - Extended tests supports (`tests.tsx`)

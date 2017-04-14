@@ -48,6 +48,9 @@
         "_f_applescript": {
             "iconPath": "./icons/applescript.png"
         },
+		"_f_autoit": {
+			"iconPath": "./icons/autoit.png"
+		},
         "_f_binary": {
             "iconPath": "./icons/binary.png"
         },
@@ -377,6 +380,7 @@
     "fileExtensions": {
         "ai": "_f_illustrator",
         "as": "_f_actionscript",
+		"au3": "_f_autoit",
         "htaccess": "_f_apache",
         "htpasswd": "_f_apache",
         "bin": "_f_binary",
