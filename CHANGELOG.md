@@ -1,3 +1,9 @@
+# v1.1.51 (2017.04.20)
+
+- Added support for Rlang (`*.r`, `*.R`, `*.RData`, `*.rda`, `*.rds`, `.Rprofile`)
+- Added support for Cmake (`*.cmake`, `CMakeLists.txt`)
+- Added support for cakePhp Templates (`*.ctp`)
+
 # v1.1.50 (2017.04.15)
 
 - Added AutoItScript (`*.au3`)

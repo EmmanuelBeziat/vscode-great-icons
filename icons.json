@@ -87,8 +87,14 @@
 		"_f_cfc": {
 			"iconPath": "./icons/cfc.png"
 		},
-	"_f_clojure": {
+		"_f_clojure": {
 			"iconPath": "./icons/clojure.png"
+		},
+		"_f_cakephp": {
+			"iconPath": "./icons/cakephp.png"
+		},
+		"_f_cmake": {
+			"iconPath": "./icons/cmake.png"
 		},
 		"_f_cpp": {
 			"iconPath": "./icons/cpp.png"
@@ -270,6 +276,9 @@
 		"_f_react": {
 			"iconPath": "./icons/react.png"
 		},
+		"_f_rlang": {
+			"iconPath": "./icons/rlang.png"
+		},
 		"_f_ruby": {
 			"iconPath": "./icons/ruby.png"
 		},
@@ -405,7 +414,9 @@
 		"cljs": "_f_clojure",
 		"cljc": "_f_clojure",
 		"edn": "_f_clojure",
+		"ctp": "_f_cakephp",
 		"lucee": "_f_coldfusion",
+		"cmake": "_f_cmake",
 		"cc": "_f_cpp",
 		"cpp": "_f_cpp",
 		"hpp": "_f_cpp-h",
@@ -541,6 +552,13 @@
 		"pyw": "_f_python",
 		"jsx": "_f_react",
 		"tsx": "_f_react",
+		"r": "_f_rlang",
+		"R": "_f_rlang",
+		"RData": "_f_rlang",
+		"rda": "_f_rlang",
+		"rds": "_f_rlang",
+		"rprofile": "_f_rlang",
+		"Rprofile": "_f_rlang",
 		"rb": "_f_ruby",
 		"erb": "_f_ruby",
 		"gemfile": "_f_ruby",
@@ -617,6 +635,7 @@
 		"bower.json": "_f_bower",
 		"brunch-config.js": "_f_brunch",
 		"brunch-config.coffee": "_f_brunch",
+		"CmakeLists.txt": "_f_cmake",
 		"makefile": "_f_settings",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
