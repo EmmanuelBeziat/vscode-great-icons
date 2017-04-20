@@ -1,10 +1,10 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.51-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.52-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.8.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
-![preview](images/preview.jpg)
+![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
 
 (This image is non-exhaustive)
 
@@ -22,8 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v1.1.51 (2017.04.20)
+### v1.1.51 & v1.1.52 (2017.04.20)
 
+- Added support for gradle (`*.gradle`)
 - Added support for Rlang (`*.r`, `*.R`, `*.RData`, `*.rda`, `*.rds`, `.Rprofile`)
 - Added support for Cmake (`*.cmake`, `CMakeLists.txt`)
 - Added support for cakePhp Templates (`*.ctp`)

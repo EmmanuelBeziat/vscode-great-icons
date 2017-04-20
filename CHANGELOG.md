@@ -1,5 +1,6 @@
-# v1.1.51 (2017.04.20)
+# v1.1.51 & v1.1.52 (2017.04.20)
 
+- Added support for gradle (`*.gradle`)
 - Added support for Rlang (`*.r`, `*.R`, `*.RData`, `*.rda`, `*.rds`, `.Rprofile`)
 - Added support for Cmake (`*.cmake`, `CMakeLists.txt`)
 - Added support for cakePhp Templates (`*.ctp`)

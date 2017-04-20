@@ -150,6 +150,9 @@
 		"_f_go": {
 			"iconPath": "./icons/go.png"
 		},
+		"_f_gradle": {
+			"iconPath": "./icons/gradle.png"
+		},
 		"_f_graphviz": {
 			"iconPath": "./icons/graphviz.png"
 		},
@@ -635,7 +638,7 @@
 		"bower.json": "_f_bower",
 		"brunch-config.js": "_f_brunch",
 		"brunch-config.coffee": "_f_brunch",
-		"CmakeLists.txt": "_f_cmake",
+		"CMakeLists.txt": "_f_cmake",
 		"makefile": "_f_settings",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
