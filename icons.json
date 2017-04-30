@@ -255,6 +255,9 @@
 		"_f_perl": {
 			"iconPath": "./icons/perl.png"
 		},
+		"_f_phalcon": {
+			"iconPath": "./icons/phalcon.png"
+		},
 		"_f_photoshop": {
 			"iconPath": "./icons/photoshop.png"
 		},
@@ -360,6 +363,9 @@
 		"_f_yarn": {
 			"iconPath": "./icons/yarn.png"
 		},
+		"_f_zephir": {
+			"iconPath": "./icons/zephir.png"
+		},
 		"_f_zip": {
 			"iconPath": "./icons/zip.png"
 		}
@@ -368,6 +374,7 @@
 	"folder": "_folder",
 	"folderExpanded": "_folder_open",
 	"folderNames": {
+		".vscode": "_f_visualstudiocode",
 		"bower_components": "_fd_bower",
 		"node_modules": "_fd_node",
 		".git": "_fd_git",
@@ -420,6 +427,7 @@
 		"ctp": "_f_cakephp",
 		"lucee": "_f_coldfusion",
 		"cmake": "_f_cmake",
+		"cmakelists.txt": "_f_cmake",
 		"cc": "_f_cpp",
 		"cpp": "_f_cpp",
 		"hpp": "_f_cpp-h",
@@ -631,14 +639,16 @@
 		"bz2": "_f_zip",
 		"blade.php": "_f_blade",
 		"nsi": "_f_nsis",
-		"nsh": "_f_nsis"
+		"nsh": "_f_nsis",
+		"volt": "_f_falcon",
+		"zep": "_f_zephir"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
 		"bower.json": "_f_bower",
 		"brunch-config.js": "_f_brunch",
 		"brunch-config.coffee": "_f_brunch",
-		"CMakeLists.txt": "_f_cmake",
+		"cmakelists.txt": "_f_cmake",
 		"makefile": "_f_settings",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",

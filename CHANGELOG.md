@@ -1,3 +1,11 @@
+# v1.1.53 (2017.04.30)
+
+- New icon for Typescript
+- Added support for Phalcon (`*.volt`)
+- Added support for Zephir (`*.zep`)
+- Added support for vscode specific folder (`.vscode`)
+- Debug CMakeLists icon
+
 # v1.1.51 & v1.1.52 (2017.04.20)
 
 - Added support for gradle (`*.gradle`)
