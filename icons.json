@@ -33,6 +33,12 @@
 		"_fd_tests_open": {
 			"iconPath": "./icons/folder-tests-outline.png"
 		},
+		"_fd_vscode": {
+			"iconPath": "./icons/folder-vsc.png"
+		},
+		"_fd_vscode_open": {
+			"iconPath": "./icons/folder-vsc-outline.png"
+		},
 		"_f_actionscript": {
 			"iconPath": "./icons/actionscript.png"
 		},
@@ -374,7 +380,7 @@
 	"folder": "_folder",
 	"folderExpanded": "_folder_open",
 	"folderNames": {
-		".vscode": "_f_visualstudiocode",
+		".vscode": "_fd_vscode",
 		"bower_components": "_fd_bower",
 		"node_modules": "_fd_node",
 		".git": "_fd_git",
@@ -386,6 +392,7 @@
 		"stubs": "_fd_tests"
 	},
 	"folderNamesExpanded": {
+		".vscode": "_fd_vscode_open",
 		"bower_components": "_fd_bower_open",
 		"node_modules": "_fd_node_open",
 		".git": "_fd_git_open",
@@ -640,7 +647,7 @@
 		"blade.php": "_f_blade",
 		"nsi": "_f_nsis",
 		"nsh": "_f_nsis",
-		"volt": "_f_falcon",
+		"volt": "_f_phalcon",
 		"zep": "_f_zephir"
 	},
 	"fileNames": {

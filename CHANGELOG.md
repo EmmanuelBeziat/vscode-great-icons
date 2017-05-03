@@ -1,3 +1,9 @@
+# v1.1.54 (2017.05.03)
+
+- New icon for Go (`*.go`)
+- Debug Phalcon icon (`*.volt`)
+- Debug vscode specific folder (`.vscode`)
+
 # v1.1.53 (2017.04.30)
 
 - New icon for Typescript
