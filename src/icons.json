@@ -331,7 +331,10 @@
 			"iconPath": "./../../icons/tcl.png"
 		},
 		"_f_tests": {
-			"iconPath": "./../../icons/tests.png"
+			"iconPath": "./../../icons/test.png"
+		},
+		"_f_testsjs": {
+			"iconPath": "./../../icons/testjs.png"
 		},
 		"_f_tex": {
 			"iconPath": "./../../icons/tex.png"
@@ -411,6 +414,7 @@
 	"folderExpanded": "_fd_open",
 	"folderNames": {
 		".vscode": "_fd_vscode",
+		".vscode-test": "_fd_vscode",
 		"bower_components": "_fd_bower",
 		"node_modules": "_fd_node",
 		".git": "_fd_git",
@@ -423,6 +427,7 @@
 	},
 	"folderNamesExpanded": {
 		".vscode": "_fd_vscode_open",
+		".vscode-test": "_fd_vscode_open",
 		"bower_components": "_fd_bower_open",
 		"node_modules": "_fd_node_open",
 		".git": "_fd_git_open",
