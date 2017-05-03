@@ -1,3 +1,8 @@
+# v2.0.0 (2017.05.03)
+
+- Complete code refactoring
+
+
 # v1.1.54 (2017.05.03)
 
 - New icon for Go (`*.go`)

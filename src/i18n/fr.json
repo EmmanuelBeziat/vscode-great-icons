@@ -1,0 +1,24 @@
+{
+    "themeInstalled": "VSCode Great Icons a été correctement installé.",
+    "howToActivate": "Comment activer les icones",
+    "activate": "Activer",
+    "activated": "VSCode Great Icons est activé.",
+    "neverShowAgain": "Ne plus jamais montrer",
+    "themeUpdated": "VSCode Great Icons a été mis à jour.",
+    "readChangelog": "Lire le changelog",
+    "folders": {
+        "alreadyEnabled": "Les icones de dossiers sont déjà activées.",
+        "alreadyDisabled": "Les icones de dossiers sont déjà désactivées.",
+        "enableIcons": "Activer les icones de dossiers",
+        "disableIcons": "Désactiver les icones de dossiers",
+        "toggleIcons": "Switcher les icones de dossiers"
+    },
+    "toggleSwitch": {
+        "on": "ON",
+        "off": "OFF"
+    },
+    "confirmReload": "Vous devez relancer VSCode pour appliquer les changements.",
+    "reload": "Relancer",
+    "outdatedVersion": "Vous devez mettre à jour VSCode pour utiliser cette commande.",
+    "updateVSCode": "Mettre à jour VSCode"
+}

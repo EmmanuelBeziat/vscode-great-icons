@@ -1,12 +1,12 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-1.1.54-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.0.0-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
 ![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
 
-(This image is non-exhaustive)
+(This image is non-exhaustive and may not be up to date)
 
 Enjoy ☺
 
@@ -22,11 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v1.1.54 (2017.05.03)
+### v2.0.0 (2017.05.03)
 
-- New icon for Go (`*.go`)
-- Debug Phalcon icon (`*.volt`)
-- Debug vscode specific folder (`.vscode`)
+- Complete code refactoring
 
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)

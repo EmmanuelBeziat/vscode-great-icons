@@ -1,0 +1,31 @@
+{
+	"themeInstalled": "VSCode Great Icons wurde installiert.",
+	"howToActivate": "Wie Icons aktivieren?",
+	"activate": "Aktivieren",
+	"activated": "VSCode Great Icons ist jetzt aktiviert.",
+	"neverShowAgain": "Nicht mehr zeigen",
+	"themeUpdated": "Das VSCode Great Icons wurde aktualisiert.",
+	"readChangelog": "Änderungsprotokoll lesen",
+	"angular": {
+		"alreadyEnabled": "Angular Icons sind schon aktiviert.",
+		"alreadyDisabled": "Angular Icons sind schon deaktiviert.",
+		"enableIcons": "Angular Icons aktivieren",
+		"disableIcons": "Angular Icons deaktivieren",
+		"toggleIcons": "Angular Icons umschalten"
+	},
+	"folders": {
+		"alreadyEnabled": "Ordner Icons sind schon aktiviert.",
+		"alreadyDisabled": "Ordner Icons sind schon deaktiviert.",
+		"enableIcons": "Ordner Icons aktivieren",
+		"disableIcons": "Ordner Icons deaktivieren",
+		"toggleIcons": "Ordner Icons umschalten"
+	},
+	"toggleSwitch": {
+		"on": "EIN",
+		"off": "AUS"
+	},
+	"confirmReload": "VS Code muss neu gestartet werden, um die Änderungen an den Icons zu aktivieren.",
+	"reload": "Neu starten",
+	"outdatedVersion": "VS Code muss aktualisiert werden, um diesen Befehl auszuführen.",
+	"updateVSCode": "VS Code aktualisieren"
+}

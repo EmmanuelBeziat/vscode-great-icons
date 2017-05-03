@@ -2,24 +2,8 @@
     "name": "vscode-great-icons",
     "displayName": "VSCode Great Icons",
     "description": "A big pack of icons (100+) for your files.",
-    "version": "1.1.54",
+    "version": "2.0.0",
     "publisher": "emmanuelbeziat",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Other",
-        "Themes"
-    ],
-    "contributes": {
-        "iconThemes": [
-            {
-                "id": "vscode-great-icons",
-                "label": "VSCode Great Icons",
-                "path": "./icons.json"
-            }
-        ]
-    },
     "icon": "images/vscode-great-icons_icon.png",
     "galleryBanner": {
         "color": "#e0e0e0",
@@ -31,18 +15,87 @@
         "icon-theme",
         "customization"
     ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/EmmanuelBeziat/vscode-great-icons.git"
-    },
     "author": {
         "email": "contact@emmanuelbeziat.com",
         "name": "Emmanuel Béziat",
         "url": "https://www.emmanuelbeziat.com"
     },
-    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EmmanuelBeziat/vscode-great-icons.git"
+    },
     "bugs": {
         "url": "https://github.com/EmmanuelBeziat/vscode-great-icons/issues"
     },
-    "homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme"
+    "license": "MIT",
+    "homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
+    "engines": {
+        "vscode": "^1.6.0",
+        "node": "^6.0.0"
+    },
+    "categories": [
+        "Other",
+        "Themes"
+    ],
+    "activationEvents": [
+        "*"
+    ],
+    "main": "./app/src/extension",
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vscode-great-icons",
+                "label": "VSCode Great Icons",
+                "path": "./app/src/icons.json"
+            }
+        ],
+        "configuration": {
+            "type": "object",
+            "title": "Customize your Great Icons pack!",
+            "properties": {
+                "vscode-great-icons.folders.enable": {
+                    "type": "boolean",
+                    "default": true,
+                    "description": "Show the folders icon (hide them can help gain visibility in some very folder-y projects)"
+                }
+            }
+        },
+        "commands": [
+            {
+                "command": "extension.toggleFolderIcons",
+                "title": "VSCode Great Icons: Toggle folder icons"
+            },
+            {
+                "command": "extension.restaureDefaultConfig",
+                "title": "VSCode Great Icons: Restaure default configuration"
+            }
+        ]
+    },
+    "scripts": {
+        "vscode:prepublish": "npm run clean && npm run compile",
+        "clean": "rimraf ./app",
+        "compile": "tsc -p ./ && npm run copy:json",
+        "copy:json": "cpx \"src/**/*.json\" app/src/",
+        "postinstall": "node ./node_modules/vscode/bin/install",
+        "optimize": "node ./.vscode/optimize-png-icons.js",
+        "pretest": "npm run vscode:prepublish",
+        "test": "node ./node_modules/vscode/bin/test",
+        "tslint": "tslint -c tslint.json ./src/**/*.ts"
+    },
+    "dependencies": {
+        "opn": "^5.0.0",
+        "semver-compare": "^1.0.0"
+    },
+    "devDependencies": {
+        "@types/mocha": "^2.2.41",
+        "@types/node": "^7.0.14",
+        "cpx": "^1.5.0",
+        "fs": "0.0.1-security",
+        "mocha": "^3.3.0",
+        "path": "^0.12.7",
+        "rimraf": "^2.6.1",
+        "tslint": "^5.1.0",
+        "typescript": "^2.3.2",
+        "vscode": "^1.1.0"
+    }
 }
