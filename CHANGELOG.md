@@ -1,3 +1,8 @@
+# v2.0.2 (2017.05.04)
+
+- Extended dockerfile support
+- Add certificate support (`*.cer`)
+
 # v2.0.0 & v2.0.1 (2017.05.03)
 
 - New test icons and folder

@@ -407,6 +407,9 @@
 		},
 		"_f_smarty": {
 			"iconPath": "./../../icons/smarty.png"
+		},
+		"_f_certificate": {
+			"iconPath": "./../../icons/certificate.png"
 		}
 	},
 	"file": "_file",
@@ -479,6 +482,7 @@
 		"csproj": "_f_visualstudio",
 		"css": "_f_css",
 		"dockerfile": "_f_docker",
+		"dockerfile.environment": "_f_docker",
 		"dust": "_f_dust",
 		"ejs": "_f_ejs",
 		"eslintrc": "_f_eslint",
@@ -715,7 +719,8 @@
 		"xls": "_f_excel",
 		"xlsx": "_f_excel",
 		"csv": "_f_excel",
-		"tsv": "_f_excel"
+		"tsv": "_f_excel",
+		"cer": "_f_certificate"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -727,6 +732,8 @@
 		"makefile": "_f_settings",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
+		"dockerfile": "_f_docker",
+		"dockerfile.environment": "_f_docker",
 		"eslintrc.js": "_f_eslint",
 		"eslintrc.yml": "_f_eslint",
 		"eslintrc.yaml": "_f_eslint",
