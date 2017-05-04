@@ -1,7 +1,9 @@
-# v2.0.2 (2017.05.04)
+# v2.0.2 & v2.0.3 (2017.05.04)
 
 - Extended dockerfile support
 - Add certificate support (`*.cer`)
+- Extended yarn support (`yarn-error.log`)
+- Extended npm support (`npm-debug.log`)
 
 # v2.0.0 & v2.0.1 (2017.05.03)
 

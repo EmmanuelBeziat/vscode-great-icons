@@ -754,6 +754,7 @@
 		"licence.md": "_f_key",
 		"mocha.opts": "_f_mocha",
 		"package.json": "_f_npm",
+		"npm-debug.log": "_f_npm",
 		"paket.references": "_f_paket",
 		"paket.dependencies": "_f_paket",
 		"paket.lock": "_f_paket",
@@ -816,7 +817,8 @@
 		"webpack.test.ts": "_f_webpack",
 		"webpackfile.js": "_f_webpack",
 		"webpackfile.ts": "_f_webpack",
-		"yarn.lock": "_f_yarn"
+		"yarn.lock": "_f_yarn",
+		"yarn-error.log": "_f_yarn"
 	},
 	"languageIds": {
 		"git": "_f_git",
