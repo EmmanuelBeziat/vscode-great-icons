@@ -40,7 +40,7 @@
     "activationEvents": [
         "*"
     ],
-    "main": "./app/src/extension",
+    "main": "./app/src/",
     "contributes": {
         "iconThemes": [
             {
@@ -62,12 +62,8 @@
         },
         "commands": [
             {
-                "command": "extension.toggleFolderIcons",
+                "command": "vscode-great-icons.hideFolders",
                 "title": "VSCode Great Icons: Toggle folder icons"
-            },
-            {
-                "command": "extension.restaureDefaultConfig",
-                "title": "VSCode Great Icons: Restaure default configuration"
             }
         ]
     },
