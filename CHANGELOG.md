@@ -1,3 +1,7 @@
+# v2.0.4 (2017.05.06)
+
+- Added babel support (`*.babelrc`)
+
 # v2.0.2 & v2.0.3 (2017.05.04)
 
 - Extended dockerfile support

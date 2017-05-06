@@ -410,6 +410,9 @@
 		},
 		"_f_certificate": {
 			"iconPath": "./../../icons/certificate.png"
+		},
+		"_f_babel": {
+			"iconPath": "./../../icons/babel.png"
 		}
 	},
 	"file": "_file",
@@ -720,7 +723,8 @@
 		"xlsx": "_f_excel",
 		"csv": "_f_excel",
 		"tsv": "_f_excel",
-		"cer": "_f_certificate"
+		"cer": "_f_certificate",
+		"babelrc": "_f_babel"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -818,7 +822,8 @@
 		"webpackfile.js": "_f_webpack",
 		"webpackfile.ts": "_f_webpack",
 		"yarn.lock": "_f_yarn",
-		"yarn-error.log": "_f_yarn"
+		"yarn-error.log": "_f_yarn",
+		".babelrc": "_f_babel"
 	},
 	"languageIds": {
 		"git": "_f_git",
