@@ -7,7 +7,7 @@ import * as reload from './../messages/reload'
 import { IconConfiguration } from "../models/IconConfiguration.interface"
 
 /** Command to toggle the folder icons. */
-export const toggleFolderIcons = () => {
+export const hideFolders = () => {
 	return checkFolderIconsStatus()
 		.then(showQuickPickItems)
 		.then(handleQuickPickActions)

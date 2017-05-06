@@ -1,7 +1,7 @@
 import * as helpers from './../helpers'
 import * as vscode from 'vscode'
 import { activateIconTheme } from "./activate"
-import { toggleFolderIcons } from "./folders"
+import { hideFolders } from "./folders"
 import { restoreDefaultConfig } from "./config"
 
 // Activate theme
@@ -10,8 +10,8 @@ const activateThemeCommand = vscode.commands.registerCommand('extension.activate
 })
 
 // Folders
-const toggleFolderIconsCommand = vscode.commands.registerCommand('extension.toggleFolderIcons', () => {
-	toggleFolderIcons()
+const hideFoldersCommand = vscode.commands.registerCommand('extension.hideFolders', () => {
+	hideFolders()
 })
 
 // Config
@@ -21,6 +21,6 @@ const restoreDefaultConfigCommand = vscode.commands.registerCommand('extension.r
 
 export const commands = [
 	activateThemeCommand,
-	toggleFolderIconsCommand,
+	hideFoldersCommand,
 	restoreDefaultConfigCommand
 ]
