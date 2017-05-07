@@ -1,4 +1,4 @@
-# v2.1.0 (2017.05.07)
+# v2.1.1 (2017.05.07)
 
 - Bit of rollback in code (bug quickfix)
 - html icon changed

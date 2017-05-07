@@ -2,7 +2,7 @@
     "name": "vscode-great-icons",
     "displayName": "VSCode Great Icons",
     "description": "A big pack of icons (100+) for your files.",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "publisher": "emmanuelbeziat",
     "icon": "images/vscode-great-icons_icon.png",
     "galleryBanner": {
@@ -39,5 +39,14 @@
     ],
     "activationEvents": [
         "*"
-    ]
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vscode-great-icons",
+                "label": "VSCode Great Icons",
+                "path": "./icons.json"
+            }
+        ]
+    }
 }
