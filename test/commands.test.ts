@@ -2,7 +2,6 @@ import * as assert from 'assert';
 import * as vscode from 'vscode';
 import * as folders from '../src/commands/folders';
 import * as activate from '../src/commands/activate';
-import * as config from '../src/commands/config';
 import * as helpers from '../src/helpers';
 
 suite("commands", () => {
@@ -18,14 +17,6 @@ suite("commands", () => {
 		return folders.disableFolderIcons().then(() => {
 			return folders.checkFolderIconsStatus().then(result => {
 				assert.equal(result, false);
-			});
-		});
-	});
-
-	test("restore default configuration", () => {
-		return config.restoreDefaultConfig().then(() => {
-			return folders.checkFolderIconsStatus().then(result => {
-				assert.equal(result, true);
 			});
 		});
 	});
