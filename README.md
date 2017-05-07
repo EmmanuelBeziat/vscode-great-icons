@@ -22,7 +22,7 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.0 (2017.05.07)
+### v2.1.2 (2017.05.07)
 
 - Bit of rollback in code (bug quickfix)
 - html icon changed
