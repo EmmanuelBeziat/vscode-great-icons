@@ -1,3 +1,8 @@
+# v2.1.0 (2017.05.07)
+
+- Bit of rollback in code (bug quickfix)
+- html icon changed
+
 # v2.0.4 (2017.05.06)
 
 - Added babel support (`*.babelrc`)

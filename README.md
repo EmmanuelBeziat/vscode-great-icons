@@ -22,9 +22,10 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.0.4 (2017.05.06)
+### v2.1.0 (2017.05.07)
 
-- Added babel support (`*.babelrc`)
+- Bit of rollback in code (bug quickfix)
+- html icon changed
 
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
