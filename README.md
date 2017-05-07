@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.0.4-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+208k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.0-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+208k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
