@@ -1,6 +1,7 @@
-# v2.1.3 (2017.05.17)
+# v2.1.3 & v2.1.4 (2017.05.17)
 
-- Added support for gitlab (`.gitlab-ci.yaml`)
+- Added support for gitlab (`.gitlab-ci.yml`)
+- Debug
 
 # v2.1.2 (2017.05.07)
 

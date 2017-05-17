@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.3-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+236k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.4-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+236k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -22,9 +22,10 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.3 (2017.05.17)
+### v2.1.3 & v2.1.4 (2017.05.17)
 
-- Added support for gitlab (`.gitlab-ci.yaml`)
+- Added support for gitlab (`.gitlab-ci.yml`)
+- Debug
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
