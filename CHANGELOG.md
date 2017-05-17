@@ -1,3 +1,7 @@
+# v2.1.3 (2017.05.17)
+
+- Added support for gitlab (`.gitlab-ci.yaml`)
+
 # v2.1.2 (2017.05.07)
 
 - Bit of rollback in code (bug quickfix)

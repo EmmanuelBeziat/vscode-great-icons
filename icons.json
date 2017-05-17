@@ -413,6 +413,9 @@
 		},
 		"_f_babel": {
 			"iconPath": "./icons/babel.png"
+		},
+		"_f_gitlab": {
+			"iconPath": "./icons/gitlab.png"
 		}
 	},
 	"file": "_file",
@@ -724,7 +727,8 @@
 		"csv": "_f_excel",
 		"tsv": "_f_excel",
 		"cer": "_f_certificate",
-		"babelrc": "_f_babel"
+		"babelrc": "_f_babel",
+		"gitlab-ci.yaml": "_f_gitlab"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -823,7 +827,8 @@
 		"webpackfile.ts": "_f_webpack",
 		"yarn.lock": "_f_yarn",
 		"yarn-error.log": "_f_yarn",
-		".babelrc": "_f_babel"
+		".babelrc": "_f_babel",
+		".gitlab-ci.yaml": "_f_gitlab"
 	},
 	"languageIds": {
 		"git": "_f_git",
