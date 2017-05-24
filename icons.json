@@ -468,7 +468,7 @@
 		"cake": "_f_cake",
 		"kit": "_f_codekit",
 		"coffee": "_f_coffeescript",
-		"cfc": "_f_cfc",
+		"cfc": "_f_cfm",
 		"cfm": "_f_cfm",
 		"cfml": "_f_cfm",
 		"clj": "_f_clojure",

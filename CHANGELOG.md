@@ -1,3 +1,7 @@
+# v2.1.5 (2017.05.24)
+
+- Changed icon for Coldfusion file
+
 # v2.1.3 & v2.1.4 (2017.05.17)
 
 - Added support for gitlab (`.gitlab-ci.yml`)
