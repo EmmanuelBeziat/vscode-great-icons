@@ -1,3 +1,7 @@
+# v2.1.6 (2017.05.27)
+
+- Added support for arduino patch (`*.ino`)
+
 # v2.1.5 (2017.05.24)
 
 - Changed icon for Coldfusion file

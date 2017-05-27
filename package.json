@@ -2,10 +2,13 @@
     "name": "vscode-great-icons",
     "displayName": "VSCode Great Icons",
     "description": "A big pack of icons (100+) for your files.",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "publisher": "emmanuelbeziat",
     "engines": {
         "vscode": "^1.5.0"
+    },
+    "scripts": {
+        "icons": "imagemin icons/* --out-dir=/icons"
     },
     "categories": [
         "Other",
@@ -44,5 +47,8 @@
     "bugs": {
         "url": "https://github.com/EmmanuelBeziat/vscode-great-icons/issues"
     },
-    "homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme"
+    "homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
+    "devDependencies": {
+        "imagemin-cli": "^3.0.0"
+    }
 }

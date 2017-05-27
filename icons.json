@@ -416,6 +416,9 @@
 		},
 		"_f_gitlab": {
 			"iconPath": "./icons/gitlab.png"
+		},
+		"_f_arduino": {
+			"iconPath": "./icons/arduino.png"
 		}
 	},
 	"file": "_file",
@@ -729,7 +732,8 @@
 		"cer": "_f_certificate",
 		"babelrc": "_f_babel",
 		"gitlab-ci.yaml": "_f_gitlab",
-		"gitlab-ci.yml": "_f_gitlab"
+		"gitlab-ci.yml": "_f_gitlab",
+		"ino": "_f_arduino"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
