@@ -1,3 +1,7 @@
+# v2.1.7 (2017.05.31)
+
+- Debug for eslintrc (thanks to @lukaszmoroz)
+
 # v2.1.6 (2017.05.27)
 
 - Added support for arduino patch (`*.ino`)
