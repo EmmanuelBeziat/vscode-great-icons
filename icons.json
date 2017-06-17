@@ -763,6 +763,7 @@
 		"licence.md": "_f_key",
 		"mocha.opts": "_f_mocha",
 		"package.json": "_f_npm",
+		"package-lock.json": "_f_npm",
 		"npm-debug.log": "_f_npm",
 		"paket.references": "_f_paket",
 		"paket.dependencies": "_f_paket",
