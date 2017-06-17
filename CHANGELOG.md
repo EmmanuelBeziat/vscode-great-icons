@@ -1,3 +1,8 @@
+# v2.1.8 (2017.06.17)
+
+- Add languages Identifiers
+- Extend support for npm (`package-lock.json`) (thanks to @vreelb)
+
 # v2.1.7 (2017.05.31)
 
 - Debug for eslintrc (thanks to @lukaszmoroz)

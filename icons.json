@@ -839,9 +839,9 @@
 	},
 	"languageIds": {
 		"git": "_f_git",
-		"git-commit": "_f_git",
-		"git-rebase": "_f_git",
 		"c": "_f_c",
+		"csharp": "_f_csharp",
+		"fsharp": "_f_fsharp",
 		"yaml": "_f_yaml",
 		"xml": "_f_xml",
 		"matlab": "_f_matlab",
@@ -870,6 +870,11 @@
 		"ng-template": "_f_angular",
 		"autoit": "_f_autoit",
 		"haml": "_f_haml",
-		"smarty": "_f_smarty"
+		"smarty": "_f_smarty",
+		"dockerfile": "_f_docker",
+		"markdown": "_f_markdown",
+		"php": "_f_php",
+		"html": "_f_html",
+		"json": "_f_json"
 	}
 }
