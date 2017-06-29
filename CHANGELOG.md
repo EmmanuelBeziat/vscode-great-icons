@@ -1,3 +1,7 @@
+# v2.1.9 (2017.06.29)
+
+- Added support for OpenGL Shading Languages (`*.glsl`, `*.vs`, `*.frag`, `*.vert`)
+
 # v2.1.8 (2017.06.17)
 
 - Add languages Identifiers

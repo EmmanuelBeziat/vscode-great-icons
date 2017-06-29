@@ -419,6 +419,9 @@
 		},
 		"_f_arduino": {
 			"iconPath": "./icons/arduino.png"
+		},
+		"_f_opengl": {
+			"iconPath": "./icons/opengl.png"
 		}
 	},
 	"file": "_file",
@@ -733,7 +736,11 @@
 		"babelrc": "_f_babel",
 		"gitlab-ci.yaml": "_f_gitlab",
 		"gitlab-ci.yml": "_f_gitlab",
-		"ino": "_f_arduino"
+		"ino": "_f_arduino",
+		"glsl": "_f_opengl",
+		"vs": "_f_opengl",
+		"frag": "_f_opengl",
+		"vert": "_f_opengl"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
