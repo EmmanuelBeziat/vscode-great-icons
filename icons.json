@@ -130,7 +130,7 @@
 			"iconPath": "./icons/elixir.png"
 		},
 		"_f_elm": {
-			"iconPath": "./icons/elm.png"
+			"iconPath": "./icons/elm.svg"
 		},
 		"_f_erlang": {
 			"iconPath": "./icons/erlang.png"
