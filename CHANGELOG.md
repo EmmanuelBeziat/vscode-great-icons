@@ -1,3 +1,9 @@
+# v2.1.11 (2017.07.15)
+
+- New elm icon (thanks to @Oscmage)
+- Added support for dart files (`*.dart`)
+- Added support for puppet files (`*.pp`)
+
 # v2.1.9 (2017.06.29)
 
 - Added support for OpenGL Shading Languages (`*.glsl`, `*.vs`, `*.frag`, `*.vert`)

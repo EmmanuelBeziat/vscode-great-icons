@@ -130,7 +130,7 @@
 			"iconPath": "./icons/elixir.png"
 		},
 		"_f_elm": {
-			"iconPath": "./icons/elm.svg"
+			"iconPath": "./icons/elm.png"
 		},
 		"_f_erlang": {
 			"iconPath": "./icons/erlang.png"
@@ -422,6 +422,12 @@
 		},
 		"_f_opengl": {
 			"iconPath": "./icons/opengl.png"
+		},
+		"_f_dart": {
+			"iconPath": "./icons/dart.png"
+		},
+		"_f_puppet": {
+			"iconPath": "./icons/puppet.png"
 		}
 	},
 	"file": "_file",
@@ -740,7 +746,9 @@
 		"glsl": "_f_opengl",
 		"vs": "_f_opengl",
 		"frag": "_f_opengl",
-		"vert": "_f_opengl"
+		"vert": "_f_opengl",
+		"dart": "_f_dart",
+		"pp": "_f_puppet"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -882,6 +890,7 @@
 		"markdown": "_f_markdown",
 		"php": "_f_php",
 		"html": "_f_html",
-		"json": "_f_json"
+		"json": "_f_json",
+		"dart": "_f_dart"
 	}
 }
