@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.11-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+366k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.12-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+366k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -22,11 +22,10 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.11 (2017.07.15)
+### v2.1.12 (2017.07.27)
 
-- New elm icon (thanks @Oscmage)
-- Added dart support (`*.dart`)
-- Added puppet support (`*.pp`)
+- New dart icon
+- Added support for Rstudio files (`*.rproj`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

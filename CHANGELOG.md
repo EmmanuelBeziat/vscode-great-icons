@@ -1,3 +1,8 @@
+# v2.1.12 (2017.07.27)
+
+- New dart icon
+- Added support for Rstudio files (`*.rproj`)
+
 # v2.1.11 (2017.07.15)
 
 - New elm icon (thanks to @Oscmage)

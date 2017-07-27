@@ -428,6 +428,9 @@
 		},
 		"_f_puppet": {
 			"iconPath": "./icons/puppet.png"
+		},
+		"_f_rstudio": {
+			"iconPath": "./icons/rstudio.png"
 		}
 	},
 	"file": "_file",
@@ -748,7 +751,8 @@
 		"frag": "_f_opengl",
 		"vert": "_f_opengl",
 		"dart": "_f_dart",
-		"pp": "_f_puppet"
+		"pp": "_f_puppet",
+		"rproj": "_f_rstudio"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
