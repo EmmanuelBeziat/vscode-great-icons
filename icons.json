@@ -431,6 +431,9 @@
 		},
 		"_f_rstudio": {
 			"iconPath": "./icons/rstudio.png"
+		},
+		"_f_solidity": {
+			"iconPath": "./icons/solidity.png"
 		}
 	},
 	"file": "_file",
@@ -752,7 +755,8 @@
 		"vert": "_f_opengl",
 		"dart": "_f_dart",
 		"pp": "_f_puppet",
-		"rproj": "_f_rstudio"
+		"rproj": "_f_rstudio",
+		"sol": "_f_solidity"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",

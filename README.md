@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.12-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+366k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.13-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+435k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -10,7 +10,7 @@ A big pack of icons (100+) for your files.
 
 Enjoy ☺
 
-> Wow, we reached 366k downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
+> Wow, we reached 435k downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -22,10 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.12 (2017.07.27)
+### v2.1.13 (2017.08.06)
 
-- New dart icon
-- Added support for Rstudio files (`*.rproj`)
+- Added support for Solidity files (`*.sol`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

@@ -1,3 +1,7 @@
+# v2.1.13 (2017.08.06)
+
+- Added support for Solidity files (`*.sol`)
+
 # v2.1.12 (2017.07.27)
 
 - New dart icon
