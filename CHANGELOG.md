@@ -1,3 +1,8 @@
+# v2.1.14 (2017.08.11)
+
+- Extended support for powerpoint files
+- Debug icon for excel files
+
 # v2.1.13 (2017.08.06)
 
 - Added support for Solidity files (`*.sol`)

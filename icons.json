@@ -388,7 +388,7 @@
 			"iconPath": "./icons/word.png"
 		},
 		"_f_excel": {
-			"iconPath": "./icons/table.png"
+			"iconPath": "./icons/excel.png"
 		},
 		"_f_powerpoint": {
 			"iconPath": "./icons/powerpoint.png"
@@ -732,6 +732,7 @@
 		"qt": "_f_video",
 		"mp2": "_f_video",
 		"ppt": "_f_powerpoint",
+		"pptx": "_f_powerpoint",
 		"pptm": "_f_powerpoint",
 		"pot": "_f_powerpoint",
 		"potx": "_f_powerpoint",
