@@ -1,3 +1,8 @@
+# v2.1.15 (2017.08.25)
+
+- Added support for lua (`*.lua`)
+- Added support for http (`*.http`)
+
 # v2.1.14 (2017.08.11)
 
 - Extended support for powerpoint files

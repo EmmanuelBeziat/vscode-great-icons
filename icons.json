@@ -434,6 +434,12 @@
 		},
 		"_f_solidity": {
 			"iconPath": "./icons/solidity.png"
+		},
+		"_f_lua": {
+			"iconPath": "./icons/lua.png"
+		},
+		"_f_server": {
+			"iconPath": "./icons/server.png"
 		}
 	},
 	"file": "_file",
@@ -757,7 +763,9 @@
 		"dart": "_f_dart",
 		"pp": "_f_puppet",
 		"rproj": "_f_rstudio",
-		"sol": "_f_solidity"
+		"sol": "_f_solidity",
+		"lua": "_f_lua",
+		"http": "_f_server"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
