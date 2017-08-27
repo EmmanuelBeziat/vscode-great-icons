@@ -1,6 +1,9 @@
 # v1.4.0
 
 * add different color to folders 'out', 'public' and 'dist'
+* add travis svg icon from material icon
+* extends dockercompose recognize
+* add continous integration for futur releases
 
 # v1.3.0
 

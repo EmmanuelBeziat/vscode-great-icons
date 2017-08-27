@@ -306,6 +306,9 @@
         "_f_visualstudiocode": {
             "iconPath": "./icons/visualstudiocode-nb.png"
         },
+        "_f_travis": {
+            "iconPath": "./icons/travis.svg"
+        },
         "_f_vue": {
             "iconPath": "./icons/vue.png"
         },
@@ -528,6 +531,7 @@
         "ts": "_f_typescript",
         "vue": "_f_mustache",
         "vscodeignore": "_f_visualstudiocode",
+        "travis.yml": "_f_travis",
         "csv": "_f_source",
         "xml": "_f_source",
         "axml": "_f_source",
@@ -552,7 +556,13 @@
         "brunch-config.js": "_f_brunch",
         "brunch-config.coffee": "_f_brunch",
         "makefile": "_f_settings",
+        "dockerfile": "_f_docker",
+        "Dockerfile": "_f_docker",
         "docker-compose.yml": "_f_docker",
+        "docker-compose.dev.yml": "_f_docker",
+        "docker-compose.local.yml": "_f_docker",
+        "docker-compose.test.yml": "_f_docker",
+        "docker-compose.deploy.yml": "_f_docker",
         "eslintrc.js": "_f_eslint",
         "gruntfile.js": "_f_grunt",
         "gruntfile.coffee": "_f_grunt",

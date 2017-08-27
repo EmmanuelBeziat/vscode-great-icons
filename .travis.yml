@@ -1,0 +1,50 @@
+sudo: false
+
+os:
+  - linux
+
+language: node_js
+
+node_js:
+  - 8
+
+before_install:
+  - if [ $TRAVIS_OS_NAME == "linux" ]; then
+      export CXX="g++-4.9" CC="gcc-4.9" DISPLAY=:99.0;
+      sh -e /etc/init.d/xvfb start;
+      sleep 3;
+    fi
+
+install:
+  - npm install
+  - npm run vscode:prepublish
+
+script:
+  - npm test --silent
+
+env:
+  global:
+    secure: gHlfBzgg2aA3sjRUTouFzOrVp7hjZhrynX1yo3QRE+G1j8qFWoxx1Z5YSq/cLBDCCHoVmulOSoVB8SzhcCfhADl/znIc3DZl/zAhDlNQUAU+ILonVk/DTLO8gkv9IbXXNZ8JUpMwwKzrPeC2w216fPPNSowFVwiPbekWqmVHkjf0mGlSzDK2IEeFdu+8NpZGi0o6v2f29Ho9JMoXnP9H2pmGJHsZYOu3fXEq2/P6bj91xmjQ9uTDPj+evcnzZlbKJLOFr5Jax8qi1otyP1bdbwiOJ76KzGu89ek5ir9ZKTt3zum8KjWyKzqXmCap6/ctt7+MM15b5xrAiKBVHH95YdQnmBrtr82YEG/pCRqLoa+vzdQvEB1zRBmxpAQUtF1bb9+oJP6HQgP3c4TZoB0u3fxOJfr+FGywFqmDWNvsmI2IaxOgUyeMmHc6hD3U4pjverPp5ODZx1limpxu3+NQMubWP5BSRJhMUPFqj4DcjzSJ8+8jGxM7nYSmQjJy7kC61hwmd/5GgnX+ClB5p9jVjlrTEga8cKw4cxjjkIl3h05zVVt/a8itRcgrXggwKSbHTtYiPcpP3no2fH2k5jFg812u6hzKIvrVvPla7BzlZxYFbGH7FTklOcO3Dp4ElWedK+uQA9d9b+ztFOfbKZfVgCNmyCcXImdS9ZLRJ8VyvOc=
+
+after_success:
+- npm install -g vsce;
+- vsce package;
+
+deploy:
+- provider: releases
+  api_key:
+    secure: J4HV349ew8TBmN4Jr4wDhjjgW7AD/kITn9eGuPTZhHf+5jWuhL1XMK7WLcyMznSgo7SIHg/MpHeBXxAxF3ZdaJbKMLwmwyBSAJ8DiWYrSVljziDrh/sNjip6vaHYO0/+eZ2BAutJQE9M8TXYCHrYOqCmeOHtWOb6v1Oac5dApBKGMsAt+7DXK+F2JM+DKkR8t1SYqQNdqdIl/BeqxUEC22PwakjBEC/7bfqLyZgFktdpcgz5ilttlf98IvY/DzPz+1vzkymCVDjBoAfHXmkizs9cmmx7R2TtewlhNyewpYPLSqtTMbvnmMRs6TE4lZ0bUMmrNwMfjdbuiHha5EjNj6yz0OocdhMkHg/mnuWrQY9W8mRvnghwYd0+hXnhNBknN9VOsj6r4H4HBEEuVMtDN01v1q5HU/eCXUpdwolhqVJLptfoanY/wTKPHRkdJbS2KmPxDtxeosM/Xo605aEESYir5YltDcsk5Yqhm9a+NOUSpHO6oc7JLf7IeCUhJKNqosajaty1csHxkS+N5j6coDxVHc7s8FPErlGxM/pU8d8d++EwFAdF6Vt0i3m7ar7KwapTiOVXMnlkjWX8z6k+FjEdPERb2NL1NFfhzdWJ/3lIMJh4gmwW4TD/dkLMwSRJAKrOrrOke1gfDTMoQnUuPtV2UDypV6XVTUpBHfgD68k=
+  file_glob: true
+  file: "*.vsix"
+  skip_cleanup: true
+  on:
+    repo: DavidBabel/vscode-simpler-icons
+    tags: true
+    condition: $TRAVIS_OS_NAME = linux
+- provider: script
+  script: vsce publish -p $VS_TOKEN
+  skip_cleanup: true
+  on:
+    repo: DavidBabel/vscode-simpler-icons
+    tags: true
+    condition: $TRAVIS_OS_NAME = linux
