@@ -27,6 +27,12 @@
         "_fd_git_open": {
             "iconPath": "./icons/folder-git-outline.png"
         },
+        "_fd_out": {
+            "iconPath": "./icons/folder-out.png"
+        },
+        "_fd_out_open": {
+            "iconPath": "./icons/folder-out-outline.png"
+        },
         "_f_actionscript": {
             "iconPath": "./icons/actionscript.png"
         },
@@ -323,13 +329,19 @@
         "bower_components": "_fd_bower",
         "node_modules": "_fd_node",
         ".git": "_fd_git",
-        ".github": "_fd_git"
-    },
-    "folderNamesExpanded": {
+        ".github": "_fd_git",
+        "out": "_fd_out",
+        "dist": "_fd_out",
+        "public": "_fd_out"
+      },
+      "folderNamesExpanded": {
         "bower_components": "_fd_bower_open",
         "node_modules": "_fd_node_open",
         ".git": "_fd_git_open",
-        ".github": "_fd_git_open"
+        ".github": "_fd_git_open",
+        "out": "_fd_out_open",
+        "dist": "_fd_out_open",
+        "public": "_fd_out_open"
     },
     "fileExtensions": {
         "ai": "_f_illustrator",

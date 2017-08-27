@@ -1,3 +1,7 @@
+# v1.4.0
+
+* add different color to folders 'out', 'public' and 'dist'
+
 # v1.3.0
 
 * add config icon to .cfg files
