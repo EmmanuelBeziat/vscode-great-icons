@@ -15,12 +15,12 @@ before_install:
       sleep 3;
     fi
 
-install:
-  - npm install
-  - npm run vscode:prepublish
+# install:
+#   - npm install
+#   - npm run vscode:prepublish
 
-script:
-  - npm test --silent
+# script:
+#   - npm test --silent
 
 env:
   global:
