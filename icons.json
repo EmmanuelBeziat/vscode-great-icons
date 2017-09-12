@@ -440,6 +440,9 @@
 		},
 		"_f_server": {
 			"iconPath": "./icons/server.png"
+		},
+		"_f_rollup": {
+			"iconPath": "./icons/rollup.png"
 		}
 	},
 	"file": "_file",
@@ -867,7 +870,10 @@
 		".eslintrc.yaml": "_f_eslint",
 		".eslintrc.json": "_f_eslint",
 		".gitlab-ci.yaml": "_f_gitlab",
-		".gitlab-ci.yml": "_f_gitlab"
+		".gitlab-ci.yml": "_f_gitlab",
+		"rollup.config.js": "_f_rollup",
+		"rollup.config.ts": "_f_rollup",
+		"rollup.config.coffee": "_f_rollup"
 	},
 	"languageIds": {
 		"git": "_f_git",
