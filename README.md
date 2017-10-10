@@ -142,9 +142,3 @@ Here is Angular work directory preview :
 
 After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Great Icons`.
 
-## Changelog
-
-# v1.3.0
-
-* add config icon to .cfg files
-* replace PHP icon to simpler and visual one
