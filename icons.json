@@ -357,6 +357,7 @@
         "out": "_fd_out",
         "dist": "_fd_out",
         "build": "_fd_out",
+        "www": "_fd_out",
         "public": "_fd_out"
       },
       "folderNamesExpanded": {
@@ -370,6 +371,7 @@
         "out": "_fd_out_open",
         "dist": "_fd_out_open",
         "build": "_fd_out",
+        "www": "_fd_out",
         "public": "_fd_out_open"
     },
     "fileExtensions": {
