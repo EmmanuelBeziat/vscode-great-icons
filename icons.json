@@ -9,16 +9,16 @@
         "_folder_open": {
             "iconPath": "./icons/folder-outline.png"
         },
-        "_folder_test": {
+        "_fd_test": {
             "iconPath": "./icons/folder-test.png"
         },
-        "_folder_test_open": {
+        "_fd_test_open": {
             "iconPath": "./icons/folder-test-open.png"
         },
-        "_folder_vscode": {
+        "_fd_vscode": {
             "iconPath": "./icons/folder-vscode.png"
         },
-        "_folder_vscode_open": {
+        "_fd_vscode_open": {
             "iconPath": "./icons/folder-vscode-open.png"
         },
         "_fd_node": {
@@ -349,7 +349,7 @@
     "folderNames": {
         "bower_components": "_fd_bower",
         "node_modules": "_fd_node",
-        ".vscode": "_folder_vscode",
+        ".vscode": "_fd_vscode",
         ".git": "_fd_git",
         ".github": "_fd_git",
         "test": "_fd_test",
@@ -362,7 +362,7 @@
       "folderNamesExpanded": {
         "bower_components": "_fd_bower_open",
         "node_modules": "_fd_node_open",
-        ".vscode": "_folder_vscode_open",
+        ".vscode": "_fd_vscode_open",
         ".git": "_fd_git_open",
         ".github": "_fd_git_open",
         "test": "_fd_test_open",
