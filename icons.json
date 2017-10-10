@@ -9,6 +9,18 @@
         "_folder_open": {
             "iconPath": "./icons/folder-outline.png"
         },
+        "_folder_test": {
+            "iconPath": "./icons/folder-test.png"
+        },
+        "_folder_test_open": {
+            "iconPath": "./icons/folder-test-open.png"
+        },
+        "_folder_vscode": {
+            "iconPath": "./icons/folder-vscode.png"
+        },
+        "_folder_vscode_open": {
+            "iconPath": "./icons/folder-vscode-open.png"
+        },
         "_fd_node": {
             "iconPath": "./icons/folder-node.png"
         },
@@ -65,6 +77,9 @@
         },
         "_f_applescript": {
             "iconPath": "./icons/applescript.png"
+        },
+        "_f_babel": {
+            "iconPath": "./icons/babel.png"
         },
         "_f_binary": {
             "iconPath": "./icons/binary.png"
@@ -128,6 +143,9 @@
         },
         "_f_exe": {
             "iconPath": "./icons/exe.png"
+        },
+        "_f_flow": {
+            "iconPath": "./icons/flow.png"
         },
         "_f_font": {
             "iconPath": "./icons/font.png"
@@ -331,19 +349,27 @@
     "folderNames": {
         "bower_components": "_fd_bower",
         "node_modules": "_fd_node",
+        ".vscode": "_folder_vscode",
         ".git": "_fd_git",
         ".github": "_fd_git",
+        "test": "_fd_test",
+        "tests": "_fd_test",
         "out": "_fd_out",
         "dist": "_fd_out",
+        "build": "_fd_out",
         "public": "_fd_out"
       },
       "folderNamesExpanded": {
         "bower_components": "_fd_bower_open",
         "node_modules": "_fd_node_open",
+        ".vscode": "_folder_vscode_open",
         ".git": "_fd_git_open",
         ".github": "_fd_git_open",
+        "test": "_fd_test_open",
+        "tests": "_fd_test_open",
         "out": "_fd_out_open",
         "dist": "_fd_out_open",
+        "build": "_fd_out",
         "public": "_fd_out_open"
     },
     "fileExtensions": {
@@ -419,7 +445,7 @@
         "lhs": "_f_haskell",
         "lit": "_f_haskell",
         "gf": "_f_haskell",
-		"hbs": "_f_mustache",
+		    "hbs": "_f_mustache",
         "hx": "_f_haxe",
         "hxml": "_f_haxe",
         "htm": "_f_html",
@@ -552,6 +578,7 @@
     },
     "fileNames": {
         "androidmanifest.xml": "_f_android",
+        ".babelrc": "_f_babel",
         "bower.json": "_f_bower",
         "brunch-config.js": "_f_brunch",
         "brunch-config.coffee": "_f_brunch",
@@ -564,6 +591,8 @@
         "docker-compose.test.yml": "_f_docker",
         "docker-compose.deploy.yml": "_f_docker",
         "eslintrc.js": "_f_eslint",
+        ".eslintrc": "_f_eslint",
+        ".flowconfig": "_f_flow",
         "gruntfile.js": "_f_grunt",
         "gruntfile.coffee": "_f_grunt",
         "gulpfile.js": "_f_gulp",
@@ -576,6 +605,7 @@
         "licence.md": "_f_key",
         "mocha.opts": "_f_mocha",
         "package.json": "_f_npm",
+        ".npmignore": "_f_npm",
         "paket.references": "_f_paket",
         "paket.dependencies": "_f_paket",
         "paket.lock": "_f_paket",

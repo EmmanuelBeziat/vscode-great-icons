@@ -1,3 +1,9 @@
+# v1.5.0
+
+* add babel / eslint / flow / npmignore icons
+* add test folder color
+* add .vscode specific folder color
+
 # v1.4.0
 
 * add different color to folders 'out', 'public' and 'dist'
