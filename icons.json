@@ -9,6 +9,12 @@
 		"_fd_open": {
 			"iconPath": "./icons/folder-outline.png"
 		},
+		"_fd_root": {
+			"iconPath": "./icons/folder-root.png"
+		},
+		"_fd_root_open": {
+			"iconPath": "./icons/folder-root-outline.png"
+		},
 		"_fd_node": {
 			"iconPath": "./icons/folder-node.png"
 		},
@@ -445,6 +451,8 @@
 	"file": "_file",
 	"folder": "_folder",
 	"folderExpanded": "_fd_open",
+	"rootFolder": "_fd_root",
+	"rootFolderExpanded": "_fd_root_open",
 	"folderNames": {
 		".vscode": "_fd_vscode",
 		".vscode-test": "_fd_vscode",
