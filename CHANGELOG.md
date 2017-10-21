@@ -1,3 +1,8 @@
+# v2.1.17 (2017.10.21)
+
+- New icon for editorconfig
+- Added root folder icons
+
 # v2.1.16 (2017.09.12)
 
 - Added support for rollup (`rollup.config.js`, `rollup.config.ts`, `rollup.config.coffee`)

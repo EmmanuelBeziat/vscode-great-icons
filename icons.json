@@ -449,6 +449,9 @@
 		},
 		"_f_rollup": {
 			"iconPath": "./icons/rollup.png"
+		},
+		"_f_editorconfig": {
+			"iconPath": "./icons/editorconfig.png"
 		}
 	},
 	"file": "_file",
@@ -676,7 +679,7 @@
 		"rakefile": "_f_ruby",
 		"mk": "_f_settings",
 		"config": "_f_settings",
-		"editorconfig": "_f_settings",
+		"editorconfig": "_f_editorconfig",
 		"bat": "_f_shell",
 		"sh": "_f_shell",
 		"cmd": "_f_shell",
