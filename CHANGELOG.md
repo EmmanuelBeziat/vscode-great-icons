@@ -1,3 +1,7 @@
+# v2.1.16 (2017.09.12)
+
+- Added support for rollup (`rollup.config.js`, `rollup.config.ts`, `rollup.config.coffee`)
+
 # v2.1.15 (2017.08.25)
 
 - Added support for lua (`*.lua`)
