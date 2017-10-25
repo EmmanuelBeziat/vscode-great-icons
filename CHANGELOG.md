@@ -1,3 +1,7 @@
+# v2.1.18 (2017.10.25)
+
+- Added support for Webpack config partials (`webpack.config.parts.{js,ts}`) — Thanks to [@tdd](https://github.com/tdd)
+
 # v2.1.17 (2017.10.21)
 
 - New icon for editorconfig

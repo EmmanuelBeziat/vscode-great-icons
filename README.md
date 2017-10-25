@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.17-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+612k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.18-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+612k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -22,10 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.17 (2017.10.21)
+### v2.1.18 (2017.10.25)
 
-- New icon for editorconfig
-- Added root folder icons
+- Added support for Webpack config partials (`webpack.config.parts.{js,ts}`) — Thanks to [@tdd](https://github.com/tdd)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
