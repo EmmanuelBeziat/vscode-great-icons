@@ -866,6 +866,8 @@
 		"webpack.config.base.babel.ts": "_f_webpack",
 		"webpack.config.staging.babel.js": "_f_webpack",
 		"webpack.config.staging.babel.ts": "_f_webpack",
+		"webpack.config.parts.js": "_f_webpack",
+		"webpack.config.parts.ts": "_f_webpack",
 		"webpack.config.coffee": "_f_webpack",
 		"webpack.config.test.js": "_f_webpack",
 		"webpack.config.test.ts": "_f_webpack",
