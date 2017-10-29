@@ -1,3 +1,8 @@
+# v2.1.19 (2017.10.29)
+
+- Added support for json5 (`*.json5`)
+- Extended support for `.vscode` folder (`extensions.json`, `settings.json`) — Thanks to [@tdd](https://github.com/tdd)
+
 # v2.1.18 (2017.10.25)
 
 - Added support for Webpack config partials (`webpack.config.parts.{js,ts}`) — Thanks to [@tdd](https://github.com/tdd)

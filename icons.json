@@ -452,6 +452,9 @@
 		},
 		"_f_editorconfig": {
 			"iconPath": "./icons/editorconfig.png"
+		},
+		"_f_json5": {
+			"iconPath": "./icons/json5.png"
 		}
 	},
 	"file": "_file",
@@ -779,7 +782,8 @@
 		"rproj": "_f_rstudio",
 		"sol": "_f_solidity",
 		"lua": "_f_lua",
-		"http": "_f_server"
+		"http": "_f_server",
+		"json5": "_f_json5"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
