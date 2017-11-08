@@ -455,6 +455,12 @@
 		},
 		"_f_json5": {
 			"iconPath": "./icons/json5.png"
+		},
+		"_f_graphql": {
+			"iconPath": "./icons/graphql.png"
+		},
+		"_f_prettier": {
+			"iconPath": "./icons/prettier"
 		}
 	},
 	"file": "_file",
@@ -783,7 +789,11 @@
 		"sol": "_f_solidity",
 		"lua": "_f_lua",
 		"http": "_f_server",
-		"json5": "_f_json5"
+		"json5": "_f_json5",
+		"gql": "_f_graphql",
+		"graphql": "_f_graphql",
+		"prettierrc": "_f_prettier",
+		"prettierignore": "_f_prettier"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -892,7 +902,14 @@
 		".gitlab-ci.yml": "_f_gitlab",
 		"rollup.config.js": "_f_rollup",
 		"rollup.config.ts": "_f_rollup",
-		"rollup.config.coffee": "_f_rollup"
+		"rollup.config.coffee": "_f_rollup",
+		"prettierrc.js": "_f_prettier",
+		"prettierrc.json": "_f_prettier",
+		"prettierrc.yml": "_f_prettier",
+		"prettierrc.yaml": "_f_prettier",
+		"prettier.config.js": "_f_prettier",
+		"prettier.config.ts": "_f_prettier",
+		"prettier.config.coffee": "_f_prettier"
 	},
 	"languageIds": {
 		"git": "_f_git",

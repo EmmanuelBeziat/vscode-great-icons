@@ -1,3 +1,8 @@
+# v2.1.20 (2017.11.08)
+
+- Added support for Prettier (`.prettierc`, `prettier.config.{js,ts,coffee}`, various files)
+- Added support for GraphQL (`*.gql`, `*.graphql`)
+
 # v2.1.19 (2017.10.29)
 
 - Added support for json5 (`*.json5`)
