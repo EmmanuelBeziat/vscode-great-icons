@@ -2,7 +2,7 @@
     "name": "vscode-great-icons",
     "displayName": "VSCode Great Icons",
     "description": "A big pack of icons (100+) for your files.",
-    "version": "2.1.19",
+    "version": "2.1.20",
     "publisher": "emmanuelbeziat",
     "engines": {
         "vscode": "^1.5.0"

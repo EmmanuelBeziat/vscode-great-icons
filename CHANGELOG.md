@@ -1,6 +1,11 @@
-# v2.1.20 (2017.12.06)
+# v2.1.21 (2017.12.06)
 
 - Added support for Jest folders
+
+# v2.1.20 (2017.11.08)
+
+- Added support for Prettier (`.prettierc`, `prettier.config.{js,ts,coffee}`, various files)
+- Added support for GraphQL (`*.gql`, `*.graphql`)
 
 # v2.1.19 (2017.10.29)
 
