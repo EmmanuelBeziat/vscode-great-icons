@@ -1,3 +1,7 @@
+# v2.1.20 (2017.12.06)
+
+- Added support for Jest folders
+
 # v2.1.19 (2017.10.29)
 
 - Added support for json5 (`*.json5`)

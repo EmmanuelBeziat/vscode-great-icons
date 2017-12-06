@@ -45,6 +45,12 @@
 		"_fd_vscode_open": {
 			"iconPath": "./icons/folder-vsc-outline.png"
 		},
+		"_fd_jest": {
+			"iconPath": "./icons/jest.png"
+		},
+		"_fd_jest_open": {
+			"iconPath": "./icons/jest.png"
+		},
 		"_f_actionscript": {
 			"iconPath": "./icons/actionscript.png"
 		},

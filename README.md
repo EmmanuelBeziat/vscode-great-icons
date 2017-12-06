@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.19-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+682k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.20-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+682k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -22,10 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.19 (2017.10.29)
+### v2.1.20 (2017.12.06)
 
-- Added support for json5 (`*.json5`)
-- Extended support for `.vscode` folder (`extensions.json`, `settings.json`) — Thanks to [@tdd](https://github.com/tdd)
+- Added support for Jest folders
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
