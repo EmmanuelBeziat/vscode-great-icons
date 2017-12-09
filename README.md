@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.21-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+682k-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.21-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+795-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -10,7 +10,7 @@ A big pack of icons (100+) for your files.
 
 Enjoy ☺
 
-> Wow, we reached 728k downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
+> Wow, we reached 795k downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -22,7 +22,7 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.21 (2017.12.06)
+### v2.1.21 (2017.12.09)
 
 - Added support for Jest folders
 

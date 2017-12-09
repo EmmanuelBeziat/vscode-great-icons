@@ -1,4 +1,4 @@
-# v2.1.21 (2017.12.06)
+# v2.1.21 (2017.12.09)
 
 - Added support for Jest folders
 

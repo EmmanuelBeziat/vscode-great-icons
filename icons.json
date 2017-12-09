@@ -46,10 +46,10 @@
 			"iconPath": "./icons/folder-vsc-outline.png"
 		},
 		"_fd_jest": {
-			"iconPath": "./icons/jest.png"
+			"iconPath": "./icons/folder-jest.png"
 		},
 		"_fd_jest_open": {
-			"iconPath": "./icons/jest.png"
+			"iconPath": "./icons/folder-jest-outline.png"
 		},
 		"_f_actionscript": {
 			"iconPath": "./icons/actionscript.png"
@@ -485,7 +485,9 @@
 		"tests": "_fd_tests",
 		"mocks": "_fd_tests",
 		"__mocks__": "_fd_tests",
-		"stubs": "_fd_tests"
+		"stubs": "_fd_tests",
+		"__tests__": "_fd_jest",
+		"__snapshots": "_fd_jest"
 	},
 	"folderNamesExpanded": {
 		".vscode": "_fd_vscode_open",
@@ -498,7 +500,9 @@
 		"tests": "_fd_tests_open",
 		"mocks": "_fd_tests_open",
 		"__mocks__": "_fd_tests_open",
-		"stubs": "_fd_tests_open"
+		"stubs": "_fd_tests_open",
+		"__tests__": "_fd_jest_open",
+		"__snapshots": "_fd_jest_open"
 	},
 	"fileExtensions": {
 		"ai": "_f_illustrator",
