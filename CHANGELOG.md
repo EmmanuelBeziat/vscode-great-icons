@@ -1,3 +1,9 @@
+# v2.1.22 (2017.12.18)
+
+- Debugged Prettier icon
+- Debug of react icon
+- Added different icon for `*.m` files (matlab)
+
 # v2.1.21 (2017.12.09)
 
 - Added support for Jest folders

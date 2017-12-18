@@ -234,6 +234,9 @@
 		"_f_matlab": {
 			"iconPath": "./icons/matlab.png"
 		},
+		"_f_matlab-alt": {
+			"iconPath": "./icons/matlab-red.png"
+		},
 		"_f_mjml": {
 			"iconPath": "./icons/mjml.png"
 		},
@@ -466,7 +469,7 @@
 			"iconPath": "./icons/graphql.png"
 		},
 		"_f_prettier": {
-			"iconPath": "./icons/prettier"
+			"iconPath": "./icons/prettier.png"
 		}
 	},
 	"file": "_file",
@@ -803,7 +806,8 @@
 		"gql": "_f_graphql",
 		"graphql": "_f_graphql",
 		"prettierrc": "_f_prettier",
-		"prettierignore": "_f_prettier"
+		"prettierignore": "_f_prettier",
+		"m": "_f_matlab-alt"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
