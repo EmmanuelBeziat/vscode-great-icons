@@ -1,6 +1,13 @@
-# v2.1.22 (2018.01.31)
+### v2.1.23 (2018.01.31)
 
 * Added support for hiding arrows on folders (thanks @andremacola)
+* Debug version
+
+# v2.1.22 (2017.12.18)
+
+* Debugged Prettier icon
+* Debug of react icon
+* Added different icon for `*.m` files (matlab)
 
 # v2.1.21 (2017.12.09)
 
