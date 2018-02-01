@@ -1,4 +1,8 @@
-### v2.1.23 (2018.01.31)
+# v2.1.24 (2018.02.02)
+
+* Revert back to arrows on folders, awaiting for a better way to implement
+
+# v2.1.23 (2018.01.31)
 
 * Added support for hiding arrows on folders (thanks @andremacola)
 * Debug version
