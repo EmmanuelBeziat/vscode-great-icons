@@ -1,3 +1,7 @@
+# v2.1.25 (2018.02.23)
+
+* Added support for Jenkinsfile
+
 # v2.1.24 (2018.02.02)
 
 * Revert back to arrows on folders, awaiting for a better way to implement

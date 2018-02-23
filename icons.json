@@ -211,6 +211,9 @@
 		"_f_javascript": {
 			"iconPath": "./icons/javascript.png"
 		},
+		"_f_jenkinsfile": {
+			"iconPath": "./icons/jenkinsfile.png"
+		},
 		"_f_json": {
 			"iconPath": "./icons/json.png"
 		},
@@ -829,6 +832,7 @@
 		"gulpfile.ts": "_f_gulp",
 		"gulpfile.coffee": "_f_gulp",
 		"gulpfile.babel.js": "_f_gulp",
+		"Jenkinsfile": "_f_jenkinsfile",
 		"karma.conf.js": "_f_karma",
 		"karma.conf.ts": "_f_karma",
 		"karma.conf.coffee": "_f_karma",
