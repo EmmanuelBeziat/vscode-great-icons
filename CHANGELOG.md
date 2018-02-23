@@ -1,4 +1,4 @@
-# v2.1.25 (2018.02.23)
+# v2.1.25 & v2.1.26 (2018.02.23)
 
 * Added support for Jenkinsfile
 
