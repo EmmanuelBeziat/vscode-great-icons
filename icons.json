@@ -474,6 +474,9 @@
 		},
 		"_f_prettier": {
 			"iconPath": "./icons/prettier.png"
+		},
+		"_f_cuda": {
+			"iconPath": "./icons/cuda.png"
 		}
 	},
 	"file": "_file",
@@ -811,7 +814,8 @@
 		"graphql": "_f_graphql",
 		"prettierrc": "_f_prettier",
 		"prettierignore": "_f_prettier",
-		"m": "_f_matlab-alt"
+		"m": "_f_matlab-alt",
+		"cu": "_f_cuda"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -969,6 +973,7 @@
 		"php": "_f_php",
 		"html": "_f_html",
 		"json": "_f_json",
-		"dart": "_f_dart"
+		"dart": "_f_dart",
+		"cuda": "_f_cuda"
 	}
 }

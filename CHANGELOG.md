@@ -1,3 +1,7 @@
+# v2.1.27(2018.02.27)
+
+* Added support for Cuda files (`*.cu`)
+
 # v2.1.25 & v2.1.26 (2018.02.23)
 
 * Added support for Jenkinsfile

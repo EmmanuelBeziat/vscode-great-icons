@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.26-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+1M-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.27-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-+1M-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -22,9 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.25 & v2.1.26 (2018.02.23)
+### v2.1.27(2018.02.27)
 
-* Added support for Jenkinsfile
+* Added support for Cuda files (`*.cu`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
