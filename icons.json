@@ -477,6 +477,9 @@
 		},
 		"_f_cuda": {
 			"iconPath": "./icons/cuda.png"
+		},
+		"_f_foxpro": {
+			"iconPath": "./icons/foxpro.png"
 		}
 	},
 	"file": "_file",
