@@ -480,6 +480,9 @@
 		},
 		"_f_foxpro": {
 			"iconPath": "./icons/foxpro.png"
+		},
+		"_f_kotlin": {
+			"iconPath": "./icons/kotlin.png"
 		}
 	},
 	"file": "_file",
@@ -818,7 +821,11 @@
 		"prettierrc": "_f_prettier",
 		"prettierignore": "_f_prettier",
 		"m": "_f_matlab-alt",
-		"cu": "_f_cuda"
+		"cu": "_f_cuda",
+		"kt": "_f_kotlin",
+		"kts": "_f_kotlin",
+		"prg": "_f_foxpro",
+		"fxp": "_f_foxpro"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",

@@ -1,4 +1,9 @@
-# v2.1.27(2018.02.27)
+# v2.1.28 (2018.03.09)
+
+* Added support for Foxpro files (`*.fxp`, `*.prg`)
+* Added support for Kotlin files (`*.kt`, `*.kts`)
+
+# v2.1.27 (2018.02.27)
 
 * Added support for Cuda files (`*.cu`)
 
