@@ -1,3 +1,8 @@
+# v2.1.29 (2018.03.18)
+
+* Added support for Harbour files (`*.prg`, `*.ch`, `*.hbp`, `*.hbc`)
+* Added support for Pascal files (`*.pp`, `*.pas`, `*.lpr`, `*.dpr`)
+
 # v2.1.28 (2018.03.09)
 
 * Added support for Foxpro files (`*.fxp`, `*.prg`)

@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.29-brightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-1.1M-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.29-brboightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-1.1M-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.10.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -22,10 +22,10 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.28 (2018.03.09)
+### v2.1.29 (2018.03.18)
 
-* Added support for Foxpro files (`*.fxp`, `*.prg`)
-* Added support for Kotlin files (`*.kt`, `*.kts`)
+* Added support for Harbour files (`*.prg`, `*.ch`, `*.hbp`, `*.hbc`)
+* Added support for Pascal files (`*.pp`, `*.pas`, `*.lpr`, `*.dpr`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

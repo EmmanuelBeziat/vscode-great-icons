@@ -483,6 +483,15 @@
 		},
 		"_f_kotlin": {
 			"iconPath": "./icons/kotlin.png"
+		},
+		"_f_pascal": {
+			"iconPath": "./icons/pascal.png"
+		},
+		"_f_pascalproject": {
+			"iconPath": "./icons/pascal-project.png"
+		},
+		"_f_harbour": {
+			"iconPath": "./icons/harbour.png"
 		}
 	},
 	"file": "_file",
@@ -824,8 +833,13 @@
 		"cu": "_f_cuda",
 		"kt": "_f_kotlin",
 		"kts": "_f_kotlin",
-		"prg": "_f_foxpro",
-		"fxp": "_f_foxpro"
+		"fxp": "_f_foxpro",
+		"pas": "_f_pascal",
+		"dpr": "_f_pascalproject",
+		"lpr": "_f_pascalproject",
+		"prg": "_f_harbour",
+		"hbp": "_f_harbour",
+		"hbc": "_f_harbour"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -984,6 +998,9 @@
 		"html": "_f_html",
 		"json": "_f_json",
 		"dart": "_f_dart",
-		"cuda": "_f_cuda"
+		"cuda": "_f_cuda",
+		"pascal": "_f_pascal",
+		"foxpro": "_f_foxpro",
+		"harbour": "_f_harbour"
 	}
 }
