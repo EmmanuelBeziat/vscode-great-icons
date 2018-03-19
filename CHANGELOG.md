@@ -1,3 +1,7 @@
+# v2.1.30 (2018.03.19)
+
+* Removed specific icon for `*.prg` extension, as used by too many languages workspaces
+
 # v2.1.29 (2018.03.18)
 
 * Added support for Harbour files (`*.prg`, `*.ch`, `*.hbp`, `*.hbc`)

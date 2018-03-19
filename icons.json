@@ -837,9 +837,9 @@
 		"pas": "_f_pascal",
 		"dpr": "_f_pascalproject",
 		"lpr": "_f_pascalproject",
-		"prg": "_f_harbour",
 		"hbp": "_f_harbour",
-		"hbc": "_f_harbour"
+		"hbc": "_f_harbour",
+		"prg": "_f_exe"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
