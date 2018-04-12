@@ -1,3 +1,8 @@
+# v2.1.31 (2018.04.12)
+
+* Changed icon for Pascal files
+* Added support for Terraform files (`*.tf`, `*.tfvars`)
+
 # v2.1.30 (2018.03.19)
 
 * Removed specific icon for `*.prg` extension, as used by too many languages workspaces

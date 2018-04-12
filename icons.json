@@ -492,6 +492,9 @@
 		},
 		"_f_harbour": {
 			"iconPath": "./icons/harbour.png"
+		},
+		"_f_terraform": {
+			"iconPath": "./icons/terraform.png"
 		}
 	},
 	"file": "_file",
@@ -839,7 +842,9 @@
 		"lpr": "_f_pascalproject",
 		"hbp": "_f_harbour",
 		"hbc": "_f_harbour",
-		"prg": "_f_exe"
+		"prg": "_f_exe",
+		"tf": "_f_terraform",
+		"tfvars": "_f_terraform"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
