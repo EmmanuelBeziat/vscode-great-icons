@@ -673,6 +673,7 @@
 		"merlin": "_f_ocaml",
 		"pdf": "_f_pdf",
 		"postcss": "_f_postcss",
+		"postcssrc": "_f_postcss",
 		"pcss": "_f_postcss",
 		"perl": "_f_perl",
 		"pl": "_f_perl",
