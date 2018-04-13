@@ -572,6 +572,7 @@
 		"cshtml": "_f_razor",
 		"csproj": "_f_visualstudio",
 		"css": "_f_css",
+		"dockerignore": "_f_docker",
 		"dockerfile": "_f_docker",
 		"dockerfile.environment": "_f_docker",
 		"dust": "_f_dust",
