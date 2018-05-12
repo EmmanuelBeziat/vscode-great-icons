@@ -1,3 +1,8 @@
+# v2.1.32 (2018.05.12)
+
+* Added support for tslint files (`tslint.json`)
+* Added support for rst (python doc) files (`*.rst`)
+
 # v2.1.31 (2018.04.12)
 
 * Changed icon for Pascal files

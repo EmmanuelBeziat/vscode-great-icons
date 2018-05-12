@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.31-brboightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-1.3M-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.20.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.32-brboightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-1.3M-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.20.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -22,10 +22,10 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.31 (2018.04.12)
+### v2.1.32 (2018.05.12)
 
-* Changed icon for Pascal files
-* Added support for Terraform files (`*.tf`, `*.tfvars`)
+* Added support for tslint files (`tslint.json`)
+* Added support for rst (python doc) files (`*.rst`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

@@ -495,6 +495,12 @@
 		},
 		"_f_terraform": {
 			"iconPath": "./icons/terraform.png"
+		},
+		"_f_rst": {
+			"iconPath": "./icons/rst.png"
+		},
+		"_f_tslint": {
+			"iconPath": "./icons/tslint.png"
 		}
 	},
 	"file": "_file",
@@ -846,7 +852,8 @@
 		"hbc": "_f_harbour",
 		"prg": "_f_exe",
 		"tf": "_f_terraform",
-		"tfvars": "_f_terraform"
+		"tfvars": "_f_terraform",
+		"rst": "_f_rst"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -963,7 +970,10 @@
 		"prettierrc.yaml": "_f_prettier",
 		"prettier.config.js": "_f_prettier",
 		"prettier.config.ts": "_f_prettier",
-		"prettier.config.coffee": "_f_prettier"
+		"prettier.config.coffee": "_f_prettier",
+		"tslint.js": "_f_tslint",
+		"tslint.ts": "_f_tslint",
+		"tslint.json": "_f_tslint"
 	},
 	"languageIds": {
 		"git": "_f_git",
