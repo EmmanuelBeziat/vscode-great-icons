@@ -501,6 +501,12 @@
 		},
 		"_f_tslint": {
 			"iconPath": "./icons/tslint.png"
+		},
+		"_f_reason": {
+			"iconPath": "./icons/reason.png"
+		},
+		"_f_bucklescript": {
+			"iconPath": "./icons/buckle.png"
 		}
 	},
 	"file": "_file",
@@ -853,7 +859,9 @@
 		"prg": "_f_exe",
 		"tf": "_f_terraform",
 		"tfvars": "_f_terraform",
-		"rst": "_f_rst"
+		"rst": "_f_rst",
+		"re": "_f_reason",
+		"rei": "_f_reason"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -973,7 +981,9 @@
 		"prettier.config.coffee": "_f_prettier",
 		"tslint.js": "_f_tslint",
 		"tslint.ts": "_f_tslint",
-		"tslint.json": "_f_tslint"
+		"tslint.json": "_f_tslint",
+		"bsconfig.json": "_f_bucklescript",
+		".bsb.lock": "_f_bucklescript"
 	},
 	"languageIds": {
 		"git": "_f_git",
@@ -1009,6 +1019,7 @@
 		"autoit": "_f_autoit",
 		"haml": "_f_haml",
 		"smarty": "_f_smarty",
+		"docker": "_f_docker",
 		"dockerfile": "_f_docker",
 		"markdown": "_f_markdown",
 		"php": "_f_php",

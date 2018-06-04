@@ -1,3 +1,9 @@
+# v2.1.33 (2018.06.04)
+
+* Added support for Reason files (`*.re`, `*.rei`)
+* Added support for BuckleScript files (`bucklescript.json`, `.bsb.lock`)
+* Extended support for Docker environment
+
 # v2.1.32 (2018.05.12)
 
 * Added support for tslint files (`tslint.json`)
