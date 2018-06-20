@@ -1,8 +1,18 @@
-# v2.1.32 (2018.05.20)
+# v2.1.34 (2018.05.20)
 
 * Added support for VisualBasic files (`*.vb`)
 * Extended support for dockerfile environments
 
+# v2.1.33 (2018.06.04)
+
+* Added support for Reason files (`*.re`, `*.rei`)
+* Added support for BuckleScript files (`bucklescript.json`, `.bsb.lock`)
+* Extended support for Docker environment
+
+# v2.1.32 (2018.05.12)
+
+* Added support for tslint files (`tslint.json`)
+* Added support for rst (python doc) files (`*.rst`)
 
 # v2.1.31 (2018.04.12)
 
