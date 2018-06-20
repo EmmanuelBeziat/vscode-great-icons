@@ -495,6 +495,9 @@
 		},
 		"_f_terraform": {
 			"iconPath": "./icons/terraform.png"
+		},
+		"_f_visualbasic": {
+			"iconPath": "./icons/visualbasic.png"
 		}
 	},
 	"file": "_file",
@@ -575,6 +578,7 @@
 		"dockerignore": "_f_docker",
 		"dockerfile": "_f_docker",
 		"dockerfile.environment": "_f_docker",
+		"environment.dockerfile": "_f_docker",
 		"dust": "_f_dust",
 		"ejs": "_f_ejs",
 		"eslintrc": "_f_eslint",
@@ -846,7 +850,8 @@
 		"hbc": "_f_harbour",
 		"prg": "_f_exe",
 		"tf": "_f_terraform",
-		"tfvars": "_f_terraform"
+		"tfvars": "_f_terraform",
+		"vb": "_f_visualbasic"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -860,6 +865,8 @@
 		"docker-compose.yml": "_f_docker",
 		"dockerfile": "_f_docker",
 		"dockerfile.environment": "_f_docker",
+		"environment.dockerfile": "_f_docker",
+		"nginx.dockerfile": "_f_docker",
 		"gruntfile.js": "_f_grunt",
 		"gruntfile.ts": "_f_grunt",
 		"gruntfile.coffee": "_f_grunt",
@@ -1008,6 +1015,7 @@
 		"cuda": "_f_cuda",
 		"pascal": "_f_pascal",
 		"foxpro": "_f_foxpro",
-		"harbour": "_f_harbour"
+		"harbour": "_f_harbour",
+		"visualbasic": "_f_visualbasic"
 	}
 }

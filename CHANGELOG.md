@@ -1,3 +1,9 @@
+# v2.1.32 (2018.05.20)
+
+* Added support for VisualBasic files (`*.vb`)
+* Extended support for dockerfile environments
+
+
 # v2.1.31 (2018.04.12)
 
 * Changed icon for Pascal files
