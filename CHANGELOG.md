@@ -1,3 +1,7 @@
+# v2.1.36 (2018.06.04)
+
+* Added support for Jupyter files (`*.ipynb`)
+
 # v2.1.34 & v2.1.35 (2018.05.20)
 
 * Added support for VisualBasic files (`*.vb`)

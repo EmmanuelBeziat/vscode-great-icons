@@ -22,10 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.34 & v2.1.35 (2018.05.20)
+### v2.1.36 (2018.06.04)
 
-* Added support for VisualBasic files (`*.vb`)
-* Extended support for dockerfile environments
+* Added support for Jupyter files (`*.ipynb`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

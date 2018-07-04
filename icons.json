@@ -510,6 +510,9 @@
 		},
 		"_f_bucklescript": {
 			"iconPath": "./icons/buckle.png"
+		},
+		"_f_jupyter": {
+			"iconPath": "./icons/jupyter.png"
 		}
 	},
 	"file": "_file",
@@ -866,7 +869,8 @@
 		"vb": "_f_visualbasic",
 		"rst": "_f_rst",
 		"re": "_f_reason",
-		"rei": "_f_reason"
+		"rei": "_f_reason",
+		"ipynb": "_f_jupyter"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
