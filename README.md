@@ -1,6 +1,6 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.35-brboightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-1.5M-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.20.0+-brightgreen.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1.37-brboightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-1.7M-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.20.0+-brightgreen.svg?style=flat-square)
 
 A big pack of icons (100+) for your files.
 
@@ -10,7 +10,7 @@ A big pack of icons (100+) for your files.
 
 Enjoy ☺
 
-> Wow, we reached 1.5 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
+> Wow, we reached 1.7 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -22,9 +22,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.36 (2018.06.04)
+### v2.1.37 (2018.07.18)
 
-* Added support for Jupyter files (`*.ipynb`)
+* Extended support for handlebars
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

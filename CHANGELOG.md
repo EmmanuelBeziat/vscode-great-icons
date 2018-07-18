@@ -1,3 +1,7 @@
+# v2.1.37 (2018.07.18)
+
+* Extended support for handlebars
+
 # v2.1.36 (2018.06.04)
 
 * Added support for Jupyter files (`*.ipynb`)

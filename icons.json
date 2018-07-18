@@ -631,6 +631,7 @@
 		"lit": "_f_haskell",
 		"gf": "_f_haskell",
 		"hbs": "_f_handlebars",
+		"hbs.html": "_f_handlebars",
 		"hx": "_f_haxe",
 		"hxml": "_f_haxe",
 		"htm": "_f_html",
@@ -870,7 +871,7 @@
 		"rst": "_f_rst",
 		"re": "_f_reason",
 		"rei": "_f_reason",
-		"ipynb": "_f_jupyter"
+		"ipynb": "_f_jupyter",
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
