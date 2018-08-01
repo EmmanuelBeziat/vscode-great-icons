@@ -1,3 +1,7 @@
+# v2.1.38 (2018.08.01)
+
+* Added support for Axure RP (`*.rp`)
+
 # v2.1.37 (2018.07.18)
 
 * Extended support for handlebars

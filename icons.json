@@ -513,6 +513,9 @@
 		},
 		"_f_jupyter": {
 			"iconPath": "./icons/jupyter.png"
+		},
+		"_f_axure": {
+			"iconPath": "./icons/axure.png"
 		}
 	},
 	"file": "_file",
@@ -872,6 +875,7 @@
 		"re": "_f_reason",
 		"rei": "_f_reason",
 		"ipynb": "_f_jupyter",
+		"rp": "_f_axure"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
