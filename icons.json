@@ -992,7 +992,7 @@
 		".gitlab-ci.yml": "_f_gitlab",
 		"rollup.config.js": "_f_rollup",
 		"rollup.config.ts": "_f_rollup",
-    "rollup.config.coffee": "_f_rollup",
+		"rollup.config.coffee": "_f_rollup",
 		"postcss.config.js": "_f_postcss",
 		"postcss.config.json": "_f_postcss",
 		"prettierrc.js": "_f_prettier",
