@@ -1,4 +1,4 @@
-# v2.1.40 (2018.08.13)
+# v2.1.40 & v2.1.41 (2018.08.13)
 
 * Extended support for postcss (thanks @dimitrinicolas)
 * Added support for D programming language (`*.d`, `*.di`, `dub.json`)

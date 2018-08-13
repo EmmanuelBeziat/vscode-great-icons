@@ -1,7 +1,5 @@
 # VSCode Great Icons
 
-![version](https://img.shields.io/badge/version-2.1.39-brboightgreen.svg?style=flat-square) ![downloaded](https://img.shields.io/badge/downloaded-1.8M-brightgreen.svg?style=flat-square) ![compatibility](https://img.shields.io/badge/compatible-1.20.0+-brightgreen.svg?style=flat-square)
-
 A big pack of icons (100+) for your files.
 
 ![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
@@ -22,7 +20,7 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.40 (2018.08.13)
+### v2.1.40 & v2.1.41 (2018.08.13)
 
 * Extended support for postcss (thanks @dimitrinicolas)
 * Added support for D programming language (`*.d`, `*.di`, `dub.json`)
