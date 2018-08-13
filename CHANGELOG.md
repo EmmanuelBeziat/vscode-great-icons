@@ -1,3 +1,8 @@
+# v2.1.40 (2018.08.13)
+
+* Extended support for postcss (thanks @dimitrinicolas)
+* Added support for D programming language (`*.d`, `*.di`, `dub.json`)
+
 # v2.1.38 & v2.1.39 (2018.08.01)
 
 * Added support for Axure RP (`*.rp`)

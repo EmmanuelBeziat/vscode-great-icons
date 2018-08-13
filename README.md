@@ -6,7 +6,7 @@ A big pack of icons (100+) for your files.
 
 ![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
 
-(This image is non-exhaustive and may not be up to date)
+(**This image is non-exhaustive and may not be up to date**)
 
 Enjoy ☺
 
@@ -22,9 +22,10 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.38 & v2.1.39 (2018.08.01)
+### v2.1.40 (2018.08.13)
 
-* Added support for Axure RP (`*.rp`)
+* Extended support for postcss (thanks @dimitrinicolas)
+* Added support for D programming language (`*.d`, `*.di`, `dub.json`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

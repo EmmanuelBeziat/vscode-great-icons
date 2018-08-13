@@ -516,6 +516,9 @@
 		},
 		"_f_axure": {
 			"iconPath": "./icons/axure.png"
+		},
+		"_f_d": {
+			"iconPath": "./icons/d.png"
 		}
 	},
 	"file": "_file",
@@ -877,7 +880,9 @@
 		"re": "_f_reason",
 		"rei": "_f_reason",
 		"ipynb": "_f_jupyter",
-		"rp": "_f_axure"
+		"rp": "_f_axure",
+		"d": "_f_d",
+		"di": "_f_d"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1001,7 +1006,8 @@
 		"tslint.ts": "_f_tslint",
 		"tslint.json": "_f_tslint",
 		"bsconfig.json": "_f_bucklescript",
-		".bsb.lock": "_f_bucklescript"
+		".bsb.lock": "_f_bucklescript",
+		"dub.json": "_f_d"
 	},
 	"languageIds": {
 		"git": "_f_git",
