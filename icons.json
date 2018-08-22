@@ -253,6 +253,9 @@
 		"_f_key": {
 			"iconPath": "./icons/key.png"
 		},
+		"_f_knex": {
+			"iconPath": "./icons/knex.svg"
+		},
 		"_f_less": {
 			"iconPath": "./icons/less.png"
 		},
@@ -500,7 +503,7 @@
 			"iconPath": "./icons/json5.png"
 		},
 		"_f_graphql": {
-			"iconPath": "./icons/graphql.png"
+			"iconPath": "./icons/graphql.svg"
 		},
 		"_f_prettier": {
 			"iconPath": "./icons/prettier.png"
@@ -601,6 +604,7 @@
 		"au3": "_f_autoit",
 		"htaccess": "_f_settings",
 		"cfg": "_f_settings",
+		"conf": "_f_settings",
 		"zshrc": "_f_settings",
 		"zshenv": "_f_settings",
 		"bashrc": "_f_settings",
@@ -958,6 +962,7 @@
 		"dockerfile.environment": "_f_docker",
 		"environment.dockerfile": "_f_docker",
 		"nginx.dockerfile": "_f_docker",
+		".gqlconfig": "_f_graphql",
 		"gruntfile.js": "_f_grunt",
 		"gruntfile.ts": "_f_grunt",
 		"gruntfile.coffee": "_f_grunt",
@@ -969,6 +974,7 @@
 		"karma.conf.js": "_f_karma",
 		"karma.conf.ts": "_f_karma",
 		"karma.conf.coffee": "_f_karma",
+		"knexfile.js": "_f_knex",
 		"license": "_f_key",
 		"licence": "_f_key",
 		"license.md": "_f_key",
