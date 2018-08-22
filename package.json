@@ -1,9 +1,9 @@
 {
-    "name": "vscode-great-icons",
-    "displayName": "VSCode Great Icons",
-    "description": "A big pack of icons (100+) for your files.",
-    "version": "2.1.41",
-    "publisher": "emmanuelbeziat",
+    "name": "vscode-simpler-icons",
+    "displayName": "VSCode simpler Icons with Angular",
+    "description": "A fork from vscode-great-icons. With fewer different icons and some angular icons. Mainly created for personnal use.",
+    "version": "1.6.0",
+    "publisher": "davidbabel",
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -18,18 +18,19 @@
     "contributes": {
         "iconThemes": [
             {
-                "id": "vscode-great-icons",
-                "label": "VSCode Great Icons",
+                "id": "vscode-simpler-icons",
+                "label": "VSCode simpler Icons",
                 "path": "./icons.json"
             }
         ]
     },
-    "icon": "images/vscode-great-icons_icon.png",
+    "icon": "images/vscode-simpler-icons_icon.png",
     "galleryBanner": {
         "color": "#e0e0e0",
         "theme": "light"
     },
     "keywords": [
+        "angular",
         "icons",
         "theme",
         "icon-theme",
@@ -37,18 +38,18 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/EmmanuelBeziat/vscode-great-icons.git"
+        "url": "git+https://github.com/DavidBabel/vscode-simpler-icons.git"
     },
     "author": {
-        "email": "contact@emmanuelbeziat.com",
-        "name": "Emmanuel Béziat",
-        "url": "https://www.emmanuelbeziat.com"
+        "email": "babel.david@gmail.com",
+        "name": "David Babel",
+        "url": ""
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/EmmanuelBeziat/vscode-great-icons/issues"
+        "url": "https://github.com/DavidBabel/vscode-simpler-icons/issues"
     },
-    "homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
+    "homepage": "https://github.com/DavidBabel/vscode-simpler-icons#readme",
     "devDependencies": {
         "imagemin-cli": "^3.0.0",
         "vsce": "^1.39.0"

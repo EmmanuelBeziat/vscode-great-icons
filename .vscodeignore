@@ -10,7 +10,9 @@ app/test/**
 node_modules/**
 npm-debug.*
 ISSUE_TEMPLATE.md
+node_modules
 logo.png
+.DS_Store
 yarn.lock
 tsconfig.json
 tslint.json

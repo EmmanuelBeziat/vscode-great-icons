@@ -40,6 +40,12 @@
 		"_fd_tests_open": {
 			"iconPath": "./icons/folder-tests-outline.png"
 		},
+		"_fd_out": {
+			"iconPath": "./icons/folder-out.png"
+		},
+		"_fd_out_open": {
+			"iconPath": "./icons/folder-out-outline.png"
+		},
 		"_fd_vscode": {
 			"iconPath": "./icons/folder-vsc.png"
 		},
@@ -57,6 +63,24 @@
 		},
 		"_f_android": {
 			"iconPath": "./icons/android.png"
+		},
+		"_f_angular_bis": {
+			"iconPath": "./icons/angular-bis.png"
+		},
+		"_f_angular_component": {
+			"iconPath": "./icons/angular-component.png"
+		},
+		"_f_angular_directive": {
+			"iconPath": "./icons/angular-directive.png"
+		},
+		"_f_angular_module": {
+			"iconPath": "./icons/angular-module.png"
+		},
+		"_f_angular_pipe": {
+			"iconPath": "./icons/angular-pipe.png"
+		},
+		"_f_angular_service": {
+			"iconPath": "./icons/angular-service.png"
 		},
 		"_f_angular": {
 			"iconPath": "./icons/angular.png"
@@ -154,6 +178,9 @@
 		"_f_exe": {
 			"iconPath": "./icons/exe.png"
 		},
+		"_f_flow": {
+			"iconPath": "./icons/flow.png"
+		},
 		"_f_font": {
 			"iconPath": "./icons/font.png"
 		},
@@ -225,6 +252,9 @@
 		},
 		"_f_key": {
 			"iconPath": "./icons/key.png"
+		},
+		"_f_knex": {
+			"iconPath": "./icons/knex.svg"
 		},
 		"_f_less": {
 			"iconPath": "./icons/less.png"
@@ -379,6 +409,9 @@
 		"_f_visualstudiocode": {
 			"iconPath": "./icons/visualstudiocode-nb.png"
 		},
+		"_f_travis": {
+			"iconPath": "./icons/travis.svg"
+		},
 		"_f_vue": {
 			"iconPath": "./icons/vue.png"
 		},
@@ -470,7 +503,7 @@
 			"iconPath": "./icons/json5.png"
 		},
 		"_f_graphql": {
-			"iconPath": "./icons/graphql.png"
+			"iconPath": "./icons/graphql.svg"
 		},
 		"_f_prettier": {
 			"iconPath": "./icons/prettier.png"
@@ -533,6 +566,11 @@
 		"node_modules": "_fd_node",
 		".git": "_fd_git",
 		".github": "_fd_git",
+		"out": "_fd_out",
+		"dist": "_fd_out",
+		"public": "_fd_out",
+		"build": "_fd_out",
+		"www": "_fd_out",
 		"test": "_fd_tests",
 		"tests": "_fd_tests",
 		"mocks": "_fd_tests",
@@ -548,6 +586,10 @@
 		"node_modules": "_fd_node_open",
 		".git": "_fd_git_open",
 		".github": "_fd_git_open",
+		"out": "_fd_out_open",
+		"dist": "_fd_out_open",
+		"public": "_fd_out_open",
+		"build": "_fd_out_open",
 		"test": "_fd_tests_open",
 		"tests": "_fd_tests_open",
 		"mocks": "_fd_tests_open",
@@ -560,8 +602,19 @@
 		"ai": "_f_illustrator",
 		"as": "_f_actionscript",
 		"au3": "_f_autoit",
-		"htaccess": "_f_apache",
-		"htpasswd": "_f_apache",
+		"htaccess": "_f_settings",
+		"cfg": "_f_settings",
+		"conf": "_f_settings",
+		"zshrc": "_f_settings",
+		"zshenv": "_f_settings",
+		"bashrc": "_f_settings",
+		"zpreztorc": "_f_settings",
+		"zlogin": "_f_settings",
+		"zlogout": "_f_settings",
+		"aliases": "_f_settings",
+		"profile": "_f_settings",
+		"bash_profile": "_f_settings",
+		"htpasswd": "_f_settings",
 		"bin": "_f_binary",
 		"o": "_f_binary",
 		"lib": "_f_binary",
@@ -576,7 +629,7 @@
 		"h": "_f_c-h",
 		"cake": "_f_cake",
 		"kit": "_f_codekit",
-		"coffee": "_f_coffeescript",
+		"coffee": "_f_javascript",
 		"cfc": "_f_cfm",
 		"cfm": "_f_cfm",
 		"cfml": "_f_cfm",
@@ -604,6 +657,7 @@
 		"ejs": "_f_ejs",
 		"eslintrc": "_f_eslint",
 		"eslintignore": "_f_eslint",
+		"flow": "_f_flow",
 		"ex": "_f_elixir",
 		"exs": "_f_elixir",
 		"eex": "_f_elixir",
@@ -630,14 +684,14 @@
 		"gitkeep": "_f_git",
 		"go": "_f_go",
 		"gradle": "_f_gradle",
-		"haml": "_f_haml",
+		"haml": "_f_mustache",
 		"has": "_f_haskell",
 		"hs": "_f_haskell",
 		"lhs": "_f_haskell",
 		"lit": "_f_haskell",
 		"gf": "_f_haskell",
-		"hbs": "_f_handlebars",
-		"hbs.html": "_f_handlebars",
+		"hbs": "_f_mustache",
+		"hbs.html": "_f_mustache",
 		"hx": "_f_haxe",
 		"hxml": "_f_haxe",
 		"htm": "_f_html",
@@ -648,12 +702,18 @@
 		"png": "_f_image",
 		"bmp": "_f_image",
 		"ico": "_f_image",
-		"jade": "_f_jade",
+		"jade": "_f_mustache",
 		"pug": "_f_pug",
 		"java": "_f_java",
 		"jar": "_f_java",
 		"js": "_f_javascript",
 		"es6": "_f_javascript",
+		"component.ts": "_f_angular_component",
+		"directive.ts": "_f_angular_directive",
+		"module.ts": "_f_angular_module",
+		"pipe.ts": "_f_angular_pipe",
+		"service.ts": "_f_angular_service",
+		"spec.ts": "_f_angular_bis",
 		"json": "_f_json",
 		"jl": "_f_julia",
 		"key": "_f_key",
@@ -741,8 +801,8 @@
 		"gemspec": "_f_ruby",
 		"rs": "_f_rust",
 		"scala": "_f_scala",
-		"sass": "_f_sass",
-		"scss": "_f_sass",
+		"sass": "_f_css",
+		"scss": "_f_css",
 		"sss": "_f_postcss",
 		"sln": "_f_visualstudio",
 		"suo": "_f_visualstudio",
@@ -766,15 +826,14 @@
 		"sqlite": "_f_database",
 		"sql": "_f_database",
 		"db3": "_f_database",
-		"styl": "_f_stylus",
-		"stylus": "_f_stylus",
+		"styl": "_f_css",
+		"stylus": "_f_css",
 		"svg": "_f_svg",
 		"swift": "_f_swift",
 		"test.js": "_f_tests",
 		"test.ts": "_f_tests",
 		"test.tsx": "_f_tests",
 		"spec.js": "_f_tests",
-		"spec.ts": "_f_tests",
 		"spec.tsx": "_f_tests",
 		"tcl": "_f_tcl",
 		"texi": "_f_tex",
@@ -782,9 +841,9 @@
 		"bib": "_f_tex",
 		"textile": "_f_textile",
 		"todo": "_f_todo",
-		"twig": "_f_twig",
+		"twig": "_f_mustache",
 		"ts": "_f_typescript",
-		"vue": "_f_vue",
+		"vue": "_f_mustache",
 		"vscodeignore": "_f_visualstudiocode",
 		"xml": "_f_source",
 		"axml": "_f_source",
@@ -892,10 +951,18 @@
 		"makefile": "_f_settings",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
+		"docker-compose.dev.yml": "_f_docker",
+		"docker-compose.local.yml": "_f_docker",
+		"docker-compose.test.yml": "_f_docker",
+		"docker-compose.deploy.yml": "_f_docker",
+		"docker-compose.staging.yml": "_f_docker",
+		"docker-compose.prod.yml": "_f_docker",
 		"dockerfile": "_f_docker",
+		"Dockerfile": "_f_docker",
 		"dockerfile.environment": "_f_docker",
 		"environment.dockerfile": "_f_docker",
 		"nginx.dockerfile": "_f_docker",
+		".gqlconfig": "_f_graphql",
 		"gruntfile.js": "_f_grunt",
 		"gruntfile.ts": "_f_grunt",
 		"gruntfile.coffee": "_f_grunt",
@@ -907,6 +974,7 @@
 		"karma.conf.js": "_f_karma",
 		"karma.conf.ts": "_f_karma",
 		"karma.conf.coffee": "_f_karma",
+		"knexfile.js": "_f_knex",
 		"license": "_f_key",
 		"licence": "_f_key",
 		"license.md": "_f_key",
@@ -926,8 +994,9 @@
 		"launch.json": "_f_visualstudiocode",
 		"settings.json": "_f_visualstudiocode",
 		"tasks.json": "_f_visualstudiocode",
-		"jsconfig.json": "_f_json",
-		"tsconfig.json": "_f_json",
+		"jsconfig.json": "_f_visualstudiocode",
+		"tsconfig.json": "_f_visualstudiocode",
+		"travis.yml": "_f_travis",
 		"webpack.js": "_f_webpack",
 		"webpack.ts": "_f_webpack",
 		"webpack.config.js": "_f_webpack",
@@ -984,6 +1053,8 @@
 		"yarn.lock": "_f_yarn",
 		"yarn-error.log": "_f_yarn",
 		".babelrc": "_f_babel",
+		".flowconfig": "_f_flow",
+		"eslintrc.js": "_f_eslint",
 		".eslintrc.js": "_f_eslint",
 		".eslintrc.yml": "_f_eslint",
 		".eslintrc.yaml": "_f_eslint",
@@ -1034,10 +1105,10 @@
 		"twig": "_f_twig",
 		"elm": "_f_elm",
 		"nunjucks": "_f_nunjucks",
-		"pug": "_f_pug",
+		"pug": "_f_mustache",
 		"stylus": "_f_stylus",
-		"sass": "_f_sass",
-		"less": "_f_less",
+		"sass": "_f_css",
+		"less": "_f_css",
 		"css": "_f_css",
 		"ng-template": "_f_angular",
 		"autoit": "_f_autoit",
