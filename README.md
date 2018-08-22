@@ -135,7 +135,7 @@ Here is Angular work directory preview :
 
 (next preview may not be up to date)
 
-![preview](images/preview.jpg)
+![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
 
 
 ## How to use

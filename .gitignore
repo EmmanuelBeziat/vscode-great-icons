@@ -1,4 +1,4 @@
 node_modules
-test
-dist
+app
+.vscode-test/**
 npm-debug.log

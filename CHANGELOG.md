@@ -1,3 +1,7 @@
+# v1.6.0
+
+* merge from upstream
+
 # v1.5.0
 
 * add babel / eslint / flow / npmignore icons
