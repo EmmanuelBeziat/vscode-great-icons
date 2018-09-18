@@ -1,3 +1,9 @@
+# v2.1.42 (2018.09.18)
+
+* Extended support for tests js files (thanks @covertbert)
+* Extended support for dockerfiles
+* Added support for MS-Build
+
 # v2.1.40 & v2.1.41 (2018.08.13)
 
 * Extended support for postcss (thanks @dimitrinicolas)

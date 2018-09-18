@@ -20,12 +20,17 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.40 & v2.1.41 (2018.08.13)
+# v2.1.42 (2018.09.18)
 
-* Extended support for postcss (thanks @dimitrinicolas)
-* Added support for D programming language (`*.d`, `*.di`, `dub.json`)
+* Extended support for tests js files (thanks @covertbert)
+* Extended support for dockerfiles
+* Added support for MS-Build
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
+
+## Do you work with angular?
+
+Check out the [Simpler VSCode Icons](https://github.com/DavidBabel/vscode-simpler-icons) fork by **@DavidBabel**! It has a lot of angular icons for various filetypes in angular projects.
 
 ## Sources
 
