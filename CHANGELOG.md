@@ -1,3 +1,8 @@
+# v2.1.43 (2018.10.03)
+
+* Best icon for purple VisualStudio icon
+* Extended support for npm files (`.npmrc`)
+
 # v2.1.42 (2018.09.18)
 
 * Extended support for tests js files (thanks @covertbert)

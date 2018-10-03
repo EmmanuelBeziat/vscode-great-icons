@@ -20,11 +20,10 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-# v2.1.42 (2018.09.18)
+### v2.1.43 (2018.10.03)
 
-* Extended support for tests js files (thanks @covertbert)
-* Extended support for dockerfiles
-* Added support for MS-Build
+* Best icon for purple VisualStudio icon
+* Extended support for npm files (`.npmrc`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
