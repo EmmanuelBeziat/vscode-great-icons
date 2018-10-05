@@ -902,7 +902,7 @@
 		"modelproj": "_f_visualstudio",
 		"vcproj": "_f_visualstudio",
 		"wwaproj": "_f_visualstudio",
-		"npmprc": "_f_npm"
+		"npmrc": "_f_npm"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",

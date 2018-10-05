@@ -1,4 +1,4 @@
-# v2.1.43 (2018.10.03)
+# v2.1.43 & v2.1.44 (2018.10.03)
 
 * Best icon for purple VisualStudio icon
 * Extended support for npm files (`.npmrc`)
