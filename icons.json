@@ -208,6 +208,9 @@
 		"_f_java": {
 			"iconPath": "./icons/java.png"
 		},
+		"_f_java-alt": {
+			"iconPath": "./icons/java-alt.png"
+		},
 		"_f_javascript": {
 			"iconPath": "./icons/javascript.png"
 		},
@@ -519,6 +522,12 @@
 		},
 		"_f_d": {
 			"iconPath": "./icons/d.png"
+		},
+		"_f_livescript": {
+			"iconPath": "./icons/livescript.png"
+		},
+		"_f_stylelint": {
+			"iconPath": "./icons/stylelint.png"
 		}
 	},
 	"file": "_file",
@@ -589,6 +598,7 @@
 		"cmake": "_f_cmake",
 		"cmakelists.txt": "_f_cmake",
 		"cc": "_f_cpp",
+		"hh": "_f_cpp",
 		"cpp": "_f_cpp",
 		"hpp": "_f_cpp-h",
 		"cxx": "_f_cpp",
@@ -657,6 +667,7 @@
 		"jade": "_f_jade",
 		"pug": "_f_pug",
 		"java": "_f_java",
+		"class": "_f_java-alt",
 		"jar": "_f_java",
 		"js": "_f_javascript",
 		"es6": "_f_javascript",
@@ -902,7 +913,9 @@
 		"modelproj": "_f_visualstudio",
 		"vcproj": "_f_visualstudio",
 		"wwaproj": "_f_visualstudio",
-		"npmrc": "_f_npm"
+		"npmrc": "_f_npm",
+		"ls": "_f_livescript",
+		"stylelintrc": "_f_stylelint"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",

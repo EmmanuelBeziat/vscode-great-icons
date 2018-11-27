@@ -1,3 +1,10 @@
+# v2.1.45 (2018.11.27)
+
+* Refined java icon, new icon for Java class
+* Added support for stylelint (`.stylelintrc`)
+* Added support for LiveScript (`*.ls`)
+* Extended support for C++ (`*.hh`)
+
 # v2.1.43 & v2.1.44 (2018.10.03)
 
 * Best icon for purple VisualStudio icon
