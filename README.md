@@ -8,7 +8,7 @@ A big pack of icons (100+) for your files.
 
 Enjoy ☺
 
-> Wow, we reached 2.2 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
+> Wow, we reached 2.3 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -20,11 +20,9 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.45 (2018.11.27)
+### v2.1.46 (2018.12.11)
 
-* Refined java icon, new icon for Java class
-* Added support for stylelint (`.stylelintrc`)
-* Added support for LiveScript (`*.ls`)
+* Extended support for tests files (`*.unit.js|ts|jsx`)
 * Extended support for C++ (`*.hh`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
