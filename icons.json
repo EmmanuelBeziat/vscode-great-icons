@@ -1053,7 +1053,7 @@
 		"tslint.json": "_f_tslint",
 		"bsconfig.json": "_f_bucklescript",
 		".bsb.lock": "_f_bucklescript",
-		"dub.json": "_f_d"
+		"dub.json": "_f_d",
 		"jest.config.js": "_f_jest"
 	},
 	"languageIds": {
