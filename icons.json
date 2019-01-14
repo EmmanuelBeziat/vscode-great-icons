@@ -52,6 +52,9 @@
 		"_fd_jest_open": {
 			"iconPath": "./icons/folder-jest-outline.png"
 		},
+		"_f_jest": {
+			"iconPath": "./icons/jest.png	
+		},
 		"_f_actionscript": {
 			"iconPath": "./icons/actionscript.png"
 		},
@@ -765,6 +768,9 @@
 		"suo": "_f_visualstudio",
 		"slim": "_f_slim",
 		"env": "_f_settings",
+		"env.example": "_f_settings",
+		"env.development": "_f_settings",
+		"env.production": "_f_settings",
 		"ini": "_f_settings",
 		"makefile": "_f_settings",
 		"rake": "_f_ruby",
@@ -918,7 +924,7 @@
 		"wwaproj": "_f_visualstudio",
 		"npmrc": "_f_npm",
 		"ls": "_f_livescript",
-		"stylelintrc": "_f_stylelint"
+		"stylelintrc": "_f_stylelint",
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1004,6 +1010,8 @@
 		"webpack.config.production.ts": "_f_webpack",
 		"webpack.config.staging.js": "_f_webpack",
 		"webpack.config.staging.ts": "_f_webpack",
+		"webpack.config.base.js": "_f_webpack",
+		"webpack.config.base.ts": "_f_webpack",
 		"webpack.config.babel.js": "_f_webpack",
 		"webpack.config.babel.ts": "_f_webpack",
 		"webpack.config.base.babel.js": "_f_webpack",
@@ -1046,6 +1054,7 @@
 		"bsconfig.json": "_f_bucklescript",
 		".bsb.lock": "_f_bucklescript",
 		"dub.json": "_f_d"
+		"jest.config.js": "_f_jest"
 	},
 	"languageIds": {
 		"git": "_f_git",
