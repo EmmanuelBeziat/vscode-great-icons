@@ -53,7 +53,7 @@
 			"iconPath": "./icons/folder-jest-outline.png"
 		},
 		"_f_jest": {
-			"iconPath": "./icons/jest.png	
+			"iconPath": "./icons/jest.png"
 		},
 		"_f_actionscript": {
 			"iconPath": "./icons/actionscript.png"
@@ -924,7 +924,7 @@
 		"wwaproj": "_f_visualstudio",
 		"npmrc": "_f_npm",
 		"ls": "_f_livescript",
-		"stylelintrc": "_f_stylelint",
+		"stylelintrc": "_f_stylelint"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
