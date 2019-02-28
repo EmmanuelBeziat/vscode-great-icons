@@ -313,6 +313,9 @@
 		"_f_react": {
 			"iconPath": "./icons/react.png"
 		},
+		"_f_react_alt": {
+			"iconPath": "./icons/react-alt.png"
+		},
 		"_f_rlang": {
 			"iconPath": "./icons/rlang.png"
 		},
@@ -531,6 +534,24 @@
 		},
 		"_f_stylelint": {
 			"iconPath": "./icons/stylelint.png"
+		},
+		"_f_docz": {
+			"iconPath": "./icons/docz.png"
+		},
+		"_f_prisma": {
+			"iconPath": "./icons/prisma.png"
+		},
+		"_f_toml": {
+			"iconPath": "./icons/toml.png"
+		},
+		"_f_storybook": {
+			"iconPath": "./icon/storybook.png"
+		},
+		"_f_verilog": {
+			"iconPath": "./icons/verilog.png"
+		},
+		"_f_verilog_sys": {
+			"iconPath": "./icons/verilog-alt.png"
 		}
 	},
 	"file": "_file",
@@ -747,7 +768,7 @@
 		"py": "_f_python",
 		"pyw": "_f_python",
 		"jsx": "_f_react",
-		"tsx": "_f_react",
+		"tsx": "_f_react_alt",
 		"r": "_f_rlang",
 		"R": "_f_rlang",
 		"RData": "_f_rlang",
@@ -924,7 +945,20 @@
 		"wwaproj": "_f_visualstudio",
 		"npmrc": "_f_npm",
 		"ls": "_f_livescript",
-		"stylelintrc": "_f_stylelint"
+		"stylelintrc": "_f_stylelint",
+		"stylelintignore": "_f_stylelint",
+		"htmlhintrc": "_f_settings",
+		"prisma": "_f_prisma",
+		"toml": "_f_toml",
+		"story.js": "_f_storybook",
+		"story.jsx": "_f_storybook",
+		"story.ts": "_f_storybook",
+		"story.tsx": "_f_storybook",
+		"storybook": "_f_storybook",
+		"v": "_f_verilog",
+		"vh": "_f_verilog",
+		"vo": "_f_verilog",
+		"sv": "_f_verilog_sys"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1054,7 +1088,9 @@
 		"bsconfig.json": "_f_bucklescript",
 		".bsb.lock": "_f_bucklescript",
 		"dub.json": "_f_d",
-		"jest.config.js": "_f_jest"
+		"jest.config.js": "_f_jest",
+		"doczrc.js": "_f_docz",
+		"@.toml": "_f_toml"
 	},
 	"languageIds": {
 		"git": "_f_git",

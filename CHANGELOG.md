@@ -1,3 +1,18 @@
+# v2.1.47 (2019.02.28)
+
+* Extended support for Jest (thanks @SigmundurMorkore)
+* Added support for htmlhintrc and stylelintignore (`.htmlhintrc`, `.stylelintignore`)
+* Different icon for for `.tsx` files
+* Added support for Prisma datamodel (`*.prisma`)
+* Added support for TOML files (`*.toml`, `@.toml`)
+* Added support for Storybookfiles (`*.story.js`, `*.story.jsx`, `*.story.ts`, `*.story.tsx`, `.storybook`)
+* Added support for Verilog (`*.v`, `*.vh`, `*.vo`, `*.sv`)
+
+# v2.1.46 (2018.12.11)
+
+* Extended support for tests files (`*.unit.js|ts|jsx`)
+* Extended support for C++ (`*.hh`)
+
 # v2.1.45 (2018.11.27)
 
 * Refined java icon, new icon for Java class

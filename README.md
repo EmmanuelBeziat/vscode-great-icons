@@ -8,7 +8,7 @@ A big pack of icons (100+) for your files.
 
 Enjoy ☺
 
-> Wow, we reached 2.3 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
+> Wow, we reached 2.5 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -20,10 +20,15 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.46 (2018.12.11)
+### v2.1.47 (2019.02.28)
 
-* Extended support for tests files (`*.unit.js|ts|jsx`)
-* Extended support for C++ (`*.hh`)
+* Extended support for Jest (thanks @SigmundurMorkore)
+* Added support for htmlhintrc and stylelintignore (`.htmlhintrc`, `.stylelintignore`)
+* Different icon for for `.tsx` files
+* Added support for Prisma datamodel (`*.prisma`)
+* Added support for TOML files (`*.toml`, `@.toml`)
+* Added support for Storybookfiles (`*.story.js`, `*.story.jsx`, `*.story.ts`, `*.story.tsx`, `.storybook`)
+* Added support for Verilog (`*.v`, `*.vh`, `*.vo`, `*.sv`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
