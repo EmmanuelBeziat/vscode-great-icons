@@ -552,7 +552,10 @@
 		},
 		"_f_verilog_sys": {
 			"iconPath": "./icons/verilog-alt.png"
-		}
+		},
+		"_f_moleculer": {
+			"iconPath": "./icons/moleculer.png"
+		},
 	},
 	"file": "_file",
 	"folder": "_folder",
@@ -783,6 +786,7 @@
 		"rs": "_f_rust",
 		"scala": "_f_scala",
 		"sass": "_f_sass",
+		"service.js": "_f_moleculer",
 		"scss": "_f_sass",
 		"sss": "_f_postcss",
 		"sln": "_f_visualstudio",
@@ -989,6 +993,8 @@
 		"licence": "_f_key",
 		"license.md": "_f_key",
 		"licence.md": "_f_key",
+		"moleculer.config.js": "_f_moleculer",
+		"moleculer.config.json": "_f_moleculer",
 		"mocha.opts": "_f_mocha",
 		"package.json": "_f_npm",
 		"package-lock.json": "_f_npm",
