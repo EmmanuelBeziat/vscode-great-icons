@@ -4,11 +4,11 @@ A big pack of icons (100+) for your files.
 
 ![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
 
-(**This image is non-exhaustive and may not be up to date**)
+(**This image is non-exhaustive and is not up to date**)
 
 Enjoy ☺
 
-> Wow, we reached 2.5 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
+> Wow, we reached 2.7 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
 
@@ -20,15 +20,14 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.47 (2019.02.28)
+### v2.1.48 (2019.07.10)
 
-* Extended support for Jest (thanks @SigmundurMorkore)
-* Added support for htmlhintrc and stylelintignore (`.htmlhintrc`, `.stylelintignore`)
-* Different icon for for `.tsx` files
-* Added support for Prisma datamodel (`*.prisma`)
-* Added support for TOML files (`*.toml`, `@.toml`)
-* Added support for Storybookfiles (`*.story.js`, `*.story.jsx`, `*.story.ts`, `*.story.tsx`, `.storybook`)
+* A few icons set to SVG instead of PNG. Expect a few changes, and more to come.
+* Extended support for Slim (`*.slm`)
+* Added support for Svelte (`*.svelte`)
 * Added support for Verilog (`*.v`, `*.vh`, `*.vo`, `*.sv`)
+* Extended support for Razor (`*.razor`)
+* Extended support for LiveView (`*.leex`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

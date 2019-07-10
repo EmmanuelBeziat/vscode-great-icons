@@ -1,3 +1,12 @@
+# v2.1.48 (2019.07.10)
+
+* A few icons set to SVG instead of PNG. Expect a few changes, and more to come.
+* Extended support for Slim (`*.slm`)
+* Added support for Svelte (`*.svelte`)
+* Added support for Verilog (`*.v`, `*.vh`, `*.vo`, `*.sv`)
+* Extended support for Razor (`*.razor`)
+* Extended support for LiveView (`*.leex`)
+
 # v2.1.47 (2019.02.28)
 
 * Extended support for Jest (thanks @SigmundurMorkore)
