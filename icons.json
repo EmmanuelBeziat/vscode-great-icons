@@ -124,6 +124,9 @@
 		"_f_cpp-h": {
 			"iconPath": "./icons/cpp-h.png"
 		},
+		"_f_crystal": {
+			"iconPath": "./icons/crystal.png"
+		},
 		"_f_csharp": {
 			"iconPath": "./icons/csharp.png"
 		},
@@ -640,6 +643,7 @@
 		"hpp": "_f_cpp-h",
 		"hh": "_f_cpp-h",
 		"cxx": "_f_cpp",
+		"cr": "_f_crystal",
 		"cs": "_f_csharp",
 		"cshtml": "_f_razor",
 		"csproj": "_f_visualstudio",
