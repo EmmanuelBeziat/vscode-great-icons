@@ -250,6 +250,9 @@
 		"_f_matlab-alt": {
 			"iconPath": "./icons/matlab-red.png"
 		},
+    "_f_mdx": {
+			"iconPath": "./icons/mdx.svg"
+		},
 		"_f_mjml": {
 			"iconPath": "./icons/mjml.png"
 		},
@@ -731,6 +734,7 @@
 		"liquid": "_f_liquid",
 		"md": "_f_markdown",
 		"markdown": "_f_markdown",
+		"mdx": "_f_mdx",
 		"mjml": "_f_mjml",
 		"fig": "_f_matlab",
 		"mat": "_f_matlab",
