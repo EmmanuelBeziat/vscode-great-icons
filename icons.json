@@ -561,6 +561,12 @@
 		},
 		"_f_svelte": {
 			"iconPath": "./icons/svelte.svg"
+		},
+		"_f_mwb": {
+			"iconPath": "./icons/mysql-workbench.svg"
+		},
+		"_f_sketch": {
+			"iconPath": "./icons/sketch.svg"
 		}
 	},
 	"file": "_file",
@@ -982,7 +988,9 @@
 		"vo": "_f_verilog",
 		"sv": "_f_verilog_sys",
 		"svelte": "_f_svelte",
-		"razor": "_f_razor"
+		"razor": "_f_razor",
+		"mwb": "_f_mwb",
+		"sketch": "_f_sketch"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
