@@ -1,4 +1,4 @@
-# v2.1.49 & v2.1.50 (2020.08.26)
+# v2.1.49 & v2.1.50 & v2.1.51 (2020.08.26)
 
 * Added support for Sequelize files (`.sequalizerc`)
 * Added support for Sketch files (`*.sketch`)
@@ -10,6 +10,8 @@
 * Added support for Purescript files (`*.purs`, `*.purescript`)
 * Added support for Dhall files (`*.dhall`)
 * Added support for Nix files (`*.nix`)
+* Extended support for MySQL (`*.mwb.beforefix`, `*.mwb.bak`)
+* Added support for RDL files (`*.rdl`)
 
 # v2.1.48 (2019.07.10)
 

@@ -1015,6 +1015,8 @@
 		"svelte": "_f_svelte",
 		"razor": "_f_razor",
 		"mwb": "_f_mwb",
+		"mwb.beforefix": "_f_mwb",
+		"mwb.bak": "_f_mwb",
 		"sketch": "_f_sketch",
 		"dhall": "_f_dhall",
 		"nix": "_f_nix",
@@ -1023,7 +1025,8 @@
 		"rkt": "_f_racket",
 		"scm": "_f_scheme",
 		"sch": "_f_scheme",
-		"ss": "_f_scheme"
+		"ss": "_f_scheme",
+		"rdl": "_f_database"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",

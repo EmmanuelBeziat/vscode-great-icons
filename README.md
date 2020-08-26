@@ -18,13 +18,20 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.49 (2020.08.26)
+### v2.1.49 & v2.1.50 & v2.1.51 (2020.08.26)
 
 * Added support for Sequelize files (`.sequalizerc`)
 * Added support for Sketch files (`*.sketch`)
 * Added support for Figma files (`*.fig`)
 * Debug SystemVerilog icon (`*.sv`)
 * Enhanced react icons (`*.jsx`, `*.tsx`)
+* Added support for Racket files (`*.rkt`)
+* Added support for Scheme files (`*.scm`, `*.sch`, `*.ss`)
+* Added support for Purescript files (`*.purs`, `*.purescript`)
+* Added support for Dhall files (`*.dhall`)
+* Added support for Nix files (`*.nix`)
+* Extended support for MySQL (`*.mwb.beforefix`, `*.mwb.bak`)
+* Added support for RDL files (`*.rdl`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
