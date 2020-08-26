@@ -8,8 +8,6 @@ A big pack of icons (100+) for your files.
 
 Enjoy ☺
 
-> Wow, we reached 2.7 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
-
 ## How to use
 
 After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Great Icons`.
@@ -20,14 +18,13 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.48 (2019.07.10)
+### v2.1.49 (2020.08.26)
 
-* A few icons set to SVG instead of PNG. Expect a few changes, and more to come.
-* Extended support for Slim (`*.slm`)
-* Added support for Svelte (`*.svelte`)
-* Added support for Verilog (`*.v`, `*.vh`, `*.vo`, `*.sv`)
-* Extended support for Razor (`*.razor`)
-* Extended support for LiveView (`*.leex`)
+* Added support for Sequelize files (`.sequalizerc`)
+* Added support for Sketch files (`*.sketch`)
+* Added support for Figma files (`*.fig`)
+* Debug SystemVerilog icon (`*.sv`)
+* Enhanced react icons (`*.jsx`, `*.tsx`)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

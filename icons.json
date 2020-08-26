@@ -557,7 +557,7 @@
 			"iconPath": "./icons/verilog.png"
 		},
 		"_f_verilog_sys": {
-			"iconPath": "./icons/verilog-alt.png"
+			"iconPath": "./icons/verilog.png"
 		},
 		"_f_moleculer": {
 			"iconPath": "./icons/moleculer.png"
@@ -570,6 +570,12 @@
 		},
 		"_f_sketch": {
 			"iconPath": "./icons/sketch.svg"
+		},
+		"_f_figma": {
+			"iconPath": "./icons/figma.svg"
+		},
+		"_f_sequelize": {
+			"iconPath": "./icons/sequelize.png"
 		}
 	},
 	"file": "_file",
@@ -736,7 +742,7 @@
 		"markdown": "_f_markdown",
 		"mdx": "_f_mdx",
 		"mjml": "_f_mjml",
-		"fig": "_f_matlab",
+		"fig": "_f_figma",
 		"mat": "_f_matlab",
 		"mex": "_f_matlab",
 		"mexn": "_f_matlab",
@@ -1102,6 +1108,7 @@
 		"webpackfile.ts": "_f_webpack",
 		"yarn.lock": "_f_yarn",
 		"yarn-error.log": "_f_yarn",
+		".sequelizerc": "_f_sequelize",
 		".babelrc": "_f_babel",
 		".eslintrc.js": "_f_eslint",
 		".eslintrc.yml": "_f_eslint",

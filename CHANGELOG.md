@@ -1,3 +1,11 @@
+# v2.1.49 (2020.08.26)
+
+* Added support for Sequelize files (`.sequalizerc`)
+* Added support for Sketch files (`*.sketch`)
+* Added support for Figma files (`*.fig`)
+* Debug SystemVerilog icon (`*.sv`)
+* Enhanced react icons (`*.jsx`, `*.tsx`)
+
 # v2.1.48 (2019.07.10)
 
 * A few icons set to SVG instead of PNG. Expect a few changes, and more to come.
