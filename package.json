@@ -24,7 +24,7 @@
             }
         ]
     },
-    "icon": "https://github.com/EmmanuelBeziat/vscode-great-icons/images/vscode-great-icons_icon.png",
+    "icon": "images/vscode-great-icons_icon.png",
     "galleryBanner": {
         "color": "#e0e0e0",
         "theme": "light"
