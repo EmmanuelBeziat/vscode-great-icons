@@ -576,6 +576,21 @@
 		},
 		"_f_sequelize": {
 			"iconPath": "./icons/sequelize.png"
+		},
+		"_f_dhall": {
+			"iconPath": "./icons/dhall.svg"
+		},
+		"_f_nix": {
+			"iconPath": "./icons/nix.svg"
+		},
+		"_f_purescript": {
+			"iconPath": "./icons/purescript.svg"
+		},
+		"_f_scheme": {
+			"iconPath": "./icons/scheme.svg"
+		},
+		"_f_racket": {
+			"iconPath": "./icons/racket.svg"
 		}
 	},
 	"file": "_file",
@@ -1000,7 +1015,15 @@
 		"svelte": "_f_svelte",
 		"razor": "_f_razor",
 		"mwb": "_f_mwb",
-		"sketch": "_f_sketch"
+		"sketch": "_f_sketch",
+		"dhall": "_f_dhall",
+		"nix": "_f_nix",
+		"purs": "_f_purescript",
+		"purescript": "_f_purescript",
+		"rkt": "_f_racket",
+		"scm": "_f_scheme",
+		"sch": "_f_scheme",
+		"ss": "_f_scheme"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",

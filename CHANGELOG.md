@@ -1,10 +1,15 @@
-# v2.1.49 (2020.08.26)
+# v2.1.49 & v2.1.50 (2020.08.26)
 
 * Added support for Sequelize files (`.sequalizerc`)
 * Added support for Sketch files (`*.sketch`)
 * Added support for Figma files (`*.fig`)
 * Debug SystemVerilog icon (`*.sv`)
 * Enhanced react icons (`*.jsx`, `*.tsx`)
+* Added support for Racket files (`*.rkt`)
+* Added support for Scheme files (`*.scm`, `*.sch`, `*.ss`)
+* Added support for Purescript files (`*.purs`, `*.purescript`)
+* Added support for Dhall files (`*.dhall`)
+* Added support for Nix files (`*.nix`)
 
 # v2.1.48 (2019.07.10)
 
