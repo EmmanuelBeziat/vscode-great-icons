@@ -1,3 +1,10 @@
+# v2.1.52 (2020.08.27)
+
+* Fixed bug with ruby icon
+* Fixed bug with jest icon
+* Fixed bug with scheme icon
+* Added support for Jinja (`*.j2`, `*.jinja2`, `*.jinja`)
+
 # v2.1.49 & v2.1.50 & v2.1.51 (2020.08.26)
 
 * Added support for Sequelize files (`.sequalizerc`)

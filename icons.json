@@ -326,7 +326,7 @@
 			"iconPath": "./icons/rlang.png"
 		},
 		"_f_ruby": {
-			"iconPath": "./icons/ruby.png"
+			"iconPath": "./icons/ruby.svg"
 		},
 		"_f_rust": {
 			"iconPath": "./icons/rust.svg"
@@ -591,6 +591,9 @@
 		},
 		"_f_racket": {
 			"iconPath": "./icons/racket.svg"
+		},
+		"_f_jinja": {
+			"iconPath": "./icons/jinja.svg"
 		}
 	},
 	"file": "_file",
@@ -1026,7 +1029,10 @@
 		"scm": "_f_scheme",
 		"sch": "_f_scheme",
 		"ss": "_f_scheme",
-		"rdl": "_f_database"
+		"rdl": "_f_database",
+		"j2": "_f_jinja",
+		"jinja": "_f_jinja",
+		"jinja2": "_f_jinja"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
