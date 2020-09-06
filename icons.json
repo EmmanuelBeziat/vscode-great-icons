@@ -872,6 +872,7 @@
 		"swift": "_f_swift",
 		"test.js": "_f_tests",
 		"test.jsx": "_f_tests",
+		"test.mjs": "_f_tests",
 		"test.ts": "_f_tests",
 		"test.tsx": "_f_tests",
 		"spec.js": "_f_tests",
