@@ -1,3 +1,10 @@
+# v2.1.53 (2020.09.13)
+
+* Enhanced support for jest (`*.jest.mjs`)
+* Added build folders (`dist`, `build`, `output`, `out`, `.dist`, `.build`, `.output`, `.out`)
+* Lighter react tsx shade
+* Lots of icons changed to svg
+
 # v2.1.52 (2020.08.27)
 
 * Fixed bug with ruby icon

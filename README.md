@@ -18,12 +18,12 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.52 (2020.08.27)
+### v2.1.53 (2020.09.13)
 
-* Fixed bug with ruby icon
-* Fixed bug with jest icon
-* Fixed bug with scheme icon
-* Added support for Jinja (`*.j2`, `*.jinja2`, `*.jinja`)
+* Enhanced support for jest (`*.jest.mjs`)
+* Added build folders (`dist`, `build`, `output`, `out`, `.dist`, `.build`, `.output`, `.out`)
+* Lighter react tsx shade
+* Lots of icons changed to svg
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

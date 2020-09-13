@@ -5,10 +5,10 @@
 			"iconPath": "./icons/file.png"
 		},
 		"_folder": {
-			"iconPath": "./icons/folder.png"
+			"iconPath": "./icons/folder.svg"
 		},
 		"_fd_open": {
-			"iconPath": "./icons/folder-outline.png"
+			"iconPath": "./icons/folder-outline.svg"
 		},
 		"_fd_root": {
 			"iconPath": "./icons/folder-root.png"
@@ -65,13 +65,13 @@
 			"iconPath": "./icons/angular.svg"
 		},
 		"_f_apache": {
-			"iconPath": "./icons/apache.png"
+			"iconPath": "./icons/apache.svg"
 		},
 		"_f_applescript": {
 			"iconPath": "./icons/applescript.svg"
 		},
 		"_f_autoit": {
-			"iconPath": "./icons/autoit.png"
+			"iconPath": "./icons/autoit.svg"
 		},
 		"_f_binary": {
 			"iconPath": "./icons/binary.png"
@@ -80,10 +80,10 @@
 			"iconPath": "./icons/blade.svg"
 		},
 		"_f_bower": {
-			"iconPath": "./icons/bower.png"
+			"iconPath": "./icons/bower.svg"
 		},
 		"_f_brunch": {
-			"iconPath": "./icons/brunch.png"
+			"iconPath": "./icons/brunch.svg"
 		},
 		"_f_c": {
 			"iconPath": "./icons/c.png"
@@ -95,7 +95,7 @@
 			"iconPath": "./icons/cake.png"
 		},
 		"_f_codekit": {
-			"iconPath": "./icons/codekit.png"
+			"iconPath": "./icons/codekit.svg"
 		},
 		"_f_coffeescript": {
 			"iconPath": "./icons/coffeescript.svg"
@@ -113,37 +113,37 @@
 			"iconPath": "./icons/clojure.svg"
 		},
 		"_f_cakephp": {
-			"iconPath": "./icons/cakephp.png"
+			"iconPath": "./icons/cakephp.svg"
 		},
 		"_f_cmake": {
-			"iconPath": "./icons/cmake.png"
+			"iconPath": "./icons/cmake.svg"
 		},
 		"_f_cpp": {
-			"iconPath": "./icons/cpp.png"
+			"iconPath": "./icons/cpp.svg"
 		},
 		"_f_cpp-h": {
 			"iconPath": "./icons/cpp-h.png"
 		},
 		"_f_crystal": {
-			"iconPath": "./icons/crystal.png"
+			"iconPath": "./icons/crystal.svg"
 		},
 		"_f_csharp": {
-			"iconPath": "./icons/csharp.png"
+			"iconPath": "./icons/csharp.svg"
 		},
 		"_f_css": {
 			"iconPath": "./icons/css.svg"
 		},
 		"_f_database": {
-			"iconPath": "./icons/database.png"
+			"iconPath": "./icons/database.svg"
 		},
 		"_f_docker": {
-			"iconPath": "./icons/docker.png"
+			"iconPath": "./icons/docker.svg"
 		},
 		"_f_dust": {
 			"iconPath": "./icons/dust.png"
 		},
 		"_f_ejs": {
-			"iconPath": "./icons/ejs.png"
+			"iconPath": "./icons/ejs.svg"
 		},
 		"_f_elixir": {
 			"iconPath": "./icons/elixir.svg"
@@ -182,10 +182,10 @@
 			"iconPath": "./icons/graphviz.png"
 		},
 		"_f_grunt": {
-			"iconPath": "./icons/grunt.png"
+			"iconPath": "./icons/grunt.svg"
 		},
 		"_f_gulp": {
-			"iconPath": "./icons/gulp.png"
+			"iconPath": "./icons/gulp.svg"
 		},
 		"_f_haml": {
 			"iconPath": "./icons/haml.png"
@@ -209,7 +209,7 @@
 			"iconPath": "./icons/image.png"
 		},
 		"_f_jade": {
-			"iconPath": "./icons/jade.png"
+			"iconPath": "./icons/jade.svg"
 		},
 		"_f_java": {
 			"iconPath": "./icons/java.svg"
@@ -221,49 +221,49 @@
 			"iconPath": "./icons/javascript.png"
 		},
 		"_f_jenkinsfile": {
-			"iconPath": "./icons/jenkinsfile.png"
+			"iconPath": "./icons/jenkins.svg"
 		},
 		"_f_json": {
 			"iconPath": "./icons/json.png"
 		},
 		"_f_julia": {
-			"iconPath": "./icons/julia.png"
+			"iconPath": "./icons/julia.svg"
 		},
 		"_f_karma": {
-			"iconPath": "./icons/karma.png"
+			"iconPath": "./icons/karma.svg"
 		},
 		"_f_key": {
 			"iconPath": "./icons/key.png"
 		},
 		"_f_less": {
-			"iconPath": "./icons/less.png"
+			"iconPath": "./icons/less.svg"
 		},
 		"_f_liquid": {
-			"iconPath": "./icons/liquid.png"
+			"iconPath": "./icons/liquid.svg"
 		},
 		"_f_markdown": {
-			"iconPath": "./icons/markdown.png"
+			"iconPath": "./icons/markdown.svg"
 		},
 		"_f_matlab": {
-			"iconPath": "./icons/matlab.png"
+			"iconPath": "./icons/matlab.svg"
 		},
 		"_f_matlab-alt": {
-			"iconPath": "./icons/matlab-red.png"
+			"iconPath": "./icons/matlab-red.svg"
 		},
     "_f_mdx": {
 			"iconPath": "./icons/mdx.svg"
 		},
 		"_f_mjml": {
-			"iconPath": "./icons/mjml.png"
+			"iconPath": "./icons/mjml.svg"
 		},
 		"_f_mocha": {
-			"iconPath": "./icons/mocha.png"
+			"iconPath": "./icons/mocha.svg"
 		},
 		"_f_mustache": {
 			"iconPath": "./icons/mustache.png"
 		},
 		"_f_nginx": {
-			"iconPath": "./icons/nginx.png"
+			"iconPath": "./icons/nginx.svg"
 		},
 		"_f_node": {
 			"iconPath": "./icons/node.svg"
@@ -272,22 +272,22 @@
 			"iconPath": "./icons/npm.svg"
 		},
 		"_f_nsis": {
-			"iconPath": "./icons/nsis.png"
+			"iconPath": "./icons/nsis.svg"
 		},
 		"_f_nuget": {
-			"iconPath": "./icons/nuget.png"
+			"iconPath": "./icons/nuget.svg"
 		},
 		"_f_nunjucks": {
-			"iconPath": "./icons/nunjucks.png"
+			"iconPath": "./icons/nunjucks.svg"
 		},
 		"_f_ocaml": {
-			"iconPath": "./icons/ocaml.png"
+			"iconPath": "./icons/ocaml.svg"
 		},
 		"_f_paket": {
 			"iconPath": "./icons/paket.png"
 		},
 		"_f_pdf": {
-			"iconPath": "./icons/pdf.png"
+			"iconPath": "./icons/pdf.svg"
 		},
 		"_f_perl": {
 			"iconPath": "./icons/perl.png"
@@ -299,7 +299,7 @@
 			"iconPath": "./icons/photoshop.svg"
 		},
 		"_f_php": {
-			"iconPath": "./icons/php.png"
+			"iconPath": "./icons/php.svg"
 		},
 		"_f_postcss": {
 			"iconPath": "./icons/postcss.svg"
@@ -332,13 +332,13 @@
 			"iconPath": "./icons/rust.svg"
 		},
 		"_f_sass": {
-			"iconPath": "./icons/sass.png"
+			"iconPath": "./icons/sass.svg"
 		},
 		"_f_scala": {
-			"iconPath": "./icons/scala.png"
+			"iconPath": "./icons/scala.svg"
 		},
 		"_f_settings": {
-			"iconPath": "./icons/settings.png"
+			"iconPath": "./icons/settings.svg"
 		},
 		"_f_shell": {
 			"iconPath": "./icons/shell.png"
@@ -350,7 +350,7 @@
 			"iconPath": "./icons/source.png"
 		},
 		"_f_stylus": {
-			"iconPath": "./icons/stylus.png"
+			"iconPath": "./icons/stylus.svg"
 		},
 		"_f_sublime": {
 			"iconPath": "./icons/sublime.svg"
@@ -359,37 +359,37 @@
 			"iconPath": "./icons/svg.png"
 		},
 		"_f_swift": {
-			"iconPath": "./icons/swift.png"
+			"iconPath": "./icons/swift.svg"
 		},
 		"_f_tcl": {
 			"iconPath": "./icons/tcl.png"
 		},
 		"_f_tests": {
-			"iconPath": "./icons/test.png"
+			"iconPath": "./icons/test.svg"
 		},
 		"_f_testsjs": {
-			"iconPath": "./icons/testjs.png"
+			"iconPath": "./icons/testjs.svg"
 		},
 		"_f_tex": {
-			"iconPath": "./icons/tex.png"
+			"iconPath": "./icons/tex.svg"
 		},
 		"_f_textile": {
 			"iconPath": "./icons/textile.png"
 		},
 		"_f_todo": {
-			"iconPath": "./icons/todo.png"
+			"iconPath": "./icons/todo.svg"
 		},
 		"_f_twig": {
 			"iconPath": "./icons/twig.png"
 		},
 		"_f_typescript": {
-			"iconPath": "./icons/typescript.png"
+			"iconPath": "./icons/typescript.svg"
 		},
 		"_f_url": {
 			"iconPath": "./icons/url.png"
 		},
 		"_f_visualstudio": {
-			"iconPath": "./icons/visualstudio.png"
+			"iconPath": "./icons/visualstudio.svg"
 		},
 		"_f_visualstudiocode": {
 			"iconPath": "./icons/visualstudiocode.svg"
@@ -407,10 +407,10 @@
 			"iconPath": "./icons/yarn.svg"
 		},
 		"_f_zephir": {
-			"iconPath": "./icons/zephir.png"
+			"iconPath": "./icons/zephir.svg"
 		},
 		"_f_zip": {
-			"iconPath": "./icons/zip.png"
+			"iconPath": "./icons/zip.svg"
 		},
 		"_f_audio": {
 			"iconPath": "./icons/audio.png"
@@ -428,7 +428,7 @@
 			"iconPath": "./icons/powerpoint.svg"
 		},
 		"_f_favicon": {
-			"iconPath": "./icons/favicon.png"
+			"iconPath": "./icons/favicon.svg"
 		},
 		"_f_xaml": {
 			"iconPath": "./icons/xaml.png"
@@ -446,28 +446,28 @@
 			"iconPath": "./icons/certificate.png"
 		},
 		"_f_babel": {
-			"iconPath": "./icons/babel.png"
+			"iconPath": "./icons/babel.svg"
 		},
 		"_f_gitlab": {
 			"iconPath": "./icons/gitlab.svg"
 		},
 		"_f_arduino": {
-			"iconPath": "./icons/arduino.png"
+			"iconPath": "./icons/arduino.svg"
 		},
 		"_f_opengl": {
-			"iconPath": "./icons/opengl.png"
+			"iconPath": "./icons/opengl.svg"
 		},
 		"_f_dart": {
 			"iconPath": "./icons/dart.svg"
 		},
 		"_f_puppet": {
-			"iconPath": "./icons/puppet.png"
+			"iconPath": "./icons/puppet.svg"
 		},
 		"_f_rstudio": {
-			"iconPath": "./icons/rstudio.png"
+			"iconPath": "./icons/rstudio.svg"
 		},
 		"_f_solidity": {
-			"iconPath": "./icons/solidity.png"
+			"iconPath": "./icons/solidity.svg"
 		},
 		"_f_lua": {
 			"iconPath": "./icons/lua.svg"
@@ -476,7 +476,7 @@
 			"iconPath": "./icons/server.png"
 		},
 		"_f_rollup": {
-			"iconPath": "./icons/rollup.png"
+			"iconPath": "./icons/rollup.svg"
 		},
 		"_f_editorconfig": {
 			"iconPath": "./icons/editorconfig.png"
@@ -491,28 +491,28 @@
 			"iconPath": "./icons/prettier.svg"
 		},
 		"_f_cuda": {
-			"iconPath": "./icons/cuda.png"
+			"iconPath": "./icons/cuda.svg"
 		},
 		"_f_foxpro": {
 			"iconPath": "./icons/foxpro.png"
 		},
 		"_f_kotlin": {
-			"iconPath": "./icons/kotlin.png"
+			"iconPath": "./icons/kotlin.svg"
 		},
 		"_f_pascal": {
 			"iconPath": "./icons/pascal.png"
 		},
 		"_f_pascalproject": {
-			"iconPath": "./icons/pascal-project.png"
+			"iconPath": "./icons/pascal-project.svg"
 		},
 		"_f_harbour": {
-			"iconPath": "./icons/harbour.png"
+			"iconPath": "./icons/harbour.svg"
 		},
 		"_f_terraform": {
 			"iconPath": "./icons/terraform.svg"
 		},
 		"_f_visualbasic": {
-			"iconPath": "./icons/visualbasic.png"
+			"iconPath": "./icons/visualbasic.svg"
 		},
 		"_f_rst": {
 			"iconPath": "./icons/rst.png"
@@ -521,7 +521,7 @@
 			"iconPath": "./icons/tslint.png"
 		},
 		"_f_reason": {
-			"iconPath": "./icons/reason.png"
+			"iconPath": "./icons/reason.svg"
 		},
 		"_f_bucklescript": {
 			"iconPath": "./icons/buckle.png"
@@ -536,7 +536,7 @@
 			"iconPath": "./icons/d.png"
 		},
 		"_f_livescript": {
-			"iconPath": "./icons/livescript.png"
+			"iconPath": "./icons/livescript.svg"
 		},
 		"_f_stylelint": {
 			"iconPath": "./icons/stylelint.png"
@@ -545,13 +545,13 @@
 			"iconPath": "./icons/docz.png"
 		},
 		"_f_prisma": {
-			"iconPath": "./icons/prisma.png"
+			"iconPath": "./icons/prisma.svg"
 		},
 		"_f_toml": {
 			"iconPath": "./icons/toml.png"
 		},
 		"_f_storybook": {
-			"iconPath": "./icons/storybook.png"
+			"iconPath": "./icons/storybook.svg"
 		},
 		"_f_verilog": {
 			"iconPath": "./icons/verilog.png"
@@ -560,7 +560,7 @@
 			"iconPath": "./icons/verilog.png"
 		},
 		"_f_moleculer": {
-			"iconPath": "./icons/moleculer.png"
+			"iconPath": "./icons/moleculer.svg"
 		},
 		"_f_svelte": {
 			"iconPath": "./icons/svelte.svg"
@@ -575,7 +575,7 @@
 			"iconPath": "./icons/figma.svg"
 		},
 		"_f_sequelize": {
-			"iconPath": "./icons/sequelize.png"
+			"iconPath": "./icons/sequelize.svg"
 		},
 		"_f_dhall": {
 			"iconPath": "./icons/dhall.svg"
