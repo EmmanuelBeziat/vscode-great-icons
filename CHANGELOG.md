@@ -1,4 +1,4 @@
-# v2.1.53 (2020.09.13)
+# v2.1.53 & v2.1.54 (2020.09.13)
 
 * Enhanced support for jest (`*.jest.mjs`)
 * Added build folders (`dist`, `build`, `output`, `out`, `.dist`, `.build`, `.output`, `.out`)

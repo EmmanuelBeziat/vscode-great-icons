@@ -11,46 +11,52 @@
 			"iconPath": "./icons/folder-outline.svg"
 		},
 		"_fd_root": {
-			"iconPath": "./icons/folder-root.png"
+			"iconPath": "./icons/folder-root.svg"
 		},
 		"_fd_root_open": {
-			"iconPath": "./icons/folder-root-outline.png"
+			"iconPath": "./icons/folder-root-outline.svg"
 		},
 		"_fd_node": {
-			"iconPath": "./icons/folder-node.png"
+			"iconPath": "./icons/folder-node.svg"
 		},
 		"_fd_node_open": {
-			"iconPath": "./icons/folder-node-outline.png"
+			"iconPath": "./icons/folder-node-outline.svg"
 		},
 		"_fd_bower": {
-			"iconPath": "./icons/folder-bower.png"
+			"iconPath": "./icons/folder-bower.svg"
 		},
 		"_fd_bower_open": {
-			"iconPath": "./icons/folder-bower-outline.png"
+			"iconPath": "./icons/folder-bower-outline.svg"
 		},
 		"_fd_git": {
-			"iconPath": "./icons/folder-git.png"
+			"iconPath": "./icons/folder-git.svg"
 		},
 		"_fd_git_open": {
-			"iconPath": "./icons/folder-git-outline.png"
+			"iconPath": "./icons/folder-git-outline.svg"
 		},
 		"_fd_tests": {
-			"iconPath": "./icons/folder-tests.png"
+			"iconPath": "./icons/folder-tests.svg"
 		},
 		"_fd_tests_open": {
-			"iconPath": "./icons/folder-tests-outline.png"
+			"iconPath": "./icons/folder-tests-outline.svg"
 		},
 		"_fd_vscode": {
-			"iconPath": "./icons/folder-vsc.png"
+			"iconPath": "./icons/folder-vsc.svg"
 		},
 		"_fd_vscode_open": {
-			"iconPath": "./icons/folder-vsc-outline.png"
+			"iconPath": "./icons/folder-vsc-outline.svg"
 		},
 		"_fd_jest": {
-			"iconPath": "./icons/folder-jest.png"
+			"iconPath": "./icons/folder-jest.svg"
 		},
 		"_fd_jest_open": {
-			"iconPath": "./icons/folder-jest-outline.png"
+			"iconPath": "./icons/folder-jest-outline.svg"
+		},
+		"_fd_build": {
+			"iconPath": "./icons/folder-build.svg"
+		},
+		"_fd_build_open": {
+			"iconPath": "./icons/folder-build-outline.svg"
 		},
 		"_f_jest": {
 			"iconPath": "./icons/jest.svg"
