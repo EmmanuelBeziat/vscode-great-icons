@@ -529,6 +529,9 @@
 		"_f_reason": {
 			"iconPath": "./icons/reason.svg"
 		},
+		"_f_rescript": {
+			"iconPath": "./icons/rescript.svg"
+		},
 		"_f_bucklescript": {
 			"iconPath": "./icons/buckle.png"
 		},
@@ -988,6 +991,8 @@
 		"rst": "_f_rst",
 		"re": "_f_reason",
 		"rei": "_f_reason",
+		"res": "_f_rescript",
+		"resi": "_f_rescript",
 		"ipynb": "_f_jupyter",
 		"rp": "_f_axure",
 		"d": "_f_d",
