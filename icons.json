@@ -857,6 +857,7 @@
 		"env.example": "_f_settings",
 		"env.development": "_f_settings",
 		"env.production": "_f_settings",
+		"env.local": "_f_settings",
 		"ini": "_f_settings",
 		"makefile": "_f_settings",
 		"rake": "_f_ruby",

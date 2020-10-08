@@ -18,12 +18,10 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.53 & v2.1.54 & v2.1.55 (2020.09.13)
+### v2.1.56 (2020.10.08)
 
-* Enhanced support for jest (`*.jest.mjs`)
-* Added build folders (`dist`, `build`, `output`, `out`, `.dist`, `.build`, `.output`, `.out`)
-* Lighter react tsx shade
-* Lots of icons changed to svg
+* Enhanced support for environment files (`.env.local`)
+* Added support for Rescript (`*.res`, `*.resi`) (thanks @dsdeur)
 
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 

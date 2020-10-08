@@ -1,3 +1,8 @@
+# v2.1.56 (2020.10.08)
+
+* Enhanced support for environment files (`.env.local`)
+* Added support for Rescript (`*.res`, `*.resi`) (thanks @dsdeur)
+
 # v2.1.53 & v2.1.54 & v2.1.55 (2020.09.13)
 
 * Enhanced support for jest (`*.jest.mjs`)
