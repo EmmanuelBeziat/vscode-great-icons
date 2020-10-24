@@ -4,7 +4,7 @@ A big pack of icons (100+) for your files.
 
 ![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
 
-(**This image is non-exhaustive and is not up to date**)
+(**!! This image is non-exhaustive and is not up to date !!**)
 
 Enjoy ☺
 
@@ -18,25 +18,12 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Changelog
 
-### v2.1.56 (2020.10.08)
-
-* Enhanced support for environment files (`.env.local`)
-* Added support for Rescript (`*.res`, `*.resi`) (thanks @dsdeur)
-
 [See full changelog here](https://github.com/EmmanuelBeziat/vscode-great-icons/blob/master/CHANGELOG.md)
 
 ## Do you work with angular?
 
 Check out the [Simpler VSCode Icons](https://github.com/DavidBabel/vscode-simpler-icons) fork by **@DavidBabel**! It has a lot of angular icons for various filetypes in angular projects.
 
-## Sources
-
-Most of these icons come from
-
-* [Material Icon Theme](https://github.com/PKief/vscode-extension-material-icon-theme)
-* [Material Theme](https://github.com/equinusocio/material-theme)
-* [VSCode icons](https://github.com/robertohuertasm/vscode-icons)
-* Various official icons
 
 ## Follow me
 

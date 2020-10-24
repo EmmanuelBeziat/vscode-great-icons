@@ -1,4 +1,8 @@
-# v2.1.56 (2020.10.08)
+# v2.1.58 (2020.10.24)
+
+* Enhanced use of dotfiles
+
+# v2.1.57 (2020.10.08)
 
 * Enhanced support for environment files (`.env.local`)
 * Added support for Rescript (`*.res`, `*.resi`) (thanks @dsdeur)
