@@ -1,3 +1,7 @@
+# v2.1.59 (2020.10.30)
+
+* Debug missing gitignore icon
+
 # v2.1.58 (2020.10.24)
 
 * Enhanced use of dotfiles
