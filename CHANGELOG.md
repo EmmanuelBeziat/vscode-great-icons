@@ -1,4 +1,4 @@
-# v2.1.59 (2020.10.30)
+# v2.1.59 & v2.1.60 (2020.10.30)
 
 * Debug missing gitignore icon
 
