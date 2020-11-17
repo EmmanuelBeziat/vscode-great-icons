@@ -145,6 +145,9 @@
 		"_f_docker": {
 			"iconPath": "./icons/docker.svg"
 		},
+		"_f_dotenv": {
+			"iconPath": "./icons/dotenv.svg"
+		},
 		"_f_dust": {
 			"iconPath": "./icons/dust.png"
 		},
@@ -850,11 +853,11 @@
 		"suo": "_f_visualstudio",
 		"slim": "_f_slim",
 		"slm": "_f_slim",
-		"env": "_f_settings",
-		"env.example": "_f_settings",
-		"env.development": "_f_settings",
-		"env.production": "_f_settings",
-		"env.local": "_f_settings",
+		"env": "_f_dotenv",
+		"env.example": "_f_dotenv",
+		"env.development": "_f_dotenv",
+		"env.production": "_f_dotenv",
+		"env.local": "_f_dotenv",
 		"ini": "_f_settings",
 		"makefile": "_f_settings",
 		"rake": "_f_ruby",
@@ -1202,6 +1205,7 @@
 		"git": "_f_git",
 		"c": "_f_c",
 		"csharp": "_f_csharp",
+		"dotenv": "_f_dotenv",
 		"fsharp": "_f_fsharp",
 		"yaml": "_f_yaml",
 		"xml": "_f_xml",
