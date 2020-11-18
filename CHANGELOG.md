@@ -1,3 +1,7 @@
+# v2.1.61 (2020.11.18)
+
+* Added dotenv icon (thanks @jgermade)
+
 # v2.1.59 & v2.1.60 (2020.10.30)
 
 * Debug missing gitignore icon
