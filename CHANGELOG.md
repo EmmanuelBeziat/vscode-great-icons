@@ -1,3 +1,7 @@
+# v2.1.62 (2020.12.03)
+
+* Added support for VHDL (`*.vhd`, `*.vhdl`)
+
 # v2.1.61 (2020.11.18)
 
 * Added dotenv icon (thanks @jgermade)
