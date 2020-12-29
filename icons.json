@@ -606,6 +606,9 @@
 		},
 		"_f_jinja": {
 			"iconPath": "./icons/jinja.svg"
+		},
+		"_f_abelljs": {
+			"iconPath": "./icons/abelljs.svg"
 		}
 	},
 	"file": "_file",
@@ -839,6 +842,7 @@
 		"rprofile": "_f_rlang",
 		"Rprofile": "_f_rlang",
 		"rb": "_f_ruby",
+		"rbs": "_f_ruby",
 		"erb": "_f_ruby",
 		"gemfile": "_f_ruby",
 		"gemspec": "_f_ruby",
@@ -1074,7 +1078,8 @@
 		"eslintrc.yaml": "_f_eslint",
 		"eslintrc.json": "_f_eslint",
 		"browserlistrc": "_f_settings",
-		"gitkeep": "_f_git"
+		"gitkeep": "_f_git",
+		"abell": "_f_abelljs"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",

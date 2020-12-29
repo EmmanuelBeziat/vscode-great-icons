@@ -1,3 +1,9 @@
+# v2.1.63 (2020.12.29)
+
+* Added support for abelljs (`*.abell`)
+* Extended support for ruby files (`*.rbs`)
+* Extended support for Microsoft Office files and VBA extensions (thanks @Mo-Gul)
+
 # v2.1.62 (2020.12.03)
 
 * Added support for VHDL (`*.vhd`, `*.vhdl`)
