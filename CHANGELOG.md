@@ -1,4 +1,4 @@
-# v2.1.63 (2020.12.29)
+# v2.1.63 & v2.1.64 (2020.12.29)
 
 * Added support for abelljs (`*.abell`)
 * Extended support for ruby files (`*.rbs`)
