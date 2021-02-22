@@ -612,6 +612,9 @@
 		},
 		"_f_webassembly": {
 			"iconPath": "./icons/wasm.svg"
+		},
+		"_f_log": {
+			"iconPath": "./icons/log.svg"
 		}
 	},
 	"file": "_file",
@@ -755,6 +758,7 @@
 		"png": "_f_image",
 		"bmp": "_f_image",
 		"ico": "_f_image",
+		"webp": "_f_image",
 		"jade": "_f_jade",
 		"pug": "_f_pug",
 		"java": "_f_java",
@@ -866,6 +870,10 @@
 		"env.production": "_f_dotenv",
 		"env.local": "_f_dotenv",
 		"ini": "_f_settings",
+		"conf": "_f_settings",
+		"load": "_f_settings",
+		"opt": "_f_settings",
+		"cnf": "_f_settings",
 		"makefile": "_f_settings",
 		"rake": "_f_ruby",
 		"rakefile": "_f_ruby",
@@ -881,6 +889,11 @@
 		"sublime-workspace": "_f_sublime",
 		"sqlite": "_f_database",
 		"sql": "_f_database",
+		"myd": "_f_database",
+		"myi": "_f_database",
+		"ibd": "_f_database",
+		"trn": "_f_database",
+		"mysql_hystory": "_f_database",
 		"db3": "_f_database",
 		"styl": "_f_stylus",
 		"stylus": "_f_stylus",
@@ -1083,7 +1096,8 @@
 		"browserlistrc": "_f_settings",
 		"gitkeep": "_f_git",
 		"abell": "_f_abelljs",
-		"wasm": "_f_webassembly"
+		"wasm": "_f_webassembly",
+		"log": "_f_log"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1226,7 +1240,10 @@
 		"dub.json": "_f_d",
 		"jest.config.js": "_f_jest",
 		"doczrc.js": "_f_docz",
-		"@.toml": "_f_toml"
+		"@.toml": "_f_toml",
+		"envvars": "_f_dotenv",
+		"error_log": "_f_log",
+		"blink.ino": "_f_arduino"
 	},
 	"languageIds": {
 		"git": "_f_git",

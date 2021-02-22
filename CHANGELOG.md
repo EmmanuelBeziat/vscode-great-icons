@@ -1,6 +1,13 @@
 # v2.1.65 (2021.02.20)
 
-* Added support for WebAssembly  files (`*.wasm`)
+* Added support for WebAssembly files (`*.wasm`)
+* Added webp support (`*.webp`)
+* Added text files support (`*.txt`)
+* Extended env support with `envvars` files
+* Extended support for conf files (`*.conf`, `*.opt`, `*.load`, `*.cnf`)
+* Extended support for databases (`*.myd`, `*.myi`, `*.ibd`, `*.trn`, `*.mysql_hystory`)
+* Aded support for log files (`*.log`, `error_log`)
+* Extended support for arduino files (`blink.ino`)
 
 # v2.1.63 & v2.1.64 (2020.12.29)
 
