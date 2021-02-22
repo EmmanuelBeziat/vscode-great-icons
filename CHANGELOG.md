@@ -1,3 +1,7 @@
+# v2.1.65 (2021.02.20)
+
+* Added support for WebAssembly  files (`*.wasm`)
+
 # v2.1.63 & v2.1.64 (2020.12.29)
 
 * Added support for abelljs (`*.abell`)

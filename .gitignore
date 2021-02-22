@@ -2,3 +2,4 @@ node_modules
 app
 .vscode-test/**
 npm-debug.log
+package-lock.json

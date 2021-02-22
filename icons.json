@@ -259,7 +259,7 @@
 		"_f_matlab-alt": {
 			"iconPath": "./icons/matlab-red.svg"
 		},
-    "_f_mdx": {
+    	"_f_mdx": {
 			"iconPath": "./icons/mdx.svg"
 		},
 		"_f_mjml": {
@@ -609,6 +609,9 @@
 		},
 		"_f_abelljs": {
 			"iconPath": "./icons/abell.svg"
+		},
+		"_f_webassembly": {
+			"iconPath": "./icons/wasm.svg"
 		}
 	},
 	"file": "_file",
@@ -1079,7 +1082,8 @@
 		"eslintrc.json": "_f_eslint",
 		"browserlistrc": "_f_settings",
 		"gitkeep": "_f_git",
-		"abell": "_f_abelljs"
+		"abell": "_f_abelljs",
+		"wasm": "_f_webassembly"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1270,6 +1274,7 @@
 		"pascal": "_f_pascal",
 		"foxpro": "_f_foxpro",
 		"harbour": "_f_harbour",
-		"visualbasic": "_f_visualbasic"
+		"visualbasic": "_f_visualbasic",
+		"webassembly": "_f_webassembly"
 	}
 }
