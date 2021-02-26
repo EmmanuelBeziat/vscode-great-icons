@@ -615,6 +615,9 @@
 		},
 		"_f_log": {
 			"iconPath": "./icons/log.svg"
+		},
+		"_f_notepad": {
+			"iconPath": "./icons/notepad.svg"
 		}
 	},
 	"file": "_file",
@@ -1097,7 +1100,8 @@
 		"gitkeep": "_f_git",
 		"abell": "_f_abelljs",
 		"wasm": "_f_webassembly",
-		"log": "_f_log"
+		"log": "_f_log",
+		"txt": "_f_notepad"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",

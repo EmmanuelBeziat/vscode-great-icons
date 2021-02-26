@@ -1,3 +1,7 @@
+# v2.1.66 (2021.02.26)
+
+* Debug txt miss
+
 # v2.1.65 (2021.02.20)
 
 * Added support for WebAssembly files (`*.wasm`)
