@@ -1,3 +1,8 @@
+# v2.1.67 (2021.02.28)
+
+* New icon for browserlist (`.browserlistrc`)
+* Debug for txt icons
+
 # v2.1.66 (2021.02.26)
 
 * Debug txt miss

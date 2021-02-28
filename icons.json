@@ -618,6 +618,9 @@
 		},
 		"_f_notepad": {
 			"iconPath": "./icons/notepad.svg"
+		},
+		"_f_browserlist": {
+			"iconPath": "./icons/browserlist.svg"
 		}
 	},
 	"file": "_file",
@@ -871,6 +874,8 @@
 		"env.example": "_f_dotenv",
 		"env.development": "_f_dotenv",
 		"env.production": "_f_dotenv",
+		"env.development.local": "_f_dotenv",
+		"env.production.local": "_f_dotenv",
 		"env.local": "_f_dotenv",
 		"ini": "_f_settings",
 		"conf": "_f_settings",
@@ -1096,7 +1101,7 @@
 		"eslintrc.yml": "_f_eslint",
 		"eslintrc.yaml": "_f_eslint",
 		"eslintrc.json": "_f_eslint",
-		"browserlistrc": "_f_settings",
+		"browserlistrc": "_f_browserlist",
 		"gitkeep": "_f_git",
 		"abell": "_f_abelljs",
 		"wasm": "_f_webassembly",
