@@ -142,6 +142,9 @@
 		"_f_database": {
 			"iconPath": "./icons/database.svg"
 		},
+		"_f_database2": {
+			"iconPath": "./icons/database2.svg"
+		},
 		"_f_docker": {
 			"iconPath": "./icons/docker.svg"
 		},
@@ -895,14 +898,18 @@
 		"fish": "_f_shell",
 		"sublime-project": "_f_sublime",
 		"sublime-workspace": "_f_sublime",
-		"sqlite": "_f_database",
+		"sqlite": "_f_database2",
+		"sqlite2": "_f_database2",
+		"sqlite3": "_f_database2",
 		"sql": "_f_database",
 		"myd": "_f_database",
 		"myi": "_f_database",
 		"ibd": "_f_database",
 		"trn": "_f_database",
 		"mysql_hystory": "_f_database",
-		"db3": "_f_database",
+		"db": "_f_database2",
+		"db2": "_f_database2",
+		"db3": "_f_database2",
 		"styl": "_f_stylus",
 		"stylus": "_f_stylus",
 		"svg": "_f_svg",
