@@ -1,3 +1,7 @@
+# v2.1.68 (2021.03.17)
+
+* New icon for sqlite (`*.db`, `*.db2`, `*.db3`, `*.sqlite`, `*.sqlite2`, `*.sqlite3`) (thanks @massimo-cassandro)
+
 # v2.1.67 (2021.02.28)
 
 * New icon for browserlist (`.browserlistrc`)
