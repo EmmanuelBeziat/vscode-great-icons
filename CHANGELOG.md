@@ -1,5 +1,6 @@
-# v2.1.69 (2021.03.18)
+# v2.1.69 && v2.1.70 (2021.03.18)
 
+* Optimized icons
 * Added support for symfony (`symfony.lock`)
 * Extended support for htaccess (`.htaccess_local`)
 * Extended support for dotenv (`.env.test`)
