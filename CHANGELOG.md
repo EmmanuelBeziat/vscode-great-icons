@@ -1,3 +1,9 @@
+# v2.1.69 (2021.03.18)
+
+* Added support for symfony (`symfony.lock`)
+* Extended support for htaccess (`.htaccess_local`)
+* Extended support for dotenv (`.env.test`)
+
 # v2.1.68 (2021.03.17)
 
 * New icon for sqlite (`*.db`, `*.db2`, `*.db3`, `*.sqlite`, `*.sqlite2`, `*.sqlite3`) (thanks @massimo-cassandro)

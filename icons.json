@@ -624,6 +624,9 @@
 		},
 		"_f_browserlist": {
 			"iconPath": "./icons/browserlist.svg"
+		},
+		"_f_symfony": {
+			"iconPath": "./icons/symfony.svg"
 		}
 	},
 	"file": "_file",
@@ -674,6 +677,8 @@
 		"as": "_f_actionscript",
 		"au3": "_f_autoit",
 		"htaccess": "_f_apache",
+		"htaccess_local": "_f_apache",
+		"htaccess_notlive": "_f_apache",
 		"htpasswd": "_f_apache",
 		"bin": "_f_binary",
 		"o": "_f_binary",
@@ -880,6 +885,7 @@
 		"env.development.local": "_f_dotenv",
 		"env.production.local": "_f_dotenv",
 		"env.local": "_f_dotenv",
+		"env.test": "_f_dotenv",
 		"ini": "_f_settings",
 		"conf": "_f_settings",
 		"load": "_f_settings",
@@ -1113,7 +1119,7 @@
 		"abell": "_f_abelljs",
 		"wasm": "_f_webassembly",
 		"log": "_f_log",
-		"txt": "_f_notepad"
+		"txt": "_f_notepad",
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1259,7 +1265,8 @@
 		"@.toml": "_f_toml",
 		"envvars": "_f_dotenv",
 		"error_log": "_f_log",
-		"blink.ino": "_f_arduino"
+		"blink.ino": "_f_arduino",
+		"symfony.lock": "_f_symfony"
 	},
 	"languageIds": {
 		"git": "_f_git",
