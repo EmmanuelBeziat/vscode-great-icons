@@ -1239,7 +1239,7 @@
 		".eslintrc.json": "_f_eslint",
 		".gitlab-ci.yaml": "_f_gitlab",
 		".gitlab-ci.yml": "_f_gitlab",
-		".browserlistrc": "_f_settings",
+		".browserlistrc": "_f_browserlist",
 		".gitkeep": "_f_git",
 		".gitignore": "_f_git",
 		"rollup.config.js": "_f_rollup",
