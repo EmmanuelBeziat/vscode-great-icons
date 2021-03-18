@@ -1,4 +1,4 @@
-# v2.1.69 & v2.1.70 & v2.1.71 (2021.03.18)
+# v2.1.69 & v2.1.70 & v2.1.71 & v2.1.72 (2021.03.18)
 
 * Optimized icons
 * Added support for symfony (`symfony.lock`)
