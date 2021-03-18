@@ -1119,7 +1119,7 @@
 		"abell": "_f_abelljs",
 		"wasm": "_f_webassembly",
 		"log": "_f_log",
-		"txt": "_f_notepad",
+		"txt": "_f_notepad"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
