@@ -409,6 +409,9 @@
 		"_f_vue": {
 			"iconPath": "./icons/vue.svg"
 		},
+		"_f_vitejs": {
+			"iconPath": "./icons/vitejs.svg"
+		},
 		"_f_webpack": {
 			"iconPath": "./icons/webpack.svg"
 		},
@@ -1170,6 +1173,8 @@
 		"tasks.json": "_f_visualstudiocode",
 		"jsconfig.json": "_f_json",
 		"tsconfig.json": "_f_json",
+		"vite.config.js": "_f_vitejs",
+		"vite.config.ts": "_f_vitejs",
 		"webpack.js": "_f_webpack",
 		"webpack.ts": "_f_webpack",
 		"webpack.config.js": "_f_webpack",
