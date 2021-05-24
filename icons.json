@@ -187,6 +187,9 @@
 		"_f_go": {
 			"iconPath": "./icons/go.svg"
 		},
+		"_f_gnu": {
+			"iconPath": "./icons/gnu.svg"
+		},
 		"_f_gradle": {
 			"iconPath": "./icons/gradle.svg"
 		},
@@ -411,6 +414,9 @@
 		},
 		"_f_vitejs": {
 			"iconPath": "./icons/vitejs.svg"
+    },
+		"_f_snowpackjs": {
+			"iconPath": "./icons/snowpackjs.svg"
 		},
 		"_f_webpack": {
 			"iconPath": "./icons/webpack.svg"
@@ -897,7 +903,7 @@
 		"makefile": "_f_settings",
 		"rake": "_f_ruby",
 		"rakefile": "_f_ruby",
-		"mk": "_f_settings",
+		"mk": "_f_gnu",
 		"config": "_f_settings",
 		"bat": "_f_shell",
 		"sh": "_f_shell",
@@ -1083,6 +1089,10 @@
 		"story.jsx": "_f_storybook",
 		"story.ts": "_f_storybook",
 		"story.tsx": "_f_storybook",
+		"stories.js": "_f_storybook",
+		"stories.jsx": "_f_storybook",
+		"stories.ts": "_f_storybook",
+		"stories.tsx": "_f_storybook",
 		"storybook": "_f_storybook",
 		"v": "_f_verilog",
 		"vh": "_f_verilog",
@@ -1131,7 +1141,7 @@
 		"brunch-config.ts": "_f_brunch",
 		"brunch-config.coffee": "_f_brunch",
 		"cmakelists.txt": "_f_cmake",
-		"makefile": "_f_settings",
+		"makefile": "_f_gnu",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
 		"dockerfile": "_f_docker",
@@ -1175,6 +1185,8 @@
 		"tsconfig.json": "_f_json",
 		"vite.config.js": "_f_vitejs",
 		"vite.config.ts": "_f_vitejs",
+		"snowpack.config.js": "_f_snowpackjs",
+		"snowpack.config.ts": "_f_snowpackjs",
 		"webpack.js": "_f_webpack",
 		"webpack.ts": "_f_webpack",
 		"webpack.config.js": "_f_webpack",
