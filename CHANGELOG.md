@@ -1,3 +1,11 @@
+# v2.1.74 (2021.05.21)
+
+* Added icon for snowpack (`snowpack.config.{js,ts}`) (thanks @jgermade)
+* Added icon for vite (`vite.config.{js,ts}`) (thanks @jgermade)
+* Added icon for gnu (`*.mk`, `Makefile`) (thanks @jgermade)
+* Extended support for storybook (`.stories.{js,jsx,ts,tsx}`) (thanks @jgermade)
+* Added icon for bench folders (`bench`, `benches`)
+
 # v2.1.73 (2021.04.05)
 
 * Extended support for stylelint (`.stylelintrc`, `.stylelintrc.js`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `.stylelintrc.json`) (thanks @massimo-cassandro)

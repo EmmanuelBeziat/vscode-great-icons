@@ -58,6 +58,12 @@
 		"_fd_build_open": {
 			"iconPath": "./icons/folder-build-outline.svg"
 		},
+		"_fd_bench": {
+			"iconPath": "./icons/folder-bench.svg"
+		},
+		"_fd_bench_open": {
+			"iconPath": "./icons/folder-bench-outline.svg"
+		},
 		"_f_jest": {
 			"iconPath": "./icons/jest.svg"
 		},
@@ -660,7 +666,9 @@
 		"build": "_fd_build",
 		".build": "_fd_build",
 		"out": "_fd_build",
-		".out": "_fd_build"
+		".out": "_fd_build",
+		"bench": "_fd_bench",
+		"benches": "_fd_bench"
 	},
 	"folderNamesExpanded": {
 		".vscode": "_fd_vscode_open",
@@ -679,7 +687,9 @@
 		"build": "_fd_build_open",
 		".build": "_fd_build_open",
 		"out": "_fd_build_open",
-		".out": "_fd_build_open"
+		".out": "_fd_build_open",
+		"bench": "_fd_bench_open",
+		"benches": "_fd_bench_open"
 	},
 	"fileExtensions": {
 		"ai": "_f_illustrator",
