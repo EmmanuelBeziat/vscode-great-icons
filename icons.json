@@ -187,6 +187,9 @@
 		"_f_go": {
 			"iconPath": "./icons/go.svg"
 		},
+		"_f_gnu": {
+			"iconPath": "./icons/gnu.svg"
+		},
 		"_f_gradle": {
 			"iconPath": "./icons/gradle.svg"
 		},
@@ -897,7 +900,7 @@
 		"makefile": "_f_settings",
 		"rake": "_f_ruby",
 		"rakefile": "_f_ruby",
-		"mk": "_f_settings",
+		"mk": "_f_gnu",
 		"config": "_f_settings",
 		"bat": "_f_shell",
 		"sh": "_f_shell",
@@ -1131,7 +1134,7 @@
 		"brunch-config.ts": "_f_brunch",
 		"brunch-config.coffee": "_f_brunch",
 		"cmakelists.txt": "_f_cmake",
-		"makefile": "_f_settings",
+		"makefile": "_f_gnu",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
 		"dockerfile": "_f_docker",
