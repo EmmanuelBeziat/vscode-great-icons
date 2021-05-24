@@ -412,6 +412,9 @@
 		"_f_vue": {
 			"iconPath": "./icons/vue.svg"
 		},
+		"_f_vitejs": {
+			"iconPath": "./icons/vitejs.svg"
+    },
 		"_f_snowpackjs": {
 			"iconPath": "./icons/snowpackjs.svg"
 		},
@@ -1180,6 +1183,8 @@
 		"tasks.json": "_f_visualstudiocode",
 		"jsconfig.json": "_f_json",
 		"tsconfig.json": "_f_json",
+		"vite.config.js": "_f_vitejs",
+		"vite.config.ts": "_f_vitejs",
 		"snowpack.config.js": "_f_snowpackjs",
 		"snowpack.config.ts": "_f_snowpackjs",
 		"webpack.js": "_f_webpack",
