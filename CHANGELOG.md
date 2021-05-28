@@ -1,6 +1,7 @@
-# v2.1.75 (2021.05.28)
+# v2.1.75 & v2.1.76 (2021.05.28)
 
 * Extended support for gulp (gulpfile.{babel,esm}.{js,ts,coffee})
+* New text icon (thanks @geekley)
 
 # v2.1.74 (2021.05.21)
 
