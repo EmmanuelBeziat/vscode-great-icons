@@ -1,3 +1,7 @@
+# v2.1.75 (2021.05.28)
+
+* Extended support for gulp (gulpfile.{babel,esm}.{js,ts,coffee})
+
 # v2.1.74 (2021.05.21)
 
 * Added icon for snowpack (`snowpack.config.{js,ts}`) (thanks @jgermade)
