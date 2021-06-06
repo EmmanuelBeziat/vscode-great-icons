@@ -1,3 +1,7 @@
+# v2.1.77 (2021.06.06)
+
+* Extended license key icon to "license_mit" and "license_apache" files.
+
 # v2.1.75 & v2.1.76 (2021.05.28)
 
 * Extended support for gulp (gulpfile.{babel,esm}.{js,ts,coffee})

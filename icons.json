@@ -1175,6 +1175,8 @@
 		"karma.conf.ts": "_f_karma",
 		"karma.conf.coffee": "_f_karma",
 		"license": "_f_key",
+		"license_mit": "_f_key",
+		"license_apache": "_f_key",
 		"licence": "_f_key",
 		"license.md": "_f_key",
 		"licence.md": "_f_key",
