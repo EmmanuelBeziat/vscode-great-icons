@@ -1,3 +1,8 @@
+# v2.1.78 (2021.06.23)
+
+# New vector icons
+# Updated logo!
+
 # v2.1.77 (2021.06.06)
 
 * Extended license key icon to "license_mit" and "license_apache" files. (thanks @valerioageno)

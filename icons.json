@@ -179,7 +179,7 @@
 			"iconPath": "./icons/exe.png"
 		},
 		"_f_font": {
-			"iconPath": "./icons/font.png"
+			"iconPath": "./icons/font.svg"
 		},
 		"_f_fsharp": {
 			"iconPath": "./icons/fsharp.svg"
@@ -221,7 +221,7 @@
 			"iconPath": "./icons/haxe.svg"
 		},
 		"_f_html": {
-			"iconPath": "./icons/html.png"
+			"iconPath": "./icons/html.svg"
 		},
 		"_f_illustrator": {
 			"iconPath": "./icons/illustrator.svg"
@@ -245,7 +245,7 @@
 			"iconPath": "./icons/jenkins.svg"
 		},
 		"_f_json": {
-			"iconPath": "./icons/json.png"
+			"iconPath": "./icons/json.svg"
 		},
 		"_f_julia": {
 			"iconPath": "./icons/julia.svg"
@@ -368,7 +368,7 @@
 			"iconPath": "./icons/slim.svg"
 		},
 		"_f_source": {
-			"iconPath": "./icons/source.png"
+			"iconPath": "./icons/source.svg"
 		},
 		"_f_stylus": {
 			"iconPath": "./icons/stylus.svg"
@@ -377,7 +377,7 @@
 			"iconPath": "./icons/sublime.svg"
 		},
 		"_f_svg": {
-			"iconPath": "./icons/svg.png"
+			"iconPath": "./icons/svg.svg"
 		},
 		"_f_swift": {
 			"iconPath": "./icons/swift.svg"
@@ -428,7 +428,7 @@
 			"iconPath": "./icons/webpack.svg"
 		},
 		"_f_yaml": {
-			"iconPath": "./icons/yaml.png"
+			"iconPath": "./icons/yaml.svg"
 		},
 		"_f_yarn": {
 			"iconPath": "./icons/yarn.svg"
@@ -509,7 +509,7 @@
 			"iconPath": "./icons/editorconfig.png"
 		},
 		"_f_json5": {
-			"iconPath": "./icons/json5.png"
+			"iconPath": "./icons/json5.svg"
 		},
 		"_f_graphql": {
 			"iconPath": "./icons/graphql.svg"
@@ -545,7 +545,7 @@
 			"iconPath": "./icons/rst.png"
 		},
 		"_f_tslint": {
-			"iconPath": "./icons/tslint.png"
+			"iconPath": "./icons/tslint.svg"
 		},
 		"_f_reason": {
 			"iconPath": "./icons/reason.svg"
@@ -557,7 +557,7 @@
 			"iconPath": "./icons/buckle.png"
 		},
 		"_f_jupyter": {
-			"iconPath": "./icons/jupyter.png"
+			"iconPath": "./icons/jupyter.svg"
 		},
 		"_f_axure": {
 			"iconPath": "./icons/axure.png"
