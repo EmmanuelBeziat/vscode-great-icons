@@ -8,6 +8,8 @@ A big pack of icons (200+) for your files.
 
 Enjoy ☺
 
+> Wow, slowly but surely getting closer to the 1 million installations. I’m proud that ya’ll appreciate my little set. Thank you!
+
 ## How to use
 
 After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Great Icons`.
