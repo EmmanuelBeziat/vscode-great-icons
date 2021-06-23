@@ -1,4 +1,4 @@
-# v2.1.78 (2021.06.23)
+# v2.1.78 & v2.1.79 (2021.06.23)
 
 # New vector icons
 # Updated logo!
