@@ -642,6 +642,27 @@
 		},
 		"_f_symfony": {
 			"iconPath": "./icons/symfony.svg"
+		},
+		"_f_nextflow": {
+			"iconPath": "./icons/nextflow.png"
+		},
+		"_f_singularity": {
+			"iconPath": "./icons/singularity.svg"
+		},
+		"_f_fortran": {
+			"iconPath": "./icons/fortran.svg"
+		},
+		"_f_oso": {
+			"iconPath": "./icons/oso.svg"
+		},
+		"_f_asciidoc": {
+			"iconPath": "./icons/asciidoc.svg"
+		},
+		"_f_asp": {
+			"iconPath": "./icons/dotnet.svg"
+		},
+		"_f_vim": {
+			"iconPath": "./icons/vim.svg"
 		}
 	},
 	"file": "_file",
@@ -901,10 +922,14 @@
 		"env.example": "_f_dotenv",
 		"env.development": "_f_dotenv",
 		"env.production": "_f_dotenv",
+		"env.production.example": "_f_dotenv",
 		"env.development.local": "_f_dotenv",
 		"env.production.local": "_f_dotenv",
 		"env.local": "_f_dotenv",
+		"env.local.example": "_f_dotenv",
 		"env.test": "_f_dotenv",
+		"env.staging": "_f_dotenv",
+		"env.staging.example": "_f_dotenv",
 		"ini": "_f_settings",
 		"conf": "_f_settings",
 		"load": "_f_settings",
@@ -943,7 +968,9 @@
 		"test.jsx": "_f_tests",
 		"test.mjs": "_f_tests",
 		"test.ts": "_f_tests",
+		"tests.ts": "_f_tests",
 		"test.tsx": "_f_tests",
+		"tests.tsx": "_f_tests",
 		"spec.js": "_f_tests",
 		"spec.ts": "_f_tests",
 		"spec.tsx": "_f_tests",
@@ -1142,7 +1169,24 @@
 		"abell": "_f_abelljs",
 		"wasm": "_f_webassembly",
 		"log": "_f_log",
-		"txt": "_f_notepad"
+		"txt": "_f_notepad",
+		"nf": "_f_nextflow",
+		"def": "_f_singularity",
+		"f": "_f_fortran",
+		"for": "_f_fortran",
+		"f90": "_f_fortran",
+		"f95": "_f_fortran",
+		"ftn": "_f_fortran",
+		"fpp": "_f_fortran",
+		"polar": "_f_oso",
+		"adoc": "_f_asciidoc",
+		"asciidoc": "_f_asciidoc",
+		"asp": "_f_asp",
+		"asa": "_f_asp",
+		"aspx": "_f_asp",
+		"asax": "_f_asp",
+		"ascx": "_f_asp",
+		"vim": "_f_vim"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1305,7 +1349,10 @@
 		"envvars": "_f_dotenv",
 		"error_log": "_f_log",
 		"blink.ino": "_f_arduino",
-		"symfony.lock": "_f_symfony"
+		"symfony.lock": "_f_symfony",
+		"Singularity": "_f_singularity",
+		"gvimrc": "_f_vim",
+		"vimrc": "_f_vim"
 	},
 	"languageIds": {
 		"git": "_f_git",
@@ -1354,6 +1401,7 @@
 		"foxpro": "_f_foxpro",
 		"harbour": "_f_harbour",
 		"visualbasic": "_f_visualbasic",
-		"webassembly": "_f_webassembly"
+		"webassembly": "_f_webassembly",
+		"env": "_f_dotenv"
 	}
 }

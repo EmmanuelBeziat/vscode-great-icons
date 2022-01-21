@@ -1,3 +1,15 @@
+# v2.1.80 (2022-01-22)
+
+* Extended support for .env files
+* Extended support for typescript test files
+* Added support for Nextflow (`.nf`)
+* Added support for Singularity (`.def`, `Singularity`)
+* Added support for Fortran (`.for`, `.f90`, `.f`, `.ftn`, etc.)
+* Added support for OSO (`.polar`)
+* Added support for AsciiDoctor (`.adoc`, `.asciidoc`)
+* Added support for ASP (`.asp`, `.asa`, `.aspx`, `.asax`, `.ascx`)
+* Added support for Vim (`.vimrc`, `.gvimrc`, `.vim`)
+
 # v2.1.78 & v2.1.79 (2021.06.23)
 
 # New vector icons
