@@ -1,4 +1,4 @@
-# v2.1.80 & v2.1.81 (2022-01-22)
+# v2.1.80 & v2.1.81 & v2.1.82 (2022-01-22)
 
 * Extended support for .env files
 * Extended support for typescript test files
