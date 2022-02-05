@@ -1235,6 +1235,7 @@
 		"paket.dependencies": "_f_paket",
 		"paket.lock": "_f_paket",
 		"paket.local": "_f_paket",
+		"steepfile": "_f_ruby",
 		"gemfile": "_f_ruby",
 		"gemfile.lock": "_f_ruby",
 		"vscodeignore.json": "_f_visualstudiocode",
