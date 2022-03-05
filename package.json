@@ -38,7 +38,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/EmmanuelBeziat/vscode-great-icons.git"
+		"url": "https://github.com/EmmanuelBeziat/vscode-great-icons.git"
 	},
 	"author": {
 		"email": "contact@emmanuelbeziat.com",
