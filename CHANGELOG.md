@@ -1,3 +1,8 @@
+# v2.1.83 (2022-03-05)
+
+* Added support for Steepfile (`Steepfile`)
+* Debug source repository url
+
 # v2.1.80 & v2.1.81 & v2.1.82 (2022-01-22)
 
 * Extended support for .env files

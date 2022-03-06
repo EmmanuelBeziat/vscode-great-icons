@@ -1352,7 +1352,8 @@
 		"symfony.lock": "_f_symfony",
 		"Singularity": "_f_singularity",
 		".gvimrc": "_f_vim",
-		".vimrc": "_f_vim"
+		".vimrc": "_f_vim",
+		"Steepfile": "_f_ruby"
 	},
 	"languageIds": {
 		"git": "_f_git",
