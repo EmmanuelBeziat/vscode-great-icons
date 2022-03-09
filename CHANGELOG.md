@@ -1,3 +1,7 @@
+# v2.1.84 (2022-03-09)
+
+* Added support for Svelte specific files format (`.cjs)
+
 # v2.1.83 (2022-03-05)
 
 * Added support for Steepfile (`Steepfile`)
