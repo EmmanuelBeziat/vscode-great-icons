@@ -51,7 +51,7 @@
 	},
 	"homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
 	"devDependencies": {
-		"imagemin-cli": "^6.0.0",
-		"vsce": "^1.79.5"
+		"imagemin-cli": "^7.0.0",
+		"vsce": "^2.7.0"
 	}
 }
