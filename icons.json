@@ -663,6 +663,18 @@
 		},
 		"_f_vim": {
 			"iconPath": "./icons/vim.svg"
+		},
+		"_f_keystone": {
+			"iconPath": "./icons/keystone.svg"
+		},
+		"_f_vitest": {
+			"iconPath": "./icons/vitest.svg"
+		},
+		"_f_turborepo": {
+			"iconPath": "./icons/turborepo.svg"
+		},
+		"_f_proto": {
+			"iconPath": "./icons/proto.svg"
 		}
 	},
 	"file": "_file",
@@ -1138,6 +1150,8 @@
 		"vhd": "_f_verilog",
 		"vhdl": "_f_verilog",
 		"svelte": "_f_svelte",
+		"svelte.js": "_f_svelte",
+		"svelte.ts": "_f_svelte",
 		"razor": "_f_razor",
 		"mwb": "_f_mwb",
 		"mwb.beforefix": "_f_mwb",
@@ -1186,7 +1200,17 @@
 		"aspx": "_f_asp",
 		"asax": "_f_asp",
 		"ascx": "_f_asp",
-		"vim": "_f_vim"
+		"vim": "_f_vim",
+		"keystone.js": "_f_keystone",
+		"keystone.jsx": "_f_keystone",
+		"keystone.ts": "_f_keystone",
+		"keystone.tsx": "_f_keystone",
+		"vitest.js": "_f_vitest",
+		"vitest.jsx": "_f_vitest",
+		"vitest.ts": "_f_vitest",
+		"vitest.tsx": "_f_vitest",
+		"turborepo.json": "_f_turborepo",
+		"proto": "_f_proto"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1400,9 +1424,16 @@
 		"Singularity": "_f_singularity",
 		".gvimrc": "_f_vim",
 		".vimrc": "_f_vim",
-		"Steepfile": "_f_ruby"
+		"Steepfile": "_f_ruby",
+		"svelte.config": "_f_svelte",
+		"keystone": "_f_keystone",
+		"vitest.config": "_f_vitest",
+		".vitest.config": "_f_vitest",
+		"turbo": "_f_turborepo"
 	},
 	"languageIds": {
+		"apache": "_f_apache",
+		"nginx": "_f_nginx",
 		"git": "_f_git",
 		"c": "_f_c",
 		"csharp": "_f_csharp",
@@ -1430,6 +1461,7 @@
 		"nunjucks": "_f_nunjucks",
 		"pug": "_f_pug",
 		"stylus": "_f_stylus",
+		"svelte": "_f_svelte",
 		"sass": "_f_sass",
 		"less": "_f_less",
 		"css": "_f_css",
@@ -1450,6 +1482,9 @@
 		"harbour": "_f_harbour",
 		"visualbasic": "_f_visualbasic",
 		"webassembly": "_f_webassembly",
-		"env": "_f_dotenv"
+		"env": "_f_dotenv",
+		"keystone": "_f_keystone",
+		"vitest": "_f_vitest",
+		"turbo": "_f_turborepo"
 	}
 }
