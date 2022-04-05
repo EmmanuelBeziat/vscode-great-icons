@@ -271,7 +271,7 @@
 		"_f_matlab-alt": {
 			"iconPath": "./icons/matlab-red.svg"
 		},
-    	"_f_mdx": {
+		"_f_mdx": {
 			"iconPath": "./icons/mdx.svg"
 		},
 		"_f_mjml": {
@@ -420,7 +420,7 @@
 		},
 		"_f_vitejs": {
 			"iconPath": "./icons/vitejs.svg"
-    },
+		},
 		"_f_snowpackjs": {
 			"iconPath": "./icons/snowpackjs.svg"
 		},
@@ -942,6 +942,7 @@
 		"env.test": "_f_dotenv",
 		"env.staging": "_f_dotenv",
 		"env.staging.example": "_f_dotenv",
+		"env.dev": "_f_dotenv",
 		"ini": "_f_settings",
 		"conf": "_f_settings",
 		"load": "_f_settings",
