@@ -1,3 +1,7 @@
+# v2.1.86 (2022-04-08)
+
+* Debug a few files
+
 # v2.1.85 (2022-04-05)
 
 * Resized Solidity icon
