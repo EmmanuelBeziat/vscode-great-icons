@@ -24,7 +24,7 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Do you work with angular?
 
-Check out the [Simpler VSCode Icons](https://github.com/DavidBabel/vscode-simpler-icons) fork by **@DavidBabel**! It has a lot of angular icons for various filetypes in angular projects.
+Check out the [Simpler VSCode Icons](https://github.com/DavidBabel/vscode-simpler-icons) fork by **@DavidBabel**! Though it’s not been updated recently and might not be up to date, it has a lot of angular icons for various filetypes in angular projects.
 
 
 ## Follow me
