@@ -8,7 +8,7 @@ A big pack of icons (200+) for your files.
 
 Enjoy ☺
 
-> Wow, slowly but surely getting closer to the 1 million installations. I’m proud that ya’ll appreciate my little set. Thank you!
+> Wow, we passed the 1 million installations! I’m proud that ya’ll appreciate my little set. I keep receiving very kind reviews from users. Thank you very much!
 
 ## How to use
 
