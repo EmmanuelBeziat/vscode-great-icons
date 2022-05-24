@@ -12,7 +12,7 @@ Enjoy ☺
 
 ## How to use
 
-After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Great Icons`.
+After installation and activation, you should go in settings (`File` → `Preferences` → `File Icon Theme` on Windows, or `Code` → `Preferences`  → `File Icon Theme` on macOS), and select `VSCode Great Icons`.
 
 ## Want more?
 
