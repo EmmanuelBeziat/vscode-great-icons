@@ -1,4 +1,4 @@
-# v2.1.87 (2022-12-17)
+# v2.1.87 & v2.1.88 (2022-12-17)
 
 * Added support for Godot
 * Added support for Tailwind

@@ -343,6 +343,7 @@
 		"exs": "_f_elixir",
 		"eex": "_f_elixir",
 		"leex": "_f_elixir",
+		"heex": "_f_elixir",
 		"elm": "_f_elm",
 		"erl": "_f_erlang",
 		"hrl": "_f_erlang",
