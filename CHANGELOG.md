@@ -1,3 +1,16 @@
+# v2.1.87 (2022-12-17)
+
+* Added support for Godot
+* Added support for Tailwind
+* Added support for Pnpm
+* Added support for Assembly
+* Added support for Sentry
+* Added support for Bicep
+* Extended support for Browserslist
+* Debugged prettierrc file
+* Added support for Vercel
+* Added support for NextJS
+
 # v2.1.86 (2022-04-08)
 
 * Debug a few files
