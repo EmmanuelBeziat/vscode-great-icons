@@ -1,4 +1,4 @@
-# v2.1.87 & v2.1.88 (2022-12-17)
+# v2.1.87 & v2.1.88 & v2.1.89 (2022-12-17)
 
 * Added support for Godot
 * Added support for Tailwind
@@ -10,6 +10,7 @@
 * Debugged prettierrc file
 * Added support for Vercel
 * Added support for NextJS
+* Extended support for docker
 
 # v2.1.86 (2022-04-08)
 
