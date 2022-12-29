@@ -1,3 +1,7 @@
+# v2.1.90 (2022-12-29)
+
+* Extended support for OpenGL
+
 # v2.1.87 & v2.1.88 & v2.1.89 (2022-12-17)
 
 * Added support for Godot
