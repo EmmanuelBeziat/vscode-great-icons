@@ -1,3 +1,8 @@
+# v2.1.91 (2023-03-01)
+
+* Extended multiple support files with mjs format — thanks @massimo-cassandro
+* Changed icon color for `*.ico` files
+
 # v2.1.90 (2022-12-29)
 
 * Extended support for OpenGL
