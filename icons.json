@@ -97,6 +97,7 @@
 		"_f_mocha": { "iconPath": "./icons/mocha.svg" },
 		"_f_mustache": { "iconPath": "./icons/mustache.png" },
 		"_f_nginx": { "iconPath": "./icons/nginx.svg" },
+		"_f_nim": { "iconPath": "./icons/nim.svg" },
 		"_f_node": { "iconPath": "./icons/node.svg" },
 		"_f_npm": { "iconPath": "./icons/npm.svg" },
 		"_f_nsis": { "iconPath": "./icons/nsis.svg" },
