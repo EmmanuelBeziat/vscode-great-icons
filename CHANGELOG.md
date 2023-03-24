@@ -1,3 +1,7 @@
+# v2.1.92 (2023-03-24)
+
+* Added support for `*nim` files — thanks @RatoGBM
+
 # v2.1.91 (2023-03-01)
 
 * Extended multiple support files with mjs format — thanks @massimo-cassandro
