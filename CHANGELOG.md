@@ -1,3 +1,11 @@
+# v2.1.93 (2023-05-16)
+
+* Added support for avalonia ui (`*.axaml`, `*.axaml.cs`)
+* Added support for marko (`*.marko`)
+* Added support for firebase (`.firebaserc`, `firebase.json`, `firebase.js`, `firebase.ts`, `firebase.cjs`)
+* Added support for properties files (`*.properties`)
+* Better icon for makefiles
+
 # v2.1.92 (2023-03-24)
 
 * Added support for `*nim` files — thanks @RatoGBM

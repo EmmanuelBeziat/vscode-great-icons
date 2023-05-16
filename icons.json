@@ -235,7 +235,10 @@
 		"_f_sentry": { "iconPath": "./icons/sentry.svg" },
 		"_f_bicep": { "iconPath": "./icons/bicep.png" },
 		"_f_vercel": { "iconPath": "./icons/vercel.svg" },
-		"_f_nextjs": { "iconPath": "./icons/nextjs.svg" }
+		"_f_nextjs": { "iconPath": "./icons/nextjs.svg" },
+		"_f_firebase": { "iconPath": "./icons/firebase.svg" },
+		"_f_avalonia": { "iconPath": "./icons/avalonia.svg" },
+		"_f_marko": { "iconPath": "./icons/marko.svg" }
 	},
 	"file": "_file",
 	"folder": "_folder",
@@ -510,13 +513,14 @@
 		"env.dev": "_f_dotenv",
 		"ini": "_f_settings",
 		"conf": "_f_settings",
+		"properties": "_f_settings",
 		"load": "_f_settings",
 		"opt": "_f_settings",
 		"cnf": "_f_settings",
-		"makefile": "_f_settings",
+		"makefile": "_f_settings-red",
 		"rake": "_f_ruby",
 		"rakefile": "_f_ruby",
-		"mk": "_f_gnu",
+		"mk": "_f_settings-red",
 		"config": "_f_settings",
 		"bat": "_f_shell",
 		"sh": "_f_shell",
@@ -777,7 +781,10 @@
 		"tscn": "_f_godot",
 		"asm": "_f_assembly",
 		"s": "_f_assembly",
-		"sentryclirc": "_f_sentry"
+		"sentryclirc": "_f_sentry",
+		"marko": "_f_marko",
+		"axaml": "_f_avalonia",
+		"axaml.cs": "_f_avalonia"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -787,7 +794,7 @@
 		"brunch-config.ts": "_f_brunch",
 		"brunch-config.coffee": "_f_brunch",
 		"cmakelists.txt": "_f_cmake",
-		"makefile": "_f_gnu",
+		"makefile": "_f_settings-red",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
 		"dockerfile": "_f_docker",
@@ -1040,7 +1047,12 @@
 		"next.config.js": "_f_nextjs",
 		"next.config.ts": "_f_nextjs",
 		"next.config.cjs": "_f_nextjs",
-		"next.config.mjs": "_f_nextjs"
+		"next.config.mjs": "_f_nextjs",
+		".firebaserc": "_f_firebase",
+		"firebase.json": "_f_firebase",
+		"firebase.js": "_f_firebase",
+		"firebase.ts": "_f_firebase",
+		"firebase.cjs": "_f_firebase"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
@@ -1098,6 +1110,7 @@
 		"keystone": "_f_keystone",
 		"vitest": "_f_vitest",
 		"turbo": "_f_turborepo",
-		"assembly": "_f_assembly"
+		"assembly": "_f_assembly",
+		"marko": "_f_marko"
 	}
 }
