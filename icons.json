@@ -1117,6 +1117,7 @@
 		"vitest": "_f_vitest",
 		"turbo": "_f_turborepo",
 		"assembly": "_f_assembly",
-		"marko": "_f_marko"
+		"marko": "_f_marko",
+		"xi": "_f_xi"
 	}
 }
