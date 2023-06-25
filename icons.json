@@ -123,6 +123,7 @@
 		"_f_sass": { "iconPath": "./icons/sass.svg" },
 		"_f_scala": { "iconPath": "./icons/scala.svg" },
 		"_f_settings": { "iconPath": "./icons/settings.svg" },
+		"_f_settings-red": { "iconPath": "./icons/settings-red.svg" },
 		"_f_shell": { "iconPath": "./icons/shell.png" },
 		"_f_slim": { "iconPath": "./icons/slim.svg" },
 		"_f_source": { "iconPath": "./icons/source.svg" },
