@@ -241,7 +241,8 @@
 		"_f_avalonia": { "iconPath": "./icons/avalonia.svg" },
 		"_f_marko": { "iconPath": "./icons/marko.svg" },
 		"_f_model": { "iconPath": "./icons/model.svg" },
-		"_f_serverless": { "iconPath": "./icons/serverless.png" }
+		"_f_serverless": { "iconPath": "./icons/serverless.png" },
+		"_f_xi": { "iconPath": "./icons/xi.svg" }
 	},
 	"file": "_file",
 	"folder": "_folder",
@@ -266,7 +267,7 @@
 		".build": "_fd_build",
 		"out": "_fd_build",
 		".out": "_fd_build",
-		"bench": "_fd_bench",
+			"bench": "_fd_bench",
 		"benches": "_fd_bench"
 	},
 	"folderNamesExpanded": {
@@ -1118,6 +1119,7 @@
 		"vitest": "_f_vitest",
 		"turbo": "_f_turborepo",
 		"assembly": "_f_assembly",
-		"marko": "_f_marko"
+		"marko": "_f_marko",
+		"xi": "_f_xi"
 	}
 }
