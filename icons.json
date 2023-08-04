@@ -123,6 +123,7 @@
 		"_f_sass": { "iconPath": "./icons/sass.svg" },
 		"_f_scala": { "iconPath": "./icons/scala.svg" },
 		"_f_settings": { "iconPath": "./icons/settings.svg" },
+		"_f_settings-red": { "iconPath": "./icons/settings-red.svg" },
 		"_f_shell": { "iconPath": "./icons/shell.png" },
 		"_f_slim": { "iconPath": "./icons/slim.svg" },
 		"_f_source": { "iconPath": "./icons/source.svg" },
@@ -238,7 +239,9 @@
 		"_f_nextjs": { "iconPath": "./icons/nextjs.svg" },
 		"_f_firebase": { "iconPath": "./icons/firebase.svg" },
 		"_f_avalonia": { "iconPath": "./icons/avalonia.svg" },
-		"_f_marko": { "iconPath": "./icons/marko.svg" }
+		"_f_marko": { "iconPath": "./icons/marko.svg" },
+		"_f_model": { "iconPath": "./icons/model.svg" },
+		"_f_serverless": { "iconPath": "./icons/serverless.png" }
 	},
 	"file": "_file",
 	"folder": "_folder",
@@ -784,7 +787,9 @@
 		"sentryclirc": "_f_sentry",
 		"marko": "_f_marko",
 		"axaml": "_f_avalonia",
-		"axaml.cs": "_f_avalonia"
+		"axaml.cs": "_f_avalonia",
+		"model.ts": "_f_model",
+		"model.js": "_f_model"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1052,7 +1057,9 @@
 		"firebase.json": "_f_firebase",
 		"firebase.js": "_f_firebase",
 		"firebase.ts": "_f_firebase",
-		"firebase.cjs": "_f_firebase"
+		"firebase.cjs": "_f_firebase",
+		"serverless.yml": "_f_serverless",
+		"serverless.yaml": "_f_serverless"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
