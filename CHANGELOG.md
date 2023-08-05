@@ -1,7 +1,7 @@
-# v2.1.94 (2023-08-05)
+# v2.1.94 & v2.1.95 (2023-08-05)
 
 * Changed icon for NextJS
-* Added new folder icons (`.gitlab`, `bak`, `backup/s`, `config`, `db`, `database/s`, `i18n`, `lang`, `language/s`, `save/s`, `sql`, `sql_schema`, `sqlite`, `theme/s`, `view/s`)
+* Added new folder icons (`.gitlab`, `bak`, `backup/s`, `config`, `db`, `database/s`, `i18n`, `lang`, `language/s`, `save/s`, `sql`, `sql_schema`, `sqlite`, `theme/s`, `view/s`, `app`, `.next`)
 * Added multiple languagesID
 
 # v2.1.93 (2023-05-16)
