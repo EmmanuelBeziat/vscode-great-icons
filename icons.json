@@ -2,8 +2,8 @@
 	"hidesExplorerArrows": false,
 	"iconDefinitions": {
 		"_file": { "iconPath": "./icons/file.png" },
-		"_folder": { "iconPath": "./icons/folders/default.svg" },
-		"_fd-open": { "iconPath": "./icons/folders/default-open.svg" },
+		"_fd_default": { "iconPath": "./icons/folders/default.svg" },
+		"_fd_default-open": { "iconPath": "./icons/folders/default-open.svg" },
 		"_fd_root": { "iconPath": "./icons/folders/root.svg" },
 		"_fd_root-open": { "iconPath": "./icons/folders/root-open.svg" },
 		"_fd_node": { "iconPath": "./icons/folders/node.svg" },
@@ -260,10 +260,10 @@
 		"_f_serverless": { "iconPath": "./icons/serverless.png" }
 	},
 	"file": "_file",
-	"folder": "_folder",
-	"folderExpanded": "_fd_open",
+	"folder": "_fd_default",
+	"folderExpanded": "_fd_default-open",
 	"rootFolder": "_fd_root",
-	"rootFolderExpanded": "_fd_root_open",
+	"rootFolderExpanded": "_fd_root-open",
 	"folderNames": {
 		".build": "_fd_build",
 		".git": "_fd_git",

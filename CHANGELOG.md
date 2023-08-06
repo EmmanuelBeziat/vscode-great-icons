@@ -1,3 +1,7 @@
+# v2.1.96 (2023-05-07)
+
+* Debug folder icons default
+
 # v2.1.94 & v2.1.95 (2023-08-05)
 
 * Changed icon for NextJS
