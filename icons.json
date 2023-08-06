@@ -257,7 +257,8 @@
 		"_f_avalonia": { "iconPath": "./icons/avalonia.svg" },
 		"_f_marko": { "iconPath": "./icons/marko.svg" },
 		"_f_model": { "iconPath": "./icons/model.svg" },
-		"_f_serverless": { "iconPath": "./icons/serverless.png" }
+		"_f_serverless": { "iconPath": "./icons/serverless.png" },
+		"_f_xi": { "iconPath": "./icons/xi.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -280,6 +281,7 @@
 		"bak": "_fd_save",
 		"backup": "_fd_save",
 		"backups": "_fd_save",
+    "bench": "_fd_bench",
 		"benches": "_fd_bench",
 		"bower_components": "_fd_bower",
 		"build": "_fd_build",
@@ -1196,6 +1198,7 @@
 		"turbo": "_f_turborepo",
 		"assembly": "_f_assembly",
 		"marko": "_f_marko",
+		"xi": "_f_xi"
 		"clojure": "_f_clojure",
 		"editorconfig": "_f_editorconfig",
 		"go": "_f_go",
