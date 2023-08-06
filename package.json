@@ -2,7 +2,7 @@
 	"name": "vscode-great-icons",
 	"displayName": "VSCode Great Icons",
 	"description": "A big pack of icons (200+) for your files.",
-	"version": "2.1.93",
+	"version": "2.1.96",
 	"publisher": "emmanuelbeziat",
 	"engines": {
 		"vscode": "^1.45.0"
@@ -50,7 +50,7 @@
 	},
 	"homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
 	"devDependencies": {
-		"@vscode/vsce": "^2.15.0",
+		"@vscode/vsce": "^2.20.1",
 		"imagemin-cli": "^7.0.0"
 	}
 }
