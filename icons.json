@@ -856,7 +856,8 @@
 		"axaml": "_f_avalonia",
 		"axaml.cs": "_f_avalonia",
 		"model.ts": "_f_model",
-		"model.js": "_f_model"
+		"model.js": "_f_model",
+		"xi": "_f_xi"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1198,7 +1199,7 @@
 		"turbo": "_f_turborepo",
 		"assembly": "_f_assembly",
 		"marko": "_f_marko",
-		"xi": "_f_xi"
+		"xi": "_f_xi",
 		"clojure": "_f_clojure",
 		"editorconfig": "_f_editorconfig",
 		"go": "_f_go",
