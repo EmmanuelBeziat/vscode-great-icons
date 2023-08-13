@@ -1,4 +1,4 @@
-# v2.1.96 && v2.1.97 (2023-05-07)
+# v2.1.96 && v2.1.97 (2023-08-07)
 
 * Debug folder icons default
 * Added support for xi markup (`*.vi`)
