@@ -5,7 +5,7 @@
 	"version": "2.1.97",
 	"publisher": "emmanuelbeziat",
 	"engines": {
-		"vscode": "^1.45.0"
+		"vscode": "^1.70.0"
 	},
 	"scripts": {
 		"publish": "vsce publish",
@@ -50,7 +50,6 @@
 	},
 	"homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
 	"devDependencies": {
-		"@vscode/vsce": "^2.20.1",
-		"imagemin-cli": "^7.0.0"
+		"@vscode/vsce": "^2.21.0"
 	}
 }
