@@ -258,7 +258,10 @@
 		"_f_marko": { "iconPath": "./icons/marko.svg" },
 		"_f_model": { "iconPath": "./icons/model.svg" },
 		"_f_serverless": { "iconPath": "./icons/serverless.png" },
-		"_f_xi": { "iconPath": "./icons/xi.svg" }
+		"_f_xi": { "iconPath": "./icons/xi.svg" },
+		"_f_zig": { "iconPath": "./icons/zig.svg" },
+		"_f_brainfuck": { "iconPath": "./icons/brainfuck.svg" },
+		"_f_cython": { "iconPath": "./icons/cython.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -857,7 +860,12 @@
 		"axaml.cs": "_f_avalonia",
 		"model.ts": "_f_model",
 		"model.js": "_f_model",
-		"xi": "_f_xi"
+		"xi": "_f_xi",
+		"zig": "_f_zig",
+		"bf": "_f_brainfuck",
+		"b": "_f_brainfuck",
+		"pyx": "_f_cython",
+		"pxd": "_f_cython"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1224,6 +1232,9 @@
 		"vue-directives": "_f_vue",
 		"vue-sfc-style-variable-injection": "_f_vue",
 		"vue-interpoloations": "_f_vue",
-		"vue-injection-markdown": "_f_vue"
+		"vue-injection-markdown": "_f_vue",
+		"zig": "_f_zig",
+		"brainfuck": "_f_brainfuck",
+		"cython": "_f_cython"
 	}
 }

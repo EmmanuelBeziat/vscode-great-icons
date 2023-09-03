@@ -1,3 +1,9 @@
+# v2.1.98 (2023-09-03)
+
+* Added support for zig language (`*.zig`)
+* Added support for brainfuck language (`*.bf`, `*.b`)
+* Added support for cython (`*.pyx`, `*.pxd`)
+
 # v2.1.96 && v2.1.97 (2023-08-07)
 
 * Debug folder icons default
