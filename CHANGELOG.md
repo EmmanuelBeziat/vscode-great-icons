@@ -1,4 +1,4 @@
-# v2.1.99 & v2.1.100 & v2.1.101 (2023-09-18)
+# v2.1.99 & v2.1.100 & v2.1.101 & v2.1.102 (2023-09-18)
 
 * Added support for cypress, with folder, files with `*.cy.{js,ts,jsx}`, and config files.
 * Changed Go icon for a more classic one and support for `go.mod` file
