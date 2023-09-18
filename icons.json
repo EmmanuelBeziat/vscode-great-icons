@@ -38,6 +38,8 @@
 		"_fd_next-open": { "iconPath": "./icons/folders/next-open.svg" },
 		"_fd_app": { "iconPath": "./icons/folders/app.svg" },
 		"_fd_app-open": { "iconPath": "./icons/folders/app-open.svg" },
+		"_fd_cypress": { "iconPath": "./icons/folders/cypress.svg"},
+		"_fd_cypress-open": { "iconPath": "./icons/folders/cypress-open.svg"},
 		"_f_jest": { "iconPath": "./icons/jest.svg" },
 		"_f_actionscript": { "iconPath": "./icons/actionscript.png" },
 		"_f_android": { "iconPath": "./icons/android.svg" },
@@ -261,7 +263,8 @@
 		"_f_xi": { "iconPath": "./icons/xi.svg" },
 		"_f_zig": { "iconPath": "./icons/zig.svg" },
 		"_f_brainfuck": { "iconPath": "./icons/brainfuck.svg" },
-		"_f_cython": { "iconPath": "./icons/cython.svg" }
+		"_f_cython": { "iconPath": "./icons/cython.svg" },
+		"_f_cypress": { "iconPath": "./icons/cypress.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -289,6 +292,7 @@
 		"bower_components": "_fd_bower",
 		"build": "_fd_build",
 		"config": "_fd_bench",
+		"cypress": "_fd_cypress",
 		"db": "_fd_db",
 		"database": "_fd_db",
 		"databases": "_fd_db",
@@ -335,6 +339,7 @@
 		"build": "_fd_build-open",
 		"bower_components": "_fd_bower-open",
 		"config": "_fd_build-open",
+		"cypress": "_fd_cypress-open",
 		"db": "_fd_db-open",
 		"database": "_fd_db-open",
 		"databases": "_fd_db-open",
@@ -865,7 +870,10 @@
 		"bf": "_f_brainfuck",
 		"b": "_f_brainfuck",
 		"pyx": "_f_cython",
-		"pxd": "_f_cython"
+		"pxd": "_f_cython",
+		"cy.js": "_f_cypress",
+		"cy.ts": "_f_cypress",
+		"cy.jsx": "_f_cypress"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1135,7 +1143,12 @@
 		"firebase.ts": "_f_firebase",
 		"firebase.cjs": "_f_firebase",
 		"serverless.yml": "_f_serverless",
-		"serverless.yaml": "_f_serverless"
+		"serverless.yaml": "_f_serverless",
+		"cypress.json": "_f_cypress",
+		"cypress.config.js": "_f_cypress",
+		"cypress.config.ts": "_f_cypress",
+		"cypress.config.jsx": "_f_cypress",
+		"cypress.env.json": "_f_cypress"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
@@ -1235,6 +1248,7 @@
 		"vue-injection-markdown": "_f_vue",
 		"zig": "_f_zig",
 		"brainfuck": "_f_brainfuck",
-		"cython": "_f_cython"
+		"cython": "_f_cython",
+		"cypress": "_f_cypress"
 	}
 }
