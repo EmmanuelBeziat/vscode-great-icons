@@ -264,7 +264,9 @@
 		"_f_zig": { "iconPath": "./icons/zig.svg" },
 		"_f_brainfuck": { "iconPath": "./icons/brainfuck.svg" },
 		"_f_cython": { "iconPath": "./icons/cython.svg" },
-		"_f_cypress": { "iconPath": "./icons/cypress.svg" }
+		"_f_cypress": { "iconPath": "./icons/cypress.svg" },
+		"_f_objectivec": { "iconPath": "./icons/objectivec.svg" },
+		"_f_objectivecpp": { "iconPath": "./icons/objectivecpp.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -873,7 +875,8 @@
 		"pxd": "_f_cython",
 		"cy.js": "_f_cypress",
 		"cy.ts": "_f_cypress",
-		"cy.jsx": "_f_cypress"
+		"cy.jsx": "_f_cypress",
+		"mm": "_f_objectivecpp"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1148,7 +1151,8 @@
 		"cypress.config.js": "_f_cypress",
 		"cypress.config.ts": "_f_cypress",
 		"cypress.config.jsx": "_f_cypress",
-		"cypress.env.json": "_f_cypress"
+		"cypress.env.json": "_f_cypress",
+		"go.mod": "_f_go"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
@@ -1159,6 +1163,7 @@
 		"git-rebase": "_f_git",
 		"diff": "_f_git",
 		"ignore": "_f_git",
+		"bat": "_f_shell",
 		"c": "_f_c",
 		"cpp": "_f_cpp",
 		"coffeescript": "_f_coffeescript",
@@ -1166,8 +1171,9 @@
 		"csharp": "_f_csharp",
 		"dotenv": "_f_dotenv",
 		"fsharp": "_f_fsharp",
-		"yaml": "_f_yaml",
 		"xml": "_f_xml",
+		"XML": "_f_xml",
+		"yaml": "_f_yaml",
 		"matlab": "_f_matlab",
 		"java": "_f_java",
 		"razor": "_f_razor",
@@ -1207,6 +1213,7 @@
 		"php": "_f_php",
 		"html": "_f_html",
 		"json": "_f_json",
+		"jsonl": "_f_json",
 		"dart": "_f_dart",
 		"cuda": "_f_cuda",
 		"pascal": "_f_pascal",
@@ -1249,6 +1256,8 @@
 		"zig": "_f_zig",
 		"brainfuck": "_f_brainfuck",
 		"cython": "_f_cython",
-		"cypress": "_f_cypress"
+		"cypress": "_f_cypress",
+		"objective-c": "_f_objectivec",
+		"objective-cpp": "_f_objectivecpp"
 	}
 }

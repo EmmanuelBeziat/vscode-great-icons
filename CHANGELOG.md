@@ -1,7 +1,10 @@
-# v2.1.99 & v2.1.100 (2023-09-18)
+# v2.1.99 & v2.1.100 & v2.1.101 (2023-09-18)
 
 * Added support for cypress, with folder, files with `*.cy.{js,ts,jsx}`, and config files.
-* Changed Go icon for a more classic one
+* Changed Go icon for a more classic one and support for `go.mod` file
+* Added support for Objective-C language ID
+* Added support for Objective-C++ language ID and `*.mm`
+* Added support for batch files
 
 # v2.1.98 (2023-09-03)
 
