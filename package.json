@@ -2,14 +2,20 @@
 	"name": "vscode-great-icons",
 	"displayName": "VSCode Great Icons",
 	"description": "A big pack of icons (200+) for your files.",
-	"version": "2.1.103",
+	"version": "3.0.0",
 	"publisher": "emmanuelbeziat",
 	"engines": {
 		"vscode": "^1.70.0"
 	},
 	"scripts": {
-		"publish": "vsce publish",
-		"patch": "vsce publish patch"
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"prepublish": "npm run compile",
+		"optimize:svg": "svgo -f ./icons",
+		"optimize:png": "pngquant --quality=65-90 ./icons/*.png",
+		"vsce:publish": "vsce publish",
+		"vsce:patch": "vsce publish patch",
+		"vsce:package": "vsce package"
 	},
 	"categories": [
 		"Other",
@@ -24,6 +30,10 @@
 			}
 		]
 	},
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"main": "./dist/extension.js",
 	"icon": "images/vscode-great-icons_icon.png",
 	"galleryBanner": {
 		"color": "#e0e0e0",
@@ -50,6 +60,11 @@
 	},
 	"homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
 	"devDependencies": {
-		"@vscode/vsce": "^2.24.0"
+		"@types/node": "^20.12.5",
+		"@types/vscode": "^1.88.0",
+		"@vscode/vsce": "^2.24.0",
+		"pngquant": "^4.2.0",
+		"svgo": "^3.2.0",
+		"typescript": "^5.4.4"
 	}
 }

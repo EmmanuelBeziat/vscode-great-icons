@@ -11,8 +11,10 @@ node_modules/**
 npm-debug.*
 ISSUE_TEMPLATE.md
 logo.png
+logo.svg
 yarn.lock
 tsconfig.json
+vsc-extension-quickstart.md
 tslint.json
 **/*.map
 .vscode
