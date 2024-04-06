@@ -8,9 +8,8 @@
 		"vscode": "^1.70.0"
 	},
 	"scripts": {
-		"compile": "tsc -p ./",
+		"build": "tsc && node ./dist/extension.js",
 		"watch": "tsc -watch -p ./",
-		"prepublish": "npm run compile",
 		"optimize:svg": "svgo -f ./icons",
 		"optimize:png": "pngquant --quality=65-90 ./icons/*.png",
 		"vsce:publish": "vsce publish",

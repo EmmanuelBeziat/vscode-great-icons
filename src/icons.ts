@@ -1,14 +1,20 @@
+import { readdirSync } from "fs";
 import { Icon } from "./types/Icon";
 
+const array: string[] = [];
+readdirSync("icons").forEach((file) => array.push(file.split(".")[0]));
 
-function icon (name: string): Icon {
-	return {[`_f_${name}`]: { iconPath: `./icons/${name}.svg` }};
+const folderList: Icon = array.reduce((acc, name) => {
+	return { ...acc, [`${name}`]: { iconPath: `./icons/folders/${name}.svg` }}
+}, {});
+
+const iconList: Icon = array.reduce((acc, name) => {
+  return { ...acc, [`${name}`]: { iconPath: `./icons/${name}.svg` } };
+}, {});
+
+const icons = {
+	...folderList,
+	...iconList,
 }
-
-function folder (name: string): Icon {
-	return {[`_fd_${name}`]: { iconPath: `./icons/folders/${name}.svg` }};
-}
-
-const icons = {}
 
 export default icons;
