@@ -194,6 +194,7 @@
 		"_f_editorconfig": { "iconPath": "./icons/editorconfig.png" },
 		"_f_json5": { "iconPath": "./icons/json5.svg" },
 		"_f_graphql": { "iconPath": "./icons/graphql.svg" },
+		"_f_graphqls": { "iconPath": "./icons/graphqls.svg" },
 		"_f_prettier": { "iconPath": "./icons/prettier.svg" },
 		"_f_cuda": { "iconPath": "./icons/cuda.svg" },
 		"_f_foxpro": { "iconPath": "./icons/foxpro.png" },
@@ -267,7 +268,12 @@
 		"_f_cython": { "iconPath": "./icons/cython.svg" },
 		"_f_cypress": { "iconPath": "./icons/cypress.svg" },
 		"_f_objectivec": { "iconPath": "./icons/objectivec.svg" },
-		"_f_objectivecpp": { "iconPath": "./icons/objectivecpp.svg" }
+		"_f_objectivecpp": { "iconPath": "./icons/objectivecpp.svg" },
+		"_f_flowtyped": { "iconPath": "./icons/flow.svg" },
+		"_f_vr": { "iconPath": "./icons/vr.svg" },
+		"_f_prql": { "iconPath": "./icons/database2.svg" },
+		"_f_prolog": { "iconPath": "./icons/swi-prolog.svg" },
+		"_f_groovy": { "iconPath": "./icons/groovy.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -590,6 +596,8 @@
 		"env.local": "_f_dotenv",
 		"env.local.example": "_f_dotenv",
 		"env.test": "_f_dotenv",
+		"env.accept": "_f_dotenv",
+		"env.acceptance": "_f_dotenv",
 		"env.staging": "_f_dotenv",
 		"env.staging.example": "_f_dotenv",
 		"env.dev": "_f_dotenv",
@@ -743,6 +751,8 @@
 		"json5": "_f_json5",
 		"gql": "_f_graphql",
 		"graphql": "_f_graphql",
+		"gqls": "_f_graphqls",
+		"graphqls": "_f_graphqls",
 		"m": "_f_matlab-alt",
 		"cu": "_f_cuda",
 		"kt": "_f_kotlin",
@@ -878,7 +888,18 @@
 		"cy.js": "_f_cypress",
 		"cy.ts": "_f_cypress",
 		"cy.jsx": "_f_cypress",
-		"mm": "_f_objectivecpp"
+		"mm": "_f_objectivecpp",
+		"vr.js": "_f_vr",
+		"vr.ts": "_f_vr",
+		"vr.jsx": "_f_vr",
+		"vr.cjs": "_f_vr",
+		"sqlbook": "_f_database",
+		"pro": "_f_prolog",
+		"mocha.js": "_f_mocha",
+		"mocha.ts": "_f_mocha",
+		"mocha.cjs": "_f_mocha",
+		"groovy": "_f_groovy",
+		"jenkinsfile": "_f_jenkinsfile"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -891,6 +912,8 @@
 		"makefile": "_f_settings-red",
 		"rakefile": "_f_ruby",
 		"docker-compose.yml": "_f_docker",
+		"docker.yml": "_f_docker",
+		"docker.yaml": "_f_docker",
 		"dockerfile": "_f_docker",
 		"dockerfile.environment": "_f_docker",
 		"environment.dockerfile": "_f_docker",
@@ -1157,7 +1180,9 @@
 		"cypress.config.ts": "_f_cypress",
 		"cypress.config.jsx": "_f_cypress",
 		"cypress.env.json": "_f_cypress",
-		"go.mod": "_f_go"
+		"go.mod": "_f_go",
+		"flow-typed.config.json": "_f_flowtyped",
+		"poetry.lock": "_f_toml",
 	},
 	"languageIds": {
 		"apache": "_f_apache",
@@ -1262,6 +1287,10 @@
 		"cython": "_f_cython",
 		"cypress": "_f_cypress",
 		"objective-c": "_f_objectivec",
-		"objective-cpp": "_f_objectivecpp"
+		"objective-cpp": "_f_objectivecpp",
+		"sqlbook": "_f_database",
+		"prql": "_f_prql",
+		"prolog": "_f_prolog",
+		"groovy": "_f_groovy"
 	}
 }

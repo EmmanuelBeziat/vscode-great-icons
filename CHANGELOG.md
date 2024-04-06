@@ -1,3 +1,20 @@
+# v2.1.103 (2024-04-06)
+
+* Extended support for `.env` files with `accept` and `acceptance`
+* Extended support for `*.jenkinsfile` files
+* Upgraded C icon (thanks @sunbines)
+* Added `poetry.lock` support
+* Extended docker support for `docker.yml` and `docker.yaml`
+* Added support for Groovy
+* Extended support for mocha test files format
+* Added partial support for swi-prolog files with `*.pro` extension
+* Extended support for graphql extensions with schema files `*.graphqls` and `*.gqls`
+* Added support for PRQL format `*.prql`
+* Added support for SQLbook `*.sqlbook`
+* Added support for VR test `*.vr.js`, `*.vr.ts`, `*.vr.cjs`
+* Added support for flow-typed `flow-typed.config.json`
+
+
 # v2.1.99 & v2.1.100 & v2.1.101 & v2.1.102 (2023-09-18)
 
 * Added support for cypress, with folder, files with `*.cy.{js,ts,jsx}`, and config files.
