@@ -165,7 +165,7 @@
 		"_f_vitejs": { "iconPath": "./icons/vitejs.svg" },
 		"_f_snowpackjs": { "iconPath": "./icons/snowpackjs.svg" },
 		"_f_webpack": { "iconPath": "./icons/webpack.svg" },
-		"_f_yaml": { "iconPath": "./icons/yaml.svg" },
+		"_f_yaml": { "iconPath": "./icons/yml.svg" },
 		"_f_yarn": { "iconPath": "./icons/yarn.svg" },
 		"_f_zephir": { "iconPath": "./icons/zephir.svg" },
 		"_f_zip": { "iconPath": "./icons/zip.svg" },
