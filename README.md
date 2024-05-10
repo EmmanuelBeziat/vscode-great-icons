@@ -4,7 +4,7 @@ A big pack of icons (200+) for your files.
 
 ![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/main/images/preview.png)
 
-** And many more! This preview is not exhaustive!**
+**And many more! This preview is not exhaustive!**
 
 Enjoy ☺
 
