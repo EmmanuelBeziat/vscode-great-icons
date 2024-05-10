@@ -1,3 +1,13 @@
+# v3.0.0 (2024-00-00)
+
+Full rework of the plugin, using Typescript to generate the icons.json file. It should allow for more easy integration of new icons and format, as long as providing new features, such as customization and settings.
+
+# v2.1.104 (2024-04-08)
+
+* Extended support for esling new formats eslint.config.{js,mjs,cjs}. Thanks @lmeysel
+* Changed icon for C#.
+* Added support for Valgrind suppression files (*.supp). Thanks @kosude
+
 # v2.1.103 (2024-04-06)
 
 * Extended support for `.env` files with `accept` and `acceptance`
