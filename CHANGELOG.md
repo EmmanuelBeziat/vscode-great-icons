@@ -1,3 +1,7 @@
+# v2.1.105 (2024-05-10)
+
+* New preview image
+
 # v2.1.104 (2024-04-08)
 
 * Extended support for esling new formats `eslint.config.{js,mjs,cjs}`. Thanks @lmeysel
