@@ -2,7 +2,7 @@
 
 A big pack of icons (200+) for your files.
 
-![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
+![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/main/images/preview.jpg)
 
 (**!! This image is non-exhaustive and is not up to date !!**)
 
