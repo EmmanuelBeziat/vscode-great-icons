@@ -273,7 +273,8 @@
 		"_f_vr": { "iconPath": "./icons/vr.svg" },
 		"_f_prql": { "iconPath": "./icons/database2.svg" },
 		"_f_prolog": { "iconPath": "./icons/swi-prolog.svg" },
-		"_f_groovy": { "iconPath": "./icons/groovy.svg" }
+		"_f_groovy": { "iconPath": "./icons/groovy.svg" },
+		"_f_unocss": { "iconPath": "./icons/unocss.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -1189,6 +1190,10 @@
 		"go.mod": "_f_go",
 		"flow-typed.config.json": "_f_flowtyped",
 		"poetry.lock": "_f_toml",
+		"uno.config.js": "_f_unocss",
+		"uno.config.ts": "_f_unocss",
+		"uno.config.mjs": "_f_unocss",
+		"uno.config.mts": "_f_unocss"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
@@ -1297,6 +1302,7 @@
 		"sqlbook": "_f_database",
 		"prql": "_f_prql",
 		"prolog": "_f_prolog",
-		"groovy": "_f_groovy"
+		"groovy": "_f_groovy",
+		"unocss": "_f_unocss"
 	}
 }
