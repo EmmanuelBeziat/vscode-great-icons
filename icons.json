@@ -273,7 +273,8 @@
 		"_f_vr": { "iconPath": "./icons/vr.svg" },
 		"_f_prql": { "iconPath": "./icons/database2.svg" },
 		"_f_prolog": { "iconPath": "./icons/swi-prolog.svg" },
-		"_f_groovy": { "iconPath": "./icons/groovy.svg" }
+		"_f_groovy": { "iconPath": "./icons/groovy.svg" },
+		"_f_unocss": { "iconPath": "./icons/unocss.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -970,6 +971,9 @@
 		"vite.config.js": "_f_vitejs",
 		"vite.config.ts": "_f_vitejs",
 		"vite.config.cjs": "_f_vitejs",
+		"vite.config.cts": "_f_vitejs",
+		"vite.config.mjs": "_f_vitejs",
+		"vite.config.mts": "_f_vitejs",
 		"snowpack.config.js": "_f_snowpackjs",
 		"snowpack.config.ts": "_f_snowpackjs",
 		"snowpack.config.cjs": "_f_snowpackjs",
@@ -1141,6 +1145,9 @@
 		"vitest.config.js": "_f_vitest",
 		"vitest.config.ts": "_f_vitest",
 		"vitest.config.cjs": "_f_vitest",
+		"vitest.config.cts": "_f_vitest",
+		"vitest.config.mjs": "_f_vitest",
+		"vitest.config.mts": "_f_vitest",
 		"turbo.json": "_f_turborepo",
 		"tailwind.js": "_f_tailwind",
 		"tailwind.ts": "_f_tailwind",
@@ -1183,6 +1190,10 @@
 		"go.mod": "_f_go",
 		"flow-typed.config.json": "_f_flowtyped",
 		"poetry.lock": "_f_toml",
+		"uno.config.js": "_f_unocss",
+		"uno.config.ts": "_f_unocss",
+		"uno.config.mjs": "_f_unocss",
+		"uno.config.mts": "_f_unocss"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
@@ -1291,6 +1302,7 @@
 		"sqlbook": "_f_database",
 		"prql": "_f_prql",
 		"prolog": "_f_prolog",
-		"groovy": "_f_groovy"
+		"groovy": "_f_groovy",
+		"unocss": "_f_unocss"
 	}
 }
