@@ -59,11 +59,11 @@
 	},
 	"homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
 	"devDependencies": {
-		"@types/node": "^20.12.5",
-		"@types/vscode": "^1.88.0",
-		"@vscode/vsce": "^2.24.0",
+		"@types/node": "^22.1.0",
+		"@types/vscode": "^1.92.0",
+		"@vscode/vsce": "^2.31.1",
 		"pngquant": "^4.2.0",
-		"svgo": "^3.2.0",
-		"typescript": "^5.4.4"
+		"svgo": "^3.3.2",
+		"typescript": "^5.5.4"
 	}
 }
