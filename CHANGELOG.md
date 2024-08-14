@@ -1,3 +1,8 @@
+# v2.1.106 (2024-08-14)
+
+* Added support for OpenCL (`*.cl`)
+* Extended support for folders (`(_)data`, `(_)layout(s)`, `(_)service(s)`, `src`, `pages`, `(_)util(s)`)
+
 # v2.1.105 (2024-05-10)
 
 * New preview image

@@ -40,6 +40,12 @@
 		"_fd_app-open": { "iconPath": "./icons/folders/app-open.svg" },
 		"_fd_cypress": { "iconPath": "./icons/folders/cypress.svg"},
 		"_fd_cypress-open": { "iconPath": "./icons/folders/cypress-open.svg"},
+		"_fd_src": { "iconPath": "./icons/folders/src.svg" },
+		"_fd_src-open": { "iconPath": "./icons/folders/src-open.svg" },
+		"_fd_layout": { "iconPath": "./icons/folders/layout.svg" },
+		"_fd_layout-open": { "iconPath": "./icons/folders/layout-open.svg" },
+		"_fd_services": { "iconPath": "./icons/folders/services.svg" },
+		"_fd_services-open": { "iconPath": "./icons/folders/services-open.svg" },
 		"_f_jest": { "iconPath": "./icons/jest.svg" },
 		"_f_actionscript": { "iconPath": "./icons/actionscript.png" },
 		"_f_android": { "iconPath": "./icons/android.svg" },
@@ -274,7 +280,8 @@
 		"_f_prql": { "iconPath": "./icons/database2.svg" },
 		"_f_prolog": { "iconPath": "./icons/swi-prolog.svg" },
 		"_f_groovy": { "iconPath": "./icons/groovy.svg" },
-		"_f_unocss": { "iconPath": "./icons/unocss.svg" }
+		"_f_unocss": { "iconPath": "./icons/unocss.svg" },
+		"_f_nvidia": { "iconPath": "./icons/nvidia.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -301,9 +308,13 @@
 		"benches": "_fd_bench",
 		"bower_components": "_fd_bower",
 		"build": "_fd_build",
+		"utils": "_fd_build",
+		"_utils": "_fd_build",
 		"config": "_fd_bench",
 		"cypress": "_fd_cypress",
 		"db": "_fd_db",
+		"_data": "_fd_db",
+		"data": "_fd_db",
 		"database": "_fd_db",
 		"databases": "_fd_db",
 		"i18n": "_fd_i18n",
@@ -325,8 +336,20 @@
 		"tests": "_fd_tests",
 		"theme": "_fd_theme",
 		"themes": "_fd_theme",
+		"styles": "_fd_theme",
 		"view": "_fd_views",
-		"views": "_fd_views"
+		"views": "_fd_views",
+		"layout": "_fd_layout",
+		"layouts": "_fd_layout",
+		"_layout": "_fd_layout",
+		"_layouts": "_fd_layout",
+		"service": "_fd_services",
+		"services": "_fd_services",
+		"_service": "_fd_services",
+		"_services": "_fd_services",
+		"src": "_fd_src",
+		"source": "_fd_src",
+		"sources": "_fd_src"
 	},
 	"folderNamesExpanded": {
 		".build": "_fd_build-open",
@@ -349,8 +372,12 @@
 		"build": "_fd_build-open",
 		"bower_components": "_fd_bower-open",
 		"config": "_fd_build-open",
+		"utils": "_fd_build-open",
+		"_utils": "_fd_build-open",
 		"cypress": "_fd_cypress-open",
 		"db": "_fd_db-open",
+		"_data": "_fd_db-open",
+		"data": "_fd_db-open",
 		"database": "_fd_db-open",
 		"databases": "_fd_db-open",
 		"i18n": "_fd_i18n-open",
@@ -372,8 +399,20 @@
 		"tests": "_fd_tests-open",
 		"theme": "_fd_theme-open",
 		"themes": "_fd_theme-open",
+		"styles": "_fd_theme-open",
 		"view": "_fd_views-open",
-		"views": "_fd_views-open"
+		"views": "_fd_views-open",
+		"layout": "_fd_layout-open",
+		"layouts": "_fd_layout-open",
+		"_layout": "_fd_layout-open",
+		"_layouts": "_fd_layout-open",
+		"src": "_fd_src-open",
+		"source": "_fd_src-open",
+		"sources": "_fd_src-open",
+		"service": "_fd_services-open",
+		"services": "_fd_services-open",
+		"_service": "_fd_services-open",
+		"_services": "_fd_services-open"
 	},
 	"fileExtensions": {
 		"ai": "_f_illustrator",
@@ -900,7 +939,8 @@
 		"mocha.ts": "_f_mocha",
 		"mocha.cjs": "_f_mocha",
 		"groovy": "_f_groovy",
-		"jenkinsfile": "_f_jenkinsfile"
+		"jenkinsfile": "_f_jenkinsfile",
+		"cl": "_f_nvidia"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1303,6 +1343,7 @@
 		"prql": "_f_prql",
 		"prolog": "_f_prolog",
 		"groovy": "_f_groovy",
-		"unocss": "_f_unocss"
+		"unocss": "_f_unocss",
+		"opencl": "_f_nvidia"
 	}
 }
