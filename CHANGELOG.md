@@ -1,3 +1,8 @@
+# v2.1.107 (2024-09-16)
+
+* Extended support for tests files, with notably `*.test-d.{js,cjs,ts,tsx}`
+* That's my birthday. Just so you know.
+
 # v2.1.106 (2024-08-14)
 
 * Added support for OpenCL (`*.cl`)
