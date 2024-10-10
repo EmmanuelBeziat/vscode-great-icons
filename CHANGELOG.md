@@ -1,3 +1,7 @@
+# v2.1.108 (2024-10-10)
+
+* Added support for cursor settings file (`.cursorrule`)
+
 # v2.1.107 (2024-09-16)
 
 * Extended support for tests files, with notably `*.test-d.{js,cjs,ts,tsx}`

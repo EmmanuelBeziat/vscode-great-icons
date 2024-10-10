@@ -281,7 +281,8 @@
 		"_f_prolog": { "iconPath": "./icons/swi-prolog.svg" },
 		"_f_groovy": { "iconPath": "./icons/groovy.svg" },
 		"_f_unocss": { "iconPath": "./icons/unocss.svg" },
-		"_f_nvidia": { "iconPath": "./icons/nvidia.svg" }
+		"_f_nvidia": { "iconPath": "./icons/nvidia.svg" },
+		"_f_cursor": { "iconPath": "./icons/cursor.png" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -1243,7 +1244,8 @@
 		"uno.config.js": "_f_unocss",
 		"uno.config.ts": "_f_unocss",
 		"uno.config.mjs": "_f_unocss",
-		"uno.config.mts": "_f_unocss"
+		"uno.config.mts": "_f_unocss",
+		".cursorrule": "_f_cursor"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
