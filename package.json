@@ -8,9 +8,10 @@
 		"vscode": "^1.70.0"
 	},
 	"scripts": {
-		"publish": "vsce publish",
-		"patch": "vsce publish patch"
-	},
+		"publish": "npm run patch",
+    "patch": "vsce publish patch && npm run relase"
+		"release": "git tag -a v$(node -p \"require('./package.json').version\") -m \"Release version $(node -p \"require('./package.json').version\")\" && git push origin v$(node -p \"require('./package.json').version\")"
+	}
 	"categories": [
 		"Other",
 		"Themes"
