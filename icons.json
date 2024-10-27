@@ -282,7 +282,8 @@
 		"_f_groovy": { "iconPath": "./icons/groovy.svg" },
 		"_f_unocss": { "iconPath": "./icons/unocss.svg" },
 		"_f_nvidia": { "iconPath": "./icons/nvidia.svg" },
-		"_f_cursor": { "iconPath": "./icons/cursor.png" }
+		"_f_cursor": { "iconPath": "./icons/cursor.png" },
+		"_f_cue": { "iconPath": "./icons/cue.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -951,7 +952,8 @@
 		"mocha.cjs": "_f_mocha",
 		"groovy": "_f_groovy",
 		"jenkinsfile": "_f_jenkinsfile",
-		"cl": "_f_nvidia"
+		"cl": "_f_nvidia",
+		"cue": "_f_cue"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1245,7 +1247,7 @@
 		"uno.config.ts": "_f_unocss",
 		"uno.config.mjs": "_f_unocss",
 		"uno.config.mts": "_f_unocss",
-		".cursorrule": "_f_cursor"
+		".cursorrules": "_f_cursor"
 	},
 	"languageIds": {
 		"apache": "_f_apache",
@@ -1356,6 +1358,7 @@
 		"prolog": "_f_prolog",
 		"groovy": "_f_groovy",
 		"unocss": "_f_unocss",
-		"opencl": "_f_nvidia"
+		"opencl": "_f_nvidia",
+		"cue": "_f_cue"
 	}
 }

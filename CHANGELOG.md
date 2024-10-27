@@ -1,3 +1,8 @@
+# v2.1.109 (2024-10-27)
+
+* Debugged icton for cursor settings
+* Added support for cue (`*.cue`)
+
 # v2.1.108 (2024-10-10)
 
 * Added support for cursor settings file (`.cursorrule`)
