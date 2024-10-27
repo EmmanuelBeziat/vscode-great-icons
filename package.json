@@ -2,14 +2,14 @@
 	"name": "vscode-great-icons",
 	"displayName": "VSCode Great Icons",
 	"description": "A big pack of icons (200+) for your files.",
-	"version": "2.1.108",
+	"version": "2.1.109",
 	"publisher": "emmanuelbeziat",
 	"engines": {
 		"vscode": "^1.70.0"
 	},
 	"scripts": {
 		"publish": "npm run patch",
-    "patch": "vsce publish patch && npm run relase",
+		"patch": "vsce publish patch && npm run relase",
 		"release": "git tag -a v$(node -p \"require('./package.json').version\") -m \"Release version $(node -p \"require('./package.json').version\")\" && git push origin v$(node -p \"require('./package.json').version\")"
 	},
 	"categories": [
