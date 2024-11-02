@@ -1,3 +1,7 @@
+# v2.1.110 (2023-11-02)
+
+* Better icon for cueq
+
 # v2.1.109 (2024-10-27)
 
 * Debugged icton for cursor settings
