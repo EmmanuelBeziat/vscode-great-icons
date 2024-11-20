@@ -1,4 +1,9 @@
-# v2.1.110 (2023-11-02)
+# v2.1.111 (2024-11-20)
+
+* New official CSS icon
+* Image folder used for `pics`, `pictures` and `icons` foldernames
+
+# v2.1.110 (2024-11-02)
 
 * Better icon for cueq
 
