@@ -1,3 +1,8 @@
+# v2.1.112 (2025-01-07)
+
+* Extended support for config folders (`config`, `conf`, `configs`)
+* Added support for Denizen (`*.dsc`)
+
 # v2.1.111 (2024-11-20)
 
 * New official CSS icon
