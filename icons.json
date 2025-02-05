@@ -284,7 +284,8 @@
 		"_f_nvidia": { "iconPath": "./icons/nvidia.svg" },
 		"_f_cursor": { "iconPath": "./icons/cursor.png" },
 		"_f_cue": { "iconPath": "./icons/cue.svg" },
-		"_f_denizen": { "iconPath": "./icons/denizen.png" }
+		"_f_denizen": { "iconPath": "./icons/denizen.png" },
+		"_f_taskfile": { "iconPath": "./icons/taskfile.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -1259,7 +1260,19 @@
 		"uno.config.ts": "_f_unocss",
 		"uno.config.mjs": "_f_unocss",
 		"uno.config.mts": "_f_unocss",
-		".cursorrules": "_f_cursor"
+		".cursorrules": "_f_cursor",
+		"Taskfile.yml": "_f_taskfile",
+		"taskfile.yml": "_f_taskfile",
+		"Taskfile.yaml": "_f_taskfile",
+		"taskfile.yaml": "_f_taskfile",
+		"Taskfile.dev.yml": "_f_taskfile",
+		"taskfile.dev.yml": "_f_taskfile",
+		"Taskfile.dev.yaml": "_f_taskfile",
+		"taskfile.dev.yaml": "_f_taskfile",
+		"Taskfile.dist.yml": "_f_taskfile",
+		"taskfile.dist.yml": "_f_taskfile",
+		"Taskfile.dist.yaml": "_f_taskfile",
+		"taskfile.dist.yaml": "_f_taskfile"
 	},
 	"languageIds": {
 		"apache": "_f_apache",

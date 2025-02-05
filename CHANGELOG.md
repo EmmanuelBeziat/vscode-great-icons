@@ -1,3 +1,7 @@
+# v2.1.113 (2025-02-05)
+
+* Added support for taskfile (`taskfile{.dev|.dist}.{yml|yaml}`)
+
 # v2.1.112 (2025-01-07)
 
 * Extended support for config folders (`config`, `conf`, `configs`)
