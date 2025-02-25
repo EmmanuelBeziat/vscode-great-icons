@@ -8,7 +8,7 @@ A big pack of icons (200+) for your files.
 
 Enjoy ☺
 
-> Wow, we passed the 1 million installations! I’m proud that ya’ll appreciate my little set. I keep receiving very kind reviews from users. Thank you very much!
+> Wow, we passed the 2 millions installations! I’m proud that ya’ll appreciate my little set. I keep receiving very kind reviews from users. Thank you very much!
 
 ## How to use
 
@@ -24,7 +24,6 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Follow me
 
-* [Twitter](https://twitter.com/EmmanuelBeziat)
+* [BlueSky](https://bsky.app/profile/emmanuelbeziat.bsky.social)
 * [GitHub](https://github.com/EmmanuelBeziat)
-* [CodePen](http://codepen.io/EmmanuelBeziat)
 * [Site](https://www.emmanuelbeziat.com)(fr)
