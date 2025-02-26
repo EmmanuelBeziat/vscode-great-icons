@@ -1,13 +1,11 @@
+# v2.1.115 (2025-02-26)
+
+* Debugged conf icons folder
+* Debugged changelog error
+
 # v2.1.114 (2025-02-25)
 
 * Changed icon for Verilog, and extended support (`*.v`, `*.vo`, `*.vh`, `*.sv`, `*.svh`, `*.vhd`, `*.vhdl`, `*.vlg`, `*.verilog`)
-"v": "_f_verilog",
-		"vo": "_f_verilog",
-		"vh": "_f_verilog_sys",
-		"sv": "_f_verilog_sys",
-		"svh": "_f_verilog_sys",
-		"vhd": "_f_verilog",
-		"vhdl": "_f_verilog",
 
 # v2.1.113 (2025-02-05)
 
