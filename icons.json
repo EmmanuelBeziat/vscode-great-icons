@@ -308,7 +308,7 @@
 		"bak": "_fd_save",
 		"backup": "_fd_save",
 		"backups": "_fd_save",
-    "bench": "_fd_bench",
+		"bench": "_fd_bench",
 		"benches": "_fd_bench",
 		"bower_components": "_fd_bower",
 		"build": "_fd_build",
