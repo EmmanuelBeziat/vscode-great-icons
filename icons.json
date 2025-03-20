@@ -285,7 +285,9 @@
 		"_f_cursor": { "iconPath": "./icons/cursor.png" },
 		"_f_cue": { "iconPath": "./icons/cue.svg" },
 		"_f_denizen": { "iconPath": "./icons/denizen.png" },
-		"_f_taskfile": { "iconPath": "./icons/taskfile.svg" }
+		"_f_taskfile": { "iconPath": "./icons/taskfile.svg" },
+		"_f_typst": { "iconPath": "./icons/typst.svg" },
+		"_f_tarkine": { "iconPath": "./icons/tarkine.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -945,6 +947,7 @@
 		"axaml": "_f_avalonia",
 		"axaml.cs": "_f_avalonia",
 		"model.ts": "_f_model",
+		"interface.ts": "_f_model",
 		"model.js": "_f_model",
 		"xi": "_f_xi",
 		"zig": "_f_zig",
@@ -969,7 +972,9 @@
 		"jenkinsfile": "_f_jenkinsfile",
 		"cl": "_f_nvidia",
 		"cue": "_f_cue",
-		"dsc": "_f_denizen"
+		"dsc": "_f_denizen",
+		"typ": "_f_typst",
+		"tark": "_f_tarkine"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1388,6 +1393,8 @@
 		"unocss": "_f_unocss",
 		"opencl": "_f_nvidia",
 		"cue": "_f_cue",
-		"dsc": "_f_denizen"
+		"dsc": "_f_denizen",
+		"tarkine": "_f_tarkine",
+		"typst": "_f_typst"
 	}
 }

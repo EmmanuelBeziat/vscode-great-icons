@@ -1,3 +1,9 @@
+# v2.1.116 (2025-03-20)
+
+* Added support for typst (`*.typ`)
+* Added support for typescript (`*.interface.ts`)
+* Added support for tarkine (*.tark`)
+
 # v2.1.115 (2025-02-26)
 
 * Debugged conf icons folder
