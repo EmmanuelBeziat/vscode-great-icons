@@ -1,3 +1,8 @@
+# v2.1.117 (2025-05-03)
+
+* Extended support for Docker (`.containerignore`)
+* Added support for SignalStore (`*.actions.{ts|js|jsx|cjs}`, `*.reducer.{ts|js|jsx|cjs}`, `*.selectors.{ts|js|jsx|cjs}`, `*.effects.{ts|js|jsx|cjs}`)
+
 # v2.1.116 (2025-03-20)
 
 * Added support for typst (`*.typ`)

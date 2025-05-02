@@ -287,7 +287,7 @@
 		"_f_denizen": { "iconPath": "./icons/denizen.png" },
 		"_f_taskfile": { "iconPath": "./icons/taskfile.svg" },
 		"_f_typst": { "iconPath": "./icons/typst.svg" },
-		"_f_tarkine": { "iconPath": "./icons/tarkine.svg" }
+		"_f_signalstore": { "iconPath": "./icons/ngrx.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -474,6 +474,7 @@
 		"cshtml": "_f_razor",
 		"csproj": "_f_visualstudio",
 		"css": "_f_css",
+		"containerignore": "_f_docker",
 		"dockerignore": "_f_docker",
 		"dockerfile": "_f_docker",
 		"dockerfile.environment": "_f_docker",
@@ -974,7 +975,23 @@
 		"cue": "_f_cue",
 		"dsc": "_f_denizen",
 		"typ": "_f_typst",
-		"tark": "_f_tarkine"
+		"tark": "_f_tarkine",
+		"actions.ts": "_f_signalstore",
+		"actions.js": "_f_signalstore",
+		"actions.jsx": "_f_signalstore",
+		"actions.cjs": "_f_signalstore",
+		"reducer.ts": "_f_signalstore",
+		"reducer.js": "_f_signalstore",
+		"reducer.jsx": "_f_signalstore",
+		"reducer.cjs": "_f_signalstore",
+		"selectors.ts": "_f_signalstore",
+		"selectors.js": "_f_signalstore",
+		"selectors.jsx": "_f_signalstore",
+		"selectors.cjs": "_f_signalstore",
+		"effects.ts": "_f_signalstore",
+		"effects.js": "_f_signalstore",
+		"effects.jsx": "_f_signalstore",
+		"effects.cjs": "_f_signalstore"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
