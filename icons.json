@@ -864,6 +864,7 @@
 		"ls": "_f_livescript",
 		"stylelintrc": "_f_stylelint",
 		"stylelintignore": "_f_stylelint",
+		"stylelintcache": "_f_stylelint",
 		"htmlhintrc": "_f_settings",
 		"prisma": "_f_prisma",
 		"toml": "_f_toml",

@@ -1,3 +1,7 @@
+# v2.1.118 (2025-05-07)
+
+* Extended support for Stylelint (`.stylelintcache`)
+
 # v2.1.117 (2025-05-03)
 
 * Extended support for Docker (`.containerignore`)
