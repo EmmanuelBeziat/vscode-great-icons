@@ -1,3 +1,7 @@
+# v2.1.119 (2025-05-20)
+
+* Debug icon for tarking
+
 # v2.1.118 (2025-05-07)
 
 * Extended support for Stylelint (`.stylelintcache`)

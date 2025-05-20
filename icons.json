@@ -287,7 +287,8 @@
 		"_f_denizen": { "iconPath": "./icons/denizen.png" },
 		"_f_taskfile": { "iconPath": "./icons/taskfile.svg" },
 		"_f_typst": { "iconPath": "./icons/typst.svg" },
-		"_f_signalstore": { "iconPath": "./icons/ngrx.svg" }
+		"_f_signalstore": { "iconPath": "./icons/ngrx.svg" },
+		"_f_tarkine": { "iconPath": "./icons/tarkine.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
