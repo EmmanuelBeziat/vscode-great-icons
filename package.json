@@ -50,6 +50,6 @@
 	},
 	"homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
 	"devDependencies": {
-		"@vscode/vsce": "^3.3.2"
+		"@vscode/vsce": "^3.4.1"
 	}
 }
