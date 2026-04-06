@@ -295,7 +295,10 @@
 		"_f_signalstore": { "iconPath": "./icons/ngrx.svg" },
 		"_f_tarkine": { "iconPath": "./icons/tarkine.svg" },
 		"_f_lit": { "iconPath": "./icons/lit.svg" },
-		"_f_cocos": { "iconPath": "./icons/cocos.svg" }
+		"_f_cocos": { "iconPath": "./icons/cocos.svg" },
+		"_f_excalidraw": { "iconPath": "./icons/excalidraw.svg" },
+		"_f_plantuml": { "iconPath": "./icons/plantuml.svg" },
+		"_f_pylite": { "iconPath": "./icons/python-lite.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -1012,8 +1015,18 @@
 		"lit.ts": "_f_lit",
 		"lit.cjs": "_f_lit",
 		"lit.jsx": "_f_lit",
-		".prefab": "_f_cocos",
-		".scene": "_f_cocos"
+		"prefab": "_f_cocos",
+		"scene": "_f_cocos",
+		"excalidraw": "_f_excalidraw",
+		"excalidraw.png": "_f_excalidraw",
+		"excalidraw.jpg": "_f_excalidraw",
+		"excalidraw.jpeg": "_f_excalidraw",
+		"excalidraw.svg": "_f_excalidraw",
+		"excalidraw.webp": "_f_excalidraw",
+		"excalidraw.avif": "_f_excalidraw",
+		"puml": "_f_plantuml",
+		"plantuml": "_f_plantuml",
+		"pyl": "_f_pylite"
 	},
 	"fileNames": {
 		"androidmanifest.xml": "_f_android",
@@ -1438,6 +1451,9 @@
 		"dsc": "_f_denizen",
 		"tarkine": "_f_tarkine",
 		"typst": "_f_typst",
-		"lit": "_f_lit"
+		"lit": "_f_lit",
+		"excalidraw": "_f_excalidraw",
+		"plantuml": "_f_plantuml",
+		"pylite": "_f_pylite"
 	}
 }

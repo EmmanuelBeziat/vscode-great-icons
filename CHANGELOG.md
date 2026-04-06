@@ -1,3 +1,11 @@
+# v2.1.121 (2026-04-07)
+
+* Added support for Excalidraw (`*.excalidraw`, `*.excakudraw.{png|jpg|jpeg|svg|avif|webp}` )
+* Updated GitLab logo. Thanks @kosude
+* Extended support for Godot (`.gd.uid`, `.gdshader`, `.gdshader.uid`, `.gdshaderinc`, `.gdshaderinc.uid`, `.godot`, `.tres`). Thanks @artmouse155
+* Added support for PlantUML (`*.puml`, `*.plantuml`)
+* Added support for PyLite (`*.pyl`)
+
 # v2.1.120 (2025-09-16)
 
 * Added support for Lit (`*.lit.{js|ts|jsx|cjs}`)
