@@ -5,7 +5,7 @@
 	"version": "2.1.120",
 	"publisher": "emmanuelbeziat",
 	"engines": {
-		"vscode": "^1.70.0"
+		"vscode": "^1.100.0"
 	},
 	"scripts": {
 		"publish": "npm run patch",
